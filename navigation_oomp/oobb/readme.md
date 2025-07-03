@@ -1,7 +1,0 @@
-* [part](part)
-  * [tool_holder_vertical](part/tool_holder_vertical)
-    * [1_width_1_height_11_mm_depth](part/tool_holder_vertical/1_width_1_height_11_mm_depth)
-      * [tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra](part/tool_holder_vertical/1_width_1_height_11_mm_depth/tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra)
-    * [9_width_3_height_12_mm_depth](part/tool_holder_vertical/9_width_3_height_12_mm_depth)
-      * [tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra](part/tool_holder_vertical/9_width_3_height_12_mm_depth/tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra)
-      * [tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra](part/tool_holder_vertical/9_width_3_height_12_mm_depth/tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra)

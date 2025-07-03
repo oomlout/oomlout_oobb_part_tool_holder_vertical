@@ -1,6 +1,0 @@
-* [slotted_head_2_5_mm](slotted_head_2_5_mm)
-  * [wera](slotted_head_2_5_mm/wera)
-    * [2035_series_05117994001](slotted_head_2_5_mm/wera/2035_series_05117994001)
-* [slotted_head_3_0_mm](slotted_head_3_0_mm)
-  * [wera](slotted_head_3_0_mm/wera)
-    * [2035_series_05117995001](slotted_head_3_0_mm/wera/2035_series_05117995001)

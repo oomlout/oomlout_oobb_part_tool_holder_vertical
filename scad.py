@@ -31,7 +31,7 @@ def make_scad(**kwargs):
         #default
         #filter = ""; save_type = "all"; navigation = True; overwrite = True; modes = ["3dpr"]; oomp_run = True; test = False
     elif typ == "fast":
-        
+        #navigation
         filter = ""; save_type = "none"; navigation = False; overwrite = True; modes = ["3dpr"]; oomp_run = False
         #default
         #filter = ""; save_type = "none"; navigation = False; overwrite = True; modes = ["3dpr"]; oomp_run = False
@@ -134,9 +134,23 @@ def make_scad(**kwargs):
             tool["offset_tool"] = [0,-10,0]
             tools.append(tool)
             tool = copy.deepcopy(tool)
+            
             tool["layered"] = True
             tools.append(tool)
 
+            tool = {}
+            tool["width"] = 9
+            tool["height"] = 4
+            tool["thickness"] = 9 + thickness_extra
+            tool["tool"] = "tool_screwdriver_bit_quarter_inch_drive"
+            tool["multiple"] = 8
+            tool["spacing"] = 15
+            tool["offset_tool"] = [0,-17.5,0]
+            tools.append(tool)
+            tool = copy.deepcopy(tool)
+            
+            tool["layered"] = True
+            tools.append(tool)
 
 
         for tool in tools:
@@ -343,7 +357,7 @@ def get_tool_cutout(thing, **kwargs):
         if True:
             parts = []
             p3 = copy.deepcopy(kwargs)
-            p3["type"] = "positive"
+            p3["type"] = "negative"
             p3["shape"] = f"oobb_cylinder"
             p3["radius"] = 8/2
             dep = 100
@@ -356,7 +370,7 @@ def get_tool_cutout(thing, **kwargs):
             rot1 = copy.deepcopy(rot)
             rot1[0] += -90
             p3["rot"] = rot1
-            p3["m"] = "#"
+            #p3["m"] = "#"
             parts.append(p3)
             tool["parts"] = parts
         tools["tool_screwdriver_bit_quarter_inch_drive"] = tool
