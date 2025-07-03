@@ -1,0 +1,300 @@
+bip_39_word_dash_12: symbol-cabin-clay-someone-crucial-stand-rifle-enlist-tornado-tired-razor-again
+bip_39_word_dash_2: symbol-cabin
+bip_39_word_dash_3: symbol-cabin-clay
+bip_39_word_new_br_12: symbol<br>cabin<br>clay<br>someone<br>crucial<br>stand<br>rifle<br>enlist<br>tornado<br>tired<br>razor<br>again
+bip_39_word_new_br_2: symbol<br>cabin
+bip_39_word_new_br_3: symbol<br>cabin<br>clay
+bip_39_word_new_line_12: 'symbol
+
+  cabin
+
+  clay
+
+  someone
+
+  crucial
+
+  stand
+
+  rifle
+
+  enlist
+
+  tornado
+
+  tired
+
+  razor
+
+  again'
+bip_39_word_new_line_2: 'symbol
+
+  cabin'
+bip_39_word_new_line_3: 'symbol
+
+  cabin
+
+  clay'
+bip_39_word_no_space_12: symbolcabinclaysomeonecrucialstandrifleenlisttornadotiredrazoragain
+bip_39_word_no_space_2: symbolcabin
+bip_39_word_no_space_3: symbolcabinclay
+bip_39_word_space_12: symbol cabin clay someone crucial stand rifle enlist tornado
+  tired razor again
+bip_39_word_space_2: symbol cabin
+bip_39_word_space_3: symbol cabin clay
+bip_39_word_underscore_12: symbol_cabin_clay_someone_crucial_stand_rifle_enlist_tornado_tired_razor_again
+bip_39_word_underscore_2: symbol_cabin
+bip_39_word_underscore_3: symbol_cabin_clay
+classification: tool
+classification_capital: Tool
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_length_1: t
+classification_length_2: to
+classification_length_3: too
+classification_length_4: tool
+classification_length_5: tool
+classification_length_6: tool
+classification_name: Tool
+classification_no_space_length_1: t
+classification_no_space_length_2: to
+classification_no_space_length_3: too
+classification_no_space_length_4: tool
+classification_no_space_length_5: tool
+classification_no_space_length_6: tool
+classification_no_space_upper_length_1: T
+classification_no_space_upper_length_2: TO
+classification_no_space_upper_length_3: TOO
+classification_no_space_upper_length_4: TOOL
+classification_no_space_upper_length_5: TOOL
+classification_no_space_upper_length_6: TOOL
+classification_upper: TOOL
+classification_upper_length_1: T
+classification_upper_length_2: TO
+classification_upper_length_3: TOO
+classification_upper_length_4: TOOL
+classification_upper_length_5: TOOL
+classification_upper_length_6: TOOL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 70_mm_width_150_mm_height_35_mm_depth
+description_main_capital: 70 mm Width 150 mm Height 35 mm Depth
+description_main_first_letter: '7'
+description_main_first_letter_upper: '7'
+description_main_length_1: '7'
+description_main_length_2: '70'
+description_main_length_3: '70_'
+description_main_length_4: 70_m
+description_main_length_5: 70_mm
+description_main_length_6: 70_mm_
+description_main_name: 70 mm Width 150 mm Height 35 mm Depth
+description_main_no_space_length_1: '7'
+description_main_no_space_length_2: '70'
+description_main_no_space_length_3: 70m
+description_main_no_space_length_4: 70mm
+description_main_no_space_length_5: 70mmw
+description_main_no_space_length_6: 70mmwi
+description_main_no_space_upper_length_1: '7'
+description_main_no_space_upper_length_2: '70'
+description_main_no_space_upper_length_3: 70M
+description_main_no_space_upper_length_4: 70MM
+description_main_no_space_upper_length_5: 70MMW
+description_main_no_space_upper_length_6: 70MMWI
+description_main_upper: 70_MM_WIDTH_150_MM_HEIGHT_35_MM_DEPTH
+description_main_upper_length_1: '7'
+description_main_upper_length_2: '70'
+description_main_upper_length_3: '70_'
+description_main_upper_length_4: 70_M
+description_main_upper_length_5: 70_MM
+description_main_upper_length_6: 70_MM_
+description_only_numbers: '7015035'
+description_only_numbers_short: 7M
+description_or_color: 7M
+description_or_color_upper: 7M
+directory: parts/tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
+id: tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
+id_no_class: stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
+id_no_color: 70mmwidth150mmheight35mmdepthstanleysth77404
+id_no_size: 70mmwidth150mmheight35mmdepthstanleysth77404
+id_no_type: 70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202xwmw
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202xwmw
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202xwmw
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202xwmw
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
+manufacturer: stanley
+manufacturer_capital: Stanley
+manufacturer_first_letter: s
+manufacturer_first_letter_upper: S
+manufacturer_length_1: s
+manufacturer_length_2: st
+manufacturer_length_3: sta
+manufacturer_length_4: stan
+manufacturer_length_5: stanl
+manufacturer_length_6: stanle
+manufacturer_name: Stanley
+manufacturer_no_space_length_1: s
+manufacturer_no_space_length_2: st
+manufacturer_no_space_length_3: sta
+manufacturer_no_space_length_4: stan
+manufacturer_no_space_length_5: stanl
+manufacturer_no_space_length_6: stanle
+manufacturer_no_space_upper_length_1: S
+manufacturer_no_space_upper_length_2: ST
+manufacturer_no_space_upper_length_3: STA
+manufacturer_no_space_upper_length_4: STAN
+manufacturer_no_space_upper_length_5: STANL
+manufacturer_no_space_upper_length_6: STANLE
+manufacturer_upper: STANLEY
+manufacturer_upper_length_1: S
+manufacturer_upper_length_2: ST
+manufacturer_upper_length_3: STA
+manufacturer_upper_length_4: STAN
+manufacturer_upper_length_5: STANL
+manufacturer_upper_length_6: STANLE
+manufacturers: []
+markdown_full: '[tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404](none)<br>[](none)<br>[Tool
+  Stud Finder 70 Mm Width 150 Mm Height 35 Mm Depth Stanley Sth77404](none)<br><br>'
+markdown_short: '[tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404](none)<br><br>'
+md5: 4b6578af2b4ad737521a3cf05447f6e3
+md5_10: 4b6578af2b
+md5_10_upper: 4B6578AF2B
+md5_5: 4b657
+md5_5_upper: 4B657
+md5_6: 4b6578
+md5_6_alpha: 2xwmw
+md5_6_alpha_upper: 2XWMW
+md5_6_upper: 4B6578
+name: Tool Stud Finder 70 mm Width 150 mm Height 35 mm Depth Stanley Sth77404
+name_no_class: Stud Finder 70 mm Width 150 mm Height 35 mm Depth Stanley Sth77404
+name_no_color: 70mmwidth150mmheight35mmdepthstanleysth77404
+name_no_size: 70mmwidth150mmheight35mmdepthstanleysth77404
+name_no_size_short: 70Mmwidth150Mmheight35Mmdepthstanleysth77404
+name_no_type: 70 mm Width 150 mm Height 35 mm Depth Stanley Sth77404
+oomlout_detail_hierarchy_1: tool
+oomlout_detail_hierarchy_1_upper: TOOL
+oomlout_detail_hierarchy_1_upper_length_4: TOOL
+oomlout_detail_hierarchy_2: stud_finder
+oomlout_detail_hierarchy_2_upper: STUD_FINDER
+oomlout_detail_hierarchy_2_upper_length_4: STUD
+oomlout_detail_hierarchy_3: 70_mm_width
+oomlout_detail_hierarchy_3_upper: 70_MM_WIDTH
+oomlout_detail_hierarchy_3_upper_length_4: 70WI
+oomlout_detail_hierarchy_4: 150_mm_height
+oomlout_detail_hierarchy_4_upper: 150_MM_HEIGHT
+oomlout_detail_hierarchy_4_upper_length_4: 150H
+oomlout_detail_hierarchy_5: 35_mm_depth
+oomlout_detail_hierarchy_5_upper: 35_MM_DEPTH
+oomlout_detail_hierarchy_5_upper_length_4: 35DE
+oomlout_detail_hierarchy_6: stanley
+oomlout_detail_hierarchy_6_upper: STANLEY
+oomlout_detail_hierarchy_6_upper_length_4: STAN
+oomlout_detail_hierarchy_7: sth77404
+oomlout_detail_hierarchy_7_upper: STH77404
+oomlout_detail_hierarchy_7_upper_length_4: STH7
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_tool_stud_finder_70_mm_width_150_mm_height_35_mm_depth_stanley_sth77404
+oomp_word: penguin maple_leaf bell
+oomp_word_emoji: ':penguin: :maple_leaf: :bell:'
+oomp_word_emoji_list:
+- ':penguin:'
+- ':maple_leaf:'
+- ':bell:'
+oomp_word_list:
+- penguin
+- maple_leaf
+- bell
+part_number: sth77404
+part_number_capital: Sth77404
+part_number_first_letter: s
+part_number_first_letter_upper: S
+part_number_length_1: s
+part_number_length_2: st
+part_number_length_3: sth
+part_number_length_4: sth7
+part_number_length_5: sth77
+part_number_length_6: sth774
+part_number_name: Sth77404
+part_number_no_space_length_1: s
+part_number_no_space_length_2: st
+part_number_no_space_length_3: sth
+part_number_no_space_length_4: sth7
+part_number_no_space_length_5: sth77
+part_number_no_space_length_6: sth774
+part_number_no_space_upper_length_1: S
+part_number_no_space_upper_length_2: ST
+part_number_no_space_upper_length_3: STH
+part_number_no_space_upper_length_4: STH7
+part_number_no_space_upper_length_5: STH77
+part_number_no_space_upper_length_6: STH774
+part_number_upper: STH77404
+part_number_upper_length_1: S
+part_number_upper_length_2: ST
+part_number_upper_length_3: STH
+part_number_upper_length_4: STH7
+part_number_upper_length_5: STH77
+part_number_upper_length_6: STH774
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: stud_finder
+type_capital: Stud Finder
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: st
+type_length_3: stu
+type_length_4: stud
+type_length_5: stud_
+type_length_6: stud_f
+type_name: Stud Finder
+type_no_space_length_1: s
+type_no_space_length_2: st
+type_no_space_length_3: stu
+type_no_space_length_4: stud
+type_no_space_length_5: studf
+type_no_space_length_6: studfi
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: ST
+type_no_space_upper_length_3: STU
+type_no_space_upper_length_4: STUD
+type_no_space_upper_length_5: STUDF
+type_no_space_upper_length_6: STUDFI
+type_upper: STUD_FINDER
+type_upper_length_1: S
+type_upper_length_2: ST
+type_upper_length_3: STU
+type_upper_length_4: STUD
+type_upper_length_5: STUD_
+type_upper_length_6: STUD_F

@@ -1,0 +1,301 @@
+bip_39_word_dash_12: enroll-goose-finish-digital-scale-purse-castle-velvet-able-abuse-tumble-achieve
+bip_39_word_dash_2: enroll-goose
+bip_39_word_dash_3: enroll-goose-finish
+bip_39_word_new_br_12: enroll<br>goose<br>finish<br>digital<br>scale<br>purse<br>castle<br>velvet<br>able<br>abuse<br>tumble<br>achieve
+bip_39_word_new_br_2: enroll<br>goose
+bip_39_word_new_br_3: enroll<br>goose<br>finish
+bip_39_word_new_line_12: 'enroll
+
+  goose
+
+  finish
+
+  digital
+
+  scale
+
+  purse
+
+  castle
+
+  velvet
+
+  able
+
+  abuse
+
+  tumble
+
+  achieve'
+bip_39_word_new_line_2: 'enroll
+
+  goose'
+bip_39_word_new_line_3: 'enroll
+
+  goose
+
+  finish'
+bip_39_word_no_space_12: enrollgoosefinishdigitalscalepursecastlevelvetableabusetumbleachieve
+bip_39_word_no_space_2: enrollgoose
+bip_39_word_no_space_3: enrollgoosefinish
+bip_39_word_space_12: enroll goose finish digital scale purse castle velvet able abuse
+  tumble achieve
+bip_39_word_space_2: enroll goose
+bip_39_word_space_3: enroll goose finish
+bip_39_word_underscore_12: enroll_goose_finish_digital_scale_purse_castle_velvet_able_abuse_tumble_achieve
+bip_39_word_underscore_2: enroll_goose
+bip_39_word_underscore_3: enroll_goose_finish
+classification: tool
+classification_capital: Tool
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_length_1: t
+classification_length_2: to
+classification_length_3: too
+classification_length_4: tool
+classification_length_5: tool
+classification_length_6: tool
+classification_name: Tool
+classification_no_space_length_1: t
+classification_no_space_length_2: to
+classification_no_space_length_3: too
+classification_no_space_length_4: tool
+classification_no_space_length_5: tool
+classification_no_space_length_6: tool
+classification_no_space_upper_length_1: T
+classification_no_space_upper_length_2: TO
+classification_no_space_upper_length_3: TOO
+classification_no_space_upper_length_4: TOOL
+classification_no_space_upper_length_5: TOOL
+classification_no_space_upper_length_6: TOOL
+classification_upper: TOOL
+classification_upper_length_1: T
+classification_upper_length_2: TO
+classification_upper_length_3: TOO
+classification_upper_length_4: TOOL
+classification_upper_length_5: TOOL
+classification_upper_length_6: TOOL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ph1_4_mm
+description_extra_capital: Ph1.4 mm
+description_extra_first_letter: p
+description_extra_first_letter_upper: P
+description_extra_length_1: p
+description_extra_length_2: ph
+description_extra_length_3: ph1
+description_extra_length_4: ph1_
+description_extra_length_5: ph1_4
+description_extra_length_6: ph1_4_
+description_extra_name: Ph1 4 mm
+description_extra_no_space_length_1: p
+description_extra_no_space_length_2: ph
+description_extra_no_space_length_3: ph1
+description_extra_no_space_length_4: ph14
+description_extra_no_space_length_5: ph14m
+description_extra_no_space_length_6: ph14mm
+description_extra_no_space_upper_length_1: P
+description_extra_no_space_upper_length_2: PH
+description_extra_no_space_upper_length_3: PH1
+description_extra_no_space_upper_length_4: PH14
+description_extra_no_space_upper_length_5: PH14M
+description_extra_no_space_upper_length_6: PH14MM
+description_extra_upper: PH1_4_MM
+description_extra_upper_length_1: P
+description_extra_upper_length_2: PH
+description_extra_upper_length_3: PH1
+description_extra_upper_length_4: PH1_
+description_extra_upper_length_5: PH1_4
+description_extra_upper_length_6: PH1_4_
+description_main: phillips_head
+description_main_capital: Phillips Head
+description_main_first_letter: p
+description_main_first_letter_upper: P
+description_main_length_1: p
+description_main_length_2: ph
+description_main_length_3: phi
+description_main_length_4: phil
+description_main_length_5: phill
+description_main_length_6: philli
+description_main_name: Phillips Head
+description_main_no_space_length_1: p
+description_main_no_space_length_2: ph
+description_main_no_space_length_3: phi
+description_main_no_space_length_4: phil
+description_main_no_space_length_5: phill
+description_main_no_space_length_6: philli
+description_main_no_space_upper_length_1: P
+description_main_no_space_upper_length_2: PH
+description_main_no_space_upper_length_3: PHI
+description_main_no_space_upper_length_4: PHIL
+description_main_no_space_upper_length_5: PHILL
+description_main_no_space_upper_length_6: PHILLI
+description_main_upper: PHILLIPS_HEAD
+description_main_upper_length_1: P
+description_main_upper_length_2: PH
+description_main_upper_length_3: PHI
+description_main_upper_length_4: PHIL
+description_main_upper_length_5: PHILL
+description_main_upper_length_6: PHILLI
+description_only_numbers: ''
+description_only_numbers_short: ' '
+description_or_color: ' '
+description_or_color_upper: ' '
+directory: parts/tool_screwdriver_bit_quarter_inch_drive_100_mm_depth_phillips_head_ph1_4_mm
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_screwdriver_bit_quarter_inch_drive_100_mm_depth_phillips_head_ph1_4_mm
+id: tool_screwdriver_bit_quarter_inch_drive_100_mm_depth_phillips_head_ph1_4_mm
+id_no_class: screwdriver_bit_quarter_inch_drive_100_mm_depth_phillips_head_ph1_4_mm
+id_no_color: phillipsheadph14mm
+id_no_size: phillips_head_ph1_4_mm
+id_no_type: quarter_inch_drive_100_mm_depth_phillips_head_ph1_4_mm
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screwdriver_bit_quarter_inch_drive_100_mm_depth_phillips_head_ph1_4_mm
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screwdriver_bit_quarter_inch_drive_100_mm_depth_phillips_head_ph1_4_mm
+link_2_name: link_github
+link_3: https://www.aliexpress.com/item/1005002383044569.html
+link_3_name: link_distributor_aliexpress
+link_buy_1: https://www.aliexpress.com/item/1005002383044569.html
+link_buy_1_name: link_distributor_aliexpress
+link_distributor_aliexpress: https://www.aliexpress.com/item/1005002383044569.html
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screwdriver_bit_quarter_inch_drive_100_mm_depth_phillips_head_ph1_4_mm
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screwdriver_bit_quarter_inch_drive_100_mm_depth_phillips_head_ph1_4_mm
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%2015wg0
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%2015wg0
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%2015wg0
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%2015wg0
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screwdriver_bit_quarter_inch_drive_100_mm_depth_phillips_head_ph1_4_mm
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[tool_screwdriver_bit_quarter_inch_drive_100_mm_depth_phillips_head_ph1_4_mm](none)<br>[](none)<br>[Tool
+  Screwdriver Bit Quarter Inch Drive 100 Mm Depth Phillips Head Ph1 4 Mm](none)<br><br>'
+markdown_short: '[tool_screwdriver_bit_quarter_inch_drive_100_mm_depth_phillips_head_ph1_4_mm](none)<br><br>'
+md5: 1dd4804802f20472ba6003deae192259
+md5_10: 1dd4804802
+md5_10_upper: 1DD4804802
+md5_5: 1dd48
+md5_5_upper: 1DD48
+md5_6: 1dd480
+md5_6_alpha: 15wg0
+md5_6_alpha_upper: 15WG0
+md5_6_upper: 1DD480
+name: Tool Screwdriver Bit Quarter Inch Drive 100 mm Depth Phillips Head Ph1 4 mm
+name_no_class: Screwdriver Bit Quarter Inch Drive 100 mm Depth Phillips Head Ph1 4
+  mm
+name_no_color: Phillipsheadph14mm
+name_no_size: Phillips Head Ph1 4 mm
+name_no_size_short: Phillips Head Ph1 4 Mm
+name_no_type: Quarter Inch Drive 100 mm Depth Phillips Head Ph1 4 mm
+oomlout_detail_hierarchy_1: tool
+oomlout_detail_hierarchy_1_upper: TOOL
+oomlout_detail_hierarchy_1_upper_length_4: TOOL
+oomlout_detail_hierarchy_2: screwdriver_bit
+oomlout_detail_hierarchy_2_upper: SCREWDRIVER_BIT
+oomlout_detail_hierarchy_2_upper_length_4: SCRE
+oomlout_detail_hierarchy_3: 100_mm_depth
+oomlout_detail_hierarchy_3_upper: 100_MM_DEPTH
+oomlout_detail_hierarchy_3_upper_length_4: 100D
+oomlout_detail_hierarchy_4: phillips_head
+oomlout_detail_hierarchy_4_upper: PHILLIPS_HEAD
+oomlout_detail_hierarchy_4_upper_length_4: PHIL
+oomlout_detail_hierarchy_5: ph1_4_mm
+oomlout_detail_hierarchy_5_upper: PH1_4_MM
+oomlout_detail_hierarchy_5_upper_length_4: PH1_
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_tool_screwdriver_bit_quarter_inch_drive_100_mm_depth_phillips_head_ph1_4_mm
+oomp_word: baby corn hourglass
+oomp_word_emoji: ':baby: :corn: :hourglass:'
+oomp_word_emoji_list:
+- ':baby:'
+- ':corn:'
+- ':hourglass:'
+oomp_word_list:
+- baby
+- corn
+- hourglass
+part_number: ''
+part_number_capital: ''
+part_number_distributor_aliexpress: '1005002383044569'
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: quarter_inch_drive_100_mm_depth
+size_capital: Quarter Inch Drive 100 mm Depth
+size_first_letter: q
+size_first_letter_upper: Q
+size_length_1: q
+size_length_2: qu
+size_length_3: qua
+size_length_4: quar
+size_length_5: quart
+size_length_6: quarte
+size_name: Quarter Inch Drive 100 mm Depth
+size_no_space_length_1: q
+size_no_space_length_2: qu
+size_no_space_length_3: qua
+size_no_space_length_4: quar
+size_no_space_length_5: quart
+size_no_space_length_6: quarte
+size_no_space_upper_length_1: Q
+size_no_space_upper_length_2: QU
+size_no_space_upper_length_3: QUA
+size_no_space_upper_length_4: QUAR
+size_no_space_upper_length_5: QUART
+size_no_space_upper_length_6: QUARTE
+size_only_numbers: '100'
+size_only_numbers_no_zeros: '1'
+size_upper: QUARTER_INCH_DRIVE_100_MM_DEPTH
+size_upper_length_1: Q
+size_upper_length_2: QU
+size_upper_length_3: QUA
+size_upper_length_4: QUAR
+size_upper_length_5: QUART
+size_upper_length_6: QUARTE
+type: screwdriver_bit
+type_capital: Screwdriver Bit
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: sc
+type_length_3: scr
+type_length_4: scre
+type_length_5: screw
+type_length_6: screwd
+type_name: Screwdriver Bit
+type_no_space_length_1: s
+type_no_space_length_2: sc
+type_no_space_length_3: scr
+type_no_space_length_4: scre
+type_no_space_length_5: screw
+type_no_space_length_6: screwd
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SC
+type_no_space_upper_length_3: SCR
+type_no_space_upper_length_4: SCRE
+type_no_space_upper_length_5: SCREW
+type_no_space_upper_length_6: SCREWD
+type_upper: SCREWDRIVER_BIT
+type_upper_length_1: S
+type_upper_length_2: SC
+type_upper_length_3: SCR
+type_upper_length_4: SCRE
+type_upper_length_5: SCREW
+type_upper_length_6: SCREWD

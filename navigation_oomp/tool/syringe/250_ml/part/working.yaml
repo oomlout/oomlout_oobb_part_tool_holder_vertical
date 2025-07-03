@@ -1,0 +1,239 @@
+bip_39_word_dash_12: half-clutch-swallow-busy-exotic-situate-apple-saddle-remind-symbol-faculty-assault
+bip_39_word_dash_2: half-clutch
+bip_39_word_dash_3: half-clutch-swallow
+bip_39_word_new_br_12: half<br>clutch<br>swallow<br>busy<br>exotic<br>situate<br>apple<br>saddle<br>remind<br>symbol<br>faculty<br>assault
+bip_39_word_new_br_2: half<br>clutch
+bip_39_word_new_br_3: half<br>clutch<br>swallow
+bip_39_word_new_line_12: 'half
+
+  clutch
+
+  swallow
+
+  busy
+
+  exotic
+
+  situate
+
+  apple
+
+  saddle
+
+  remind
+
+  symbol
+
+  faculty
+
+  assault'
+bip_39_word_new_line_2: 'half
+
+  clutch'
+bip_39_word_new_line_3: 'half
+
+  clutch
+
+  swallow'
+bip_39_word_no_space_12: halfclutchswallowbusyexoticsituateapplesaddleremindsymbolfacultyassault
+bip_39_word_no_space_2: halfclutch
+bip_39_word_no_space_3: halfclutchswallow
+bip_39_word_space_12: half clutch swallow busy exotic situate apple saddle remind
+  symbol faculty assault
+bip_39_word_space_2: half clutch
+bip_39_word_space_3: half clutch swallow
+bip_39_word_underscore_12: half_clutch_swallow_busy_exotic_situate_apple_saddle_remind_symbol_faculty_assault
+bip_39_word_underscore_2: half_clutch
+bip_39_word_underscore_3: half_clutch_swallow
+classification: tool
+classification_capital: Tool
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_length_1: t
+classification_length_2: to
+classification_length_3: too
+classification_length_4: tool
+classification_length_5: tool
+classification_length_6: tool
+classification_name: Tool
+classification_no_space_length_1: t
+classification_no_space_length_2: to
+classification_no_space_length_3: too
+classification_no_space_length_4: tool
+classification_no_space_length_5: tool
+classification_no_space_length_6: tool
+classification_no_space_upper_length_1: T
+classification_no_space_upper_length_2: TO
+classification_no_space_upper_length_3: TOO
+classification_no_space_upper_length_4: TOOL
+classification_no_space_upper_length_5: TOOL
+classification_no_space_upper_length_6: TOOL
+classification_upper: TOOL
+classification_upper_length_1: T
+classification_upper_length_2: TO
+classification_upper_length_3: TOO
+classification_upper_length_4: TOOL
+classification_upper_length_5: TOOL
+classification_upper_length_6: TOOL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: ''
+description_extra_capital: ''
+description_extra_first_letter: ''
+description_extra_first_letter_upper: ''
+description_extra_name: ''
+description_extra_upper: ''
+description_main: 250_ml
+description_main_capital: 250 Ml
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_length_1: '2'
+description_main_length_2: '25'
+description_main_length_3: '250'
+description_main_length_4: '250_'
+description_main_length_5: 250_m
+description_main_length_6: 250_ml
+description_main_name: 250 Ml
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: '25'
+description_main_no_space_length_3: '250'
+description_main_no_space_length_4: 250m
+description_main_no_space_length_5: 250ml
+description_main_no_space_length_6: 250ml
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: '25'
+description_main_no_space_upper_length_3: '250'
+description_main_no_space_upper_length_4: 250M
+description_main_no_space_upper_length_5: 250ML
+description_main_no_space_upper_length_6: 250ML
+description_main_upper: 250_ML
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '25'
+description_main_upper_length_3: '250'
+description_main_upper_length_4: '250_'
+description_main_upper_length_5: 250_M
+description_main_upper_length_6: 250_ML
+description_only_numbers: '250'
+description_only_numbers_short: '250'
+description_or_color: '250'
+description_or_color_upper: '250'
+directory: parts/tool_syringe_250_ml
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_syringe_250_ml
+id: tool_syringe_250_ml
+id_no_class: syringe_250_ml
+id_no_color: 250ml
+id_no_size: 250ml
+id_no_type: 250_ml
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_syringe_250_ml
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_syringe_250_ml
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_syringe_250_ml
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_syringe_250_ml
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%208gayf
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%208gayf
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%208gayf
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%208gayf
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_syringe_250_ml
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[tool_syringe_250_ml](none)<br>[](none)<br>[Tool Syringe 250 Ml](none)<br><br>'
+markdown_short: '[tool_syringe_250_ml](none)<br><br>'
+md5: d8a3771daebdc15726a801f3b60b2343
+md5_10: d8a3771dae
+md5_10_upper: D8A3771DAE
+md5_5: d8a37
+md5_5_upper: D8A37
+md5_6: d8a377
+md5_6_alpha: 8gayf
+md5_6_alpha_upper: 8GAYF
+md5_6_upper: D8A377
+name: Tool Syringe 250 Ml
+name_no_class: Syringe 250 Ml
+name_no_color: 250Ml
+name_no_size: 250Ml
+name_no_size_short: 250Ml
+name_no_type: 250 Ml
+oomlout_detail_hierarchy_1: tool
+oomlout_detail_hierarchy_1_upper: TOOL
+oomlout_detail_hierarchy_1_upper_length_4: TOOL
+oomlout_detail_hierarchy_2: syringe
+oomlout_detail_hierarchy_2_upper: SYRINGE
+oomlout_detail_hierarchy_2_upper_length_4: SYRI
+oomlout_detail_hierarchy_3: 250_ml
+oomlout_detail_hierarchy_3_upper: 250_ML
+oomlout_detail_hierarchy_3_upper_length_4: '250_'
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_tool_syringe_250_ml
+oomp_word: hospital pencil gift
+oomp_word_emoji: ':hospital: :pencil: :gift:'
+oomp_word_emoji_list:
+- ':hospital:'
+- ':pencil:'
+- ':gift:'
+oomp_word_list:
+- hospital
+- pencil
+- gift
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: syringe
+type_capital: Syringe
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: sy
+type_length_3: syr
+type_length_4: syri
+type_length_5: syrin
+type_length_6: syring
+type_name: Syringe
+type_no_space_length_1: s
+type_no_space_length_2: sy
+type_no_space_length_3: syr
+type_no_space_length_4: syri
+type_no_space_length_5: syrin
+type_no_space_length_6: syring
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SY
+type_no_space_upper_length_3: SYR
+type_no_space_upper_length_4: SYRI
+type_no_space_upper_length_5: SYRIN
+type_no_space_upper_length_6: SYRING
+type_upper: SYRINGE
+type_upper_length_1: S
+type_upper_length_2: SY
+type_upper_length_3: SYR
+type_upper_length_4: SYRI
+type_upper_length_5: SYRIN
+type_upper_length_6: SYRING
