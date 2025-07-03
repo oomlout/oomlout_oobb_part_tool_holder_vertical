@@ -1,0 +1,267 @@
+bip_39_word_dash_12: castle-space-design-recall-arrow-segment-asset-speak-way-elevator-sing-arrow
+bip_39_word_dash_2: castle-space
+bip_39_word_dash_3: castle-space-design
+bip_39_word_new_br_12: castle<br>space<br>design<br>recall<br>arrow<br>segment<br>asset<br>speak<br>way<br>elevator<br>sing<br>arrow
+bip_39_word_new_br_2: castle<br>space
+bip_39_word_new_br_3: castle<br>space<br>design
+bip_39_word_new_line_12: 'castle
+
+  space
+
+  design
+
+  recall
+
+  arrow
+
+  segment
+
+  asset
+
+  speak
+
+  way
+
+  elevator
+
+  sing
+
+  arrow'
+bip_39_word_new_line_2: 'castle
+
+  space'
+bip_39_word_new_line_3: 'castle
+
+  space
+
+  design'
+bip_39_word_no_space_12: castlespacedesignrecallarrowsegmentassetspeakwayelevatorsingarrow
+bip_39_word_no_space_2: castlespace
+bip_39_word_no_space_3: castlespacedesign
+bip_39_word_space_12: castle space design recall arrow segment asset speak way elevator
+  sing arrow
+bip_39_word_space_2: castle space
+bip_39_word_space_3: castle space design
+bip_39_word_underscore_12: castle_space_design_recall_arrow_segment_asset_speak_way_elevator_sing_arrow
+bip_39_word_underscore_2: castle_space
+bip_39_word_underscore_3: castle_space_design
+classification: tool
+classification_capital: Tool
+classification_first_letter: t
+classification_first_letter_upper: T
+classification_length_1: t
+classification_length_2: to
+classification_length_3: too
+classification_length_4: tool
+classification_length_5: tool
+classification_length_6: tool
+classification_name: Tool
+classification_no_space_length_1: t
+classification_no_space_length_2: to
+classification_no_space_length_3: too
+classification_no_space_length_4: tool
+classification_no_space_length_5: tool
+classification_no_space_length_6: tool
+classification_no_space_upper_length_1: T
+classification_no_space_upper_length_2: TO
+classification_no_space_upper_length_3: TOO
+classification_no_space_upper_length_4: TOOL
+classification_no_space_upper_length_5: TOOL
+classification_no_space_upper_length_6: TOOL
+classification_upper: TOOL
+classification_upper_length_1: T
+classification_upper_length_2: TO
+classification_upper_length_3: TOO
+classification_upper_length_4: TOOL
+classification_upper_length_5: TOOL
+classification_upper_length_6: TOOL
+color: ''
+color_capital: ''
+color_first_letter: ''
+color_first_letter_upper: ''
+color_name: ''
+color_upper: ''
+description_extra: flat_top_style
+description_extra_capital: Flat Top Style
+description_extra_first_letter: f
+description_extra_first_letter_upper: F
+description_extra_length_1: f
+description_extra_length_2: fl
+description_extra_length_3: fla
+description_extra_length_4: flat
+description_extra_length_5: flat_
+description_extra_length_6: flat_t
+description_extra_name: Flat Top Style
+description_extra_no_space_length_1: f
+description_extra_no_space_length_2: fl
+description_extra_no_space_length_3: fla
+description_extra_no_space_length_4: flat
+description_extra_no_space_length_5: flatt
+description_extra_no_space_length_6: flatto
+description_extra_no_space_upper_length_1: F
+description_extra_no_space_upper_length_2: FL
+description_extra_no_space_upper_length_3: FLA
+description_extra_no_space_upper_length_4: FLAT
+description_extra_no_space_upper_length_5: FLATT
+description_extra_no_space_upper_length_6: FLATTO
+description_extra_upper: FLAT_TOP_STYLE
+description_extra_upper_length_1: F
+description_extra_upper_length_2: FL
+description_extra_upper_length_3: FLA
+description_extra_upper_length_4: FLAT
+description_extra_upper_length_5: FLAT_
+description_extra_upper_length_6: FLAT_T
+description_main: 20_ml
+description_main_capital: 20 Ml
+description_main_first_letter: '2'
+description_main_first_letter_upper: '2'
+description_main_length_1: '2'
+description_main_length_2: '20'
+description_main_length_3: '20_'
+description_main_length_4: 20_m
+description_main_length_5: 20_ml
+description_main_length_6: 20_ml
+description_main_name: 20 Ml
+description_main_no_space_length_1: '2'
+description_main_no_space_length_2: '20'
+description_main_no_space_length_3: 20m
+description_main_no_space_length_4: 20ml
+description_main_no_space_length_5: 20ml
+description_main_no_space_length_6: 20ml
+description_main_no_space_upper_length_1: '2'
+description_main_no_space_upper_length_2: '20'
+description_main_no_space_upper_length_3: 20M
+description_main_no_space_upper_length_4: 20ML
+description_main_no_space_upper_length_5: 20ML
+description_main_no_space_upper_length_6: 20ML
+description_main_upper: 20_ML
+description_main_upper_length_1: '2'
+description_main_upper_length_2: '20'
+description_main_upper_length_3: '20_'
+description_main_upper_length_4: 20_M
+description_main_upper_length_5: 20_ML
+description_main_upper_length_6: 20_ML
+description_only_numbers: '20'
+description_only_numbers_short: '20'
+description_or_color: '20'
+description_or_color_upper: '20'
+directory: parts/tool_syringe_20_ml_flat_top_style
+distributors: []
+filter: ''
+from_yaml: false
+github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_syringe_20_ml_flat_top_style
+id: tool_syringe_20_ml_flat_top_style
+id_no_class: syringe_20_ml_flat_top_style
+id_no_color: 20mlflattopstyle
+id_no_size: 20mlflattopstyle
+id_no_type: 20_ml_flat_top_style
+link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_syringe_20_ml_flat_top_style
+link_1_name: link_main
+link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_syringe_20_ml_flat_top_style
+link_2_name: link_github
+link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_syringe_20_ml_flat_top_style
+link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_syringe_20_ml_flat_top_style
+link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207xy8h
+link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207xy8h
+link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207xy8h
+link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207xy8h
+link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_syringe_20_ml_flat_top_style
+manufacturer: ''
+manufacturer_capital: ''
+manufacturer_first_letter: ''
+manufacturer_first_letter_upper: ''
+manufacturer_name: ''
+manufacturer_upper: ''
+manufacturers: []
+markdown_full: '[tool_syringe_20_ml_flat_top_style](none)<br>[](none)<br>[Tool Syringe
+  20 Ml Flat Top Style](none)<br><br>'
+markdown_short: '[tool_syringe_20_ml_flat_top_style](none)<br><br>'
+md5: cb9291ffc0d0c1b70c865b3677b4111c
+md5_10: cb9291ffc0
+md5_10_upper: CB9291FFC0
+md5_5: cb929
+md5_5_upper: CB929
+md5_6: cb9291
+md5_6_alpha: 7xy8h
+md5_6_alpha_upper: 7XY8H
+md5_6_upper: CB9291
+name: Tool Syringe 20 Ml Flat Top Style
+name_no_class: Syringe 20 Ml Flat Top Style
+name_no_color: 20Mlflattopstyle
+name_no_size: 20Mlflattopstyle
+name_no_size_short: 20Mlflattopstyle
+name_no_type: 20 Ml Flat Top Style
+oomlout_detail_hierarchy_1: tool
+oomlout_detail_hierarchy_1_upper: TOOL
+oomlout_detail_hierarchy_1_upper_length_4: TOOL
+oomlout_detail_hierarchy_2: syringe
+oomlout_detail_hierarchy_2_upper: SYRINGE
+oomlout_detail_hierarchy_2_upper_length_4: SYRI
+oomlout_detail_hierarchy_3: 20_ml
+oomlout_detail_hierarchy_3_upper: 20_ML
+oomlout_detail_hierarchy_3_upper_length_4: 20_M
+oomlout_detail_hierarchy_4: flat_top_style
+oomlout_detail_hierarchy_4_upper: FLAT_TOP_STYLE
+oomlout_detail_hierarchy_4_upper_length_4: FLAT
+oomlout_oomp_utility_custom_data_manipulation: true
+oomp_key: oomp_tool_syringe_20_ml_flat_top_style
+oomp_word: grapes paperclip pushpin
+oomp_word_emoji: ':grapes: :paperclip: :pushpin:'
+oomp_word_emoji_list:
+- ':grapes:'
+- ':paperclip:'
+- ':pushpin:'
+oomp_word_list:
+- grapes
+- paperclip
+- pushpin
+part_number: ''
+part_number_capital: ''
+part_number_first_letter: ''
+part_number_first_letter_upper: ''
+part_number_name: ''
+part_number_upper: ''
+price_1_name: orbital_fasteners
+price_2_name: accu
+price_3_name: amazon
+price_4_name: aliexpress
+short_code: ''
+short_code_upper: ''
+size: ''
+size_capital: ''
+size_first_letter: ''
+size_first_letter_upper: ''
+size_name: ''
+size_only_numbers: ''
+size_only_numbers_no_zeros: ''
+size_upper: ''
+type: syringe
+type_capital: Syringe
+type_first_letter: s
+type_first_letter_upper: S
+type_length_1: s
+type_length_2: sy
+type_length_3: syr
+type_length_4: syri
+type_length_5: syrin
+type_length_6: syring
+type_name: Syringe
+type_no_space_length_1: s
+type_no_space_length_2: sy
+type_no_space_length_3: syr
+type_no_space_length_4: syri
+type_no_space_length_5: syrin
+type_no_space_length_6: syring
+type_no_space_upper_length_1: S
+type_no_space_upper_length_2: SY
+type_no_space_upper_length_3: SYR
+type_no_space_upper_length_4: SYRI
+type_no_space_upper_length_5: SYRIN
+type_no_space_upper_length_6: SYRING
+type_upper: SYRINGE
+type_upper_length_1: S
+type_upper_length_2: SY
+type_upper_length_3: SYR
+type_upper_length_4: SYRI
+type_upper_length_5: SYRIN
+type_upper_length_6: SYRING
