@@ -1,0 +1,4084 @@
+classification: oobb
+color: ''
+description_extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra
+description_main: 9_width_3_height_12_mm_depth
+full_rotations:
+- 0
+- 0
+- 0
+full_shift:
+- 0
+- 0
+- 0
+id: oobb_part_tool_holder_vertical_9_width_3_height_12_mm_depth_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra
+id_oobb: oobb_part_oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical_9_width_3_height_12_mm_depth_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra
+kwargs:
+  extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+  filter: ''
+  height: 3
+  layered: true
+  modes:
+  - 3dpr
+  multiple: 8
+  navigation: true
+  offset_tool:
+  - 0
+  - -10
+  - 0
+  oomp_classification: oobb
+  oomp_color: ''
+  oomp_description_extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra
+  oomp_description_main: 9_width_3_height_12_mm_depth
+  oomp_manufacturer: ''
+  oomp_mode: oobb
+  oomp_part_number: ''
+  oomp_run: true
+  oomp_size: tool_holder_vertical
+  oomp_type: part
+  overwrite: true
+  spacing: 15
+  thickness: 12
+  tool: tool_screwdriver_bit_quarter_inch_drive
+  typ: all
+  type: oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical
+  width: 9
+manufacturer: ''
+name: tool_holder_vertical
+part_number: ''
+project_name: C:\gh\oomlout_oobb_part_tool_holder_vertical
+size: tool_holder_vertical
+thing:
+  classification: oobb
+  color: ''
+  components:
+  - - depth: 12
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      height: 3
+      pos:
+      - 0
+      - 0
+      - -6.0
+      shape: rounded_rectangle
+      size:
+      - 134
+      - 44
+      - 12
+      type: positive
+      width: 9
+  - - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: laser
+      pos: &id001
+      - -52.5
+      - -10
+      - 0.0
+      r: 4.0
+      radius: 4.0
+      rot: &id002
+      - -90
+      - 0
+      - 0
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 3dpr
+      pos: *id001
+      r: 4.0
+      rot: *id002
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 'true'
+      pos: *id001
+      r: 4.0
+      radius: 4.0
+      rot: *id002
+      shape: cylinder
+      type: negative
+      width: 9
+  - - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: laser
+      pos: &id003
+      - -37.5
+      - -10
+      - 0.0
+      r: 4.0
+      radius: 4.0
+      rot: &id004
+      - -90
+      - 0
+      - 0
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 3dpr
+      pos: *id003
+      r: 4.0
+      rot: *id004
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 'true'
+      pos: *id003
+      r: 4.0
+      radius: 4.0
+      rot: *id004
+      shape: cylinder
+      type: negative
+      width: 9
+  - - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: laser
+      pos: &id005
+      - -22.5
+      - -10
+      - 0.0
+      r: 4.0
+      radius: 4.0
+      rot: &id006
+      - -90
+      - 0
+      - 0
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 3dpr
+      pos: *id005
+      r: 4.0
+      rot: *id006
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 'true'
+      pos: *id005
+      r: 4.0
+      radius: 4.0
+      rot: *id006
+      shape: cylinder
+      type: negative
+      width: 9
+  - - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: laser
+      pos: &id007
+      - -7.5
+      - -10
+      - 0.0
+      r: 4.0
+      radius: 4.0
+      rot: &id008
+      - -90
+      - 0
+      - 0
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 3dpr
+      pos: *id007
+      r: 4.0
+      rot: *id008
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 'true'
+      pos: *id007
+      r: 4.0
+      radius: 4.0
+      rot: *id008
+      shape: cylinder
+      type: negative
+      width: 9
+  - - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: laser
+      pos: &id009
+      - 7.5
+      - -10
+      - 0.0
+      r: 4.0
+      radius: 4.0
+      rot: &id010
+      - -90
+      - 0
+      - 0
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 3dpr
+      pos: *id009
+      r: 4.0
+      rot: *id010
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 'true'
+      pos: *id009
+      r: 4.0
+      radius: 4.0
+      rot: *id010
+      shape: cylinder
+      type: negative
+      width: 9
+  - - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: laser
+      pos: &id011
+      - 22.5
+      - -10
+      - 0.0
+      r: 4.0
+      radius: 4.0
+      rot: &id012
+      - -90
+      - 0
+      - 0
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 3dpr
+      pos: *id011
+      r: 4.0
+      rot: *id012
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 'true'
+      pos: *id011
+      r: 4.0
+      radius: 4.0
+      rot: *id012
+      shape: cylinder
+      type: negative
+      width: 9
+  - - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: laser
+      pos: &id013
+      - 37.5
+      - -10
+      - 0.0
+      r: 4.0
+      radius: 4.0
+      rot: &id014
+      - -90
+      - 0
+      - 0
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 3dpr
+      pos: *id013
+      r: 4.0
+      rot: *id014
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 'true'
+      pos: *id013
+      r: 4.0
+      radius: 4.0
+      rot: *id014
+      shape: cylinder
+      type: negative
+      width: 9
+  - - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: laser
+      pos: &id015
+      - 52.5
+      - -10
+      - 0.0
+      r: 4.0
+      radius: 4.0
+      rot: &id016
+      - -90
+      - 0
+      - 0
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 3dpr
+      pos: *id015
+      r: 4.0
+      rot: *id016
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 'true'
+      pos: *id015
+      r: 4.0
+      radius: 4.0
+      rot: *id016
+      shape: cylinder
+      type: negative
+      width: 9
+  - - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: laser
+      pos: &id017
+      - -45.0
+      - -10
+      - 6.0
+      r: 4.0
+      radius: 4.0
+      rot: &id018
+      - -90
+      - 0
+      - 0
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 3dpr
+      pos: *id017
+      r: 4.0
+      rot: *id018
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 'true'
+      pos: *id017
+      r: 4.0
+      radius: 4.0
+      rot: *id018
+      shape: cylinder
+      type: negative
+      width: 9
+  - - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: laser
+      pos: &id019
+      - -30.0
+      - -10
+      - 6.0
+      r: 4.0
+      radius: 4.0
+      rot: &id020
+      - -90
+      - 0
+      - 0
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 3dpr
+      pos: *id019
+      r: 4.0
+      rot: *id020
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 'true'
+      pos: *id019
+      r: 4.0
+      radius: 4.0
+      rot: *id020
+      shape: cylinder
+      type: negative
+      width: 9
+  - - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: laser
+      pos: &id021
+      - -15.0
+      - -10
+      - 6.0
+      r: 4.0
+      radius: 4.0
+      rot: &id022
+      - -90
+      - 0
+      - 0
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 3dpr
+      pos: *id021
+      r: 4.0
+      rot: *id022
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 'true'
+      pos: *id021
+      r: 4.0
+      radius: 4.0
+      rot: *id022
+      shape: cylinder
+      type: negative
+      width: 9
+  - - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: laser
+      pos: &id023
+      - 0.0
+      - -10
+      - 6.0
+      r: 4.0
+      radius: 4.0
+      rot: &id024
+      - -90
+      - 0
+      - 0
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 3dpr
+      pos: *id023
+      r: 4.0
+      rot: *id024
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 'true'
+      pos: *id023
+      r: 4.0
+      radius: 4.0
+      rot: *id024
+      shape: cylinder
+      type: negative
+      width: 9
+  - - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: laser
+      pos: &id025
+      - 15.0
+      - -10
+      - 6.0
+      r: 4.0
+      radius: 4.0
+      rot: &id026
+      - -90
+      - 0
+      - 0
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 3dpr
+      pos: *id025
+      r: 4.0
+      rot: *id026
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 'true'
+      pos: *id025
+      r: 4.0
+      radius: 4.0
+      rot: *id026
+      shape: cylinder
+      type: negative
+      width: 9
+  - - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: laser
+      pos: &id027
+      - 30.0
+      - -10
+      - 6.0
+      r: 4.0
+      radius: 4.0
+      rot: &id028
+      - -90
+      - 0
+      - 0
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 3dpr
+      pos: *id027
+      r: 4.0
+      rot: *id028
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 'true'
+      pos: *id027
+      r: 4.0
+      radius: 4.0
+      rot: *id028
+      shape: cylinder
+      type: negative
+      width: 9
+  - - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: laser
+      pos: &id029
+      - 45.0
+      - -10
+      - 6.0
+      r: 4.0
+      radius: 4.0
+      rot: &id030
+      - -90
+      - 0
+      - 0
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 3dpr
+      pos: *id029
+      r: 4.0
+      rot: *id030
+      shape: cylinder
+      type: negative
+      width: 9
+    - depth: 100
+      extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      h: 100
+      height: 3
+      inclusion: 'true'
+      pos: *id029
+      r: 4.0
+      radius: 4.0
+      rot: *id030
+      shape: cylinder
+      type: negative
+      width: 9
+  - - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id031
+        - -60.0
+        - -15.0
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id031
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id031
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id032
+        - -60.0
+        - 0.0
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id032
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id032
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id033
+        - -60.0
+        - 15.0
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id033
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id033
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id034
+        - 60.0
+        - -15.0
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id034
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id034
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id035
+        - 60.0
+        - 0.0
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id035
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id035
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id036
+        - 60.0
+        - 15.0
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id036
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id036
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id037
+        - -60.0
+        - -15.0
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id037
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id037
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id038
+        - -45.0
+        - -15.0
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id038
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id038
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id039
+        - -30.0
+        - -15.0
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id039
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id039
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id040
+        - -15.0
+        - -15.0
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id040
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id040
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id041
+        - 0.0
+        - -15.0
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id041
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id041
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id042
+        - 15.0
+        - -15.0
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id042
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id042
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id043
+        - 30.0
+        - -15.0
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id043
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id043
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id044
+        - 45.0
+        - -15.0
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id044
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id044
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id045
+        - 60.0
+        - -15.0
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id045
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id045
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id046
+        - -60.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id046
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id046
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id047
+        - -60.0
+        - -7.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id047
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id047
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id048
+        - -60.0
+        - 0.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id048
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id048
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id049
+        - -60.0
+        - 7.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id049
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id049
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id050
+        - -60.0
+        - 15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id050
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id050
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id051
+        - 60.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id051
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id051
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id052
+        - 60.0
+        - -7.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id052
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id052
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id053
+        - 60.0
+        - 0.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id053
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id053
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id054
+        - 60.0
+        - 7.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id054
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id054
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id055
+        - 60.0
+        - 15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id055
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id055
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id056
+        - -60.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id056
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id056
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id057
+        - -52.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id057
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id057
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id058
+        - -45.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id058
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id058
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id059
+        - -37.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id059
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id059
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id060
+        - -30.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id060
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id060
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id061
+        - -22.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id061
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id061
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id062
+        - -15.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id062
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id062
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id063
+        - -7.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id063
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id063
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id064
+        - 0.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id064
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id064
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id065
+        - 7.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id065
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id065
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id066
+        - 15.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id066
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id066
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id067
+        - 22.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id067
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id067
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id068
+        - 30.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id068
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id068
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id069
+        - 37.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id069
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id069
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id070
+        - 45.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id070
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id070
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id071
+        - 52.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id071
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id071
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id072
+        - 60.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id072
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id072
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id073
+        - -60.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id073
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id073
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id074
+        - -60.0
+        - -7.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id074
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id074
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id075
+        - -60.0
+        - 0.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id075
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id075
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id076
+        - -60.0
+        - 7.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id076
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id076
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id077
+        - -60.0
+        - 15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id077
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id077
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id078
+        - 60.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id078
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id078
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id079
+        - 60.0
+        - -7.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id079
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id079
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id080
+        - 60.0
+        - 0.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id080
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id080
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id081
+        - 60.0
+        - 7.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id081
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id081
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id082
+        - 60.0
+        - 15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id082
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id082
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id083
+        - -60.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id083
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id083
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id084
+        - -52.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id084
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id084
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id085
+        - -45.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id085
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id085
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id086
+        - -37.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id086
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id086
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id087
+        - -30.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id087
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id087
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id088
+        - -22.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id088
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id088
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id089
+        - -15.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id089
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id089
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id090
+        - -7.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id090
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id090
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id091
+        - 0.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id091
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id091
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id092
+        - 7.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id092
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id092
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id093
+        - 15.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id093
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id093
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id094
+        - 22.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id094
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id094
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id095
+        - 30.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id095
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id095
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id096
+        - 37.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id096
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id096
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id097
+        - 45.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id097
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id097
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id098
+        - 52.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id098
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id098
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id099
+        - 60.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id099
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id099
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id100
+        - -60.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id100
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id100
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id101
+        - -60.0
+        - -7.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id101
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id101
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id102
+        - -60.0
+        - 0.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id102
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id102
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id103
+        - -60.0
+        - 7.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id103
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id103
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id104
+        - -60.0
+        - 15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id104
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id104
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id105
+        - 60.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id105
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id105
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id106
+        - 60.0
+        - -7.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id106
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id106
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id107
+        - 60.0
+        - 0.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id107
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id107
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id108
+        - 60.0
+        - 7.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id108
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id108
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id109
+        - 60.0
+        - 15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id109
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id109
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id110
+        - -60.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id110
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id110
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id111
+        - -52.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id111
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id111
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id112
+        - -45.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id112
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id112
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id113
+        - -37.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id113
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id113
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id114
+        - -30.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id114
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id114
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id115
+        - -22.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id115
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id115
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id116
+        - -15.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id116
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id116
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id117
+        - -7.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id117
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id117
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id118
+        - 0.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id118
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id118
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id119
+        - 7.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id119
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id119
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id120
+        - 15.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id120
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id120
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id121
+        - 22.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id121
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id121
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id122
+        - 30.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id122
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id122
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id123
+        - 37.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id123
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id123
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id124
+        - 45.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id124
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id124
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id125
+        - 52.5
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id125
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id125
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 12
+        h: 12
+        inclusion: laser
+        m: ''
+        pos: &id126
+        - 60.0
+        - -15.0
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 3dpr
+        m: ''
+        pos: *id126
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 12
+        h: 12
+        inclusion: 'true'
+        m: ''
+        pos: *id126
+        r: 1.5
+        shape: cylinder
+        type: negative
+  - - extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      height: 3
+      pos:
+      - -250.0
+      - -250.0
+      - -500
+      shape: cube
+      size:
+      - 500
+      - 500
+      - 500
+      type: negative
+      width: 9
+    - extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      height: 3
+      pos:
+      - -250.0
+      - -250.0
+      - -500
+      shape: cube
+      size:
+      - 500
+      - 500
+      - 500
+      type: negative
+      width: 9
+    - extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+      height: 3
+      pos:
+      - -250.0
+      - -250.0
+      - -500
+      shape: cube
+      size:
+      - 500
+      - 500
+      - 500
+      type: negative
+      width: 9
+  components_objects:
+  - depth: 12
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - -6.0
+    save_type: all
+    shape: oobb_plate
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: positive
+    width: 9
+  - depth: 100
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - -52.5
+    - -10
+    - 50.0
+    radius: 4.0
+    rot:
+    - -90
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_cylinder
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: negative
+    width: 9
+  - depth: 100
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - -37.5
+    - -10
+    - 50.0
+    radius: 4.0
+    rot:
+    - -90
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_cylinder
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: negative
+    width: 9
+  - depth: 100
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - -22.5
+    - -10
+    - 50.0
+    radius: 4.0
+    rot:
+    - -90
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_cylinder
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: negative
+    width: 9
+  - depth: 100
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - -7.5
+    - -10
+    - 50.0
+    radius: 4.0
+    rot:
+    - -90
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_cylinder
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: negative
+    width: 9
+  - depth: 100
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - 7.5
+    - -10
+    - 50.0
+    radius: 4.0
+    rot:
+    - -90
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_cylinder
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: negative
+    width: 9
+  - depth: 100
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - 22.5
+    - -10
+    - 50.0
+    radius: 4.0
+    rot:
+    - -90
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_cylinder
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: negative
+    width: 9
+  - depth: 100
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - 37.5
+    - -10
+    - 50.0
+    radius: 4.0
+    rot:
+    - -90
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_cylinder
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: negative
+    width: 9
+  - depth: 100
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - 52.5
+    - -10
+    - 50.0
+    radius: 4.0
+    rot:
+    - -90
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_cylinder
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: negative
+    width: 9
+  - depth: 100
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - -45.0
+    - -10
+    - 56.0
+    radius: 4.0
+    rot:
+    - -90
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_cylinder
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: negative
+    width: 9
+  - depth: 100
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - -30.0
+    - -10
+    - 56.0
+    radius: 4.0
+    rot:
+    - -90
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_cylinder
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: negative
+    width: 9
+  - depth: 100
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - -15.0
+    - -10
+    - 56.0
+    radius: 4.0
+    rot:
+    - -90
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_cylinder
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: negative
+    width: 9
+  - depth: 100
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - 0.0
+    - -10
+    - 56.0
+    radius: 4.0
+    rot:
+    - -90
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_cylinder
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: negative
+    width: 9
+  - depth: 100
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - 15.0
+    - -10
+    - 56.0
+    radius: 4.0
+    rot:
+    - -90
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_cylinder
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: negative
+    width: 9
+  - depth: 100
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - 30.0
+    - -10
+    - 56.0
+    radius: 4.0
+    rot:
+    - -90
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_cylinder
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: negative
+    width: 9
+  - depth: 100
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - 45.0
+    - -10
+    - 56.0
+    radius: 4.0
+    rot:
+    - -90
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_cylinder
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: negative
+    width: 9
+  - both_holes: true
+    depth: 12
+    extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    holes:
+    - top
+    - bottom
+    - left
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - 0
+    save_type: all
+    shape: oobb_holes
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: p
+    width: 9
+  - extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+    filter: ''
+    height: 3
+    layered: true
+    modes:
+    - 3dpr
+    multiple: 8
+    navigation: true
+    offset_tool:
+    - 0
+    - -10
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    pos:
+    - 0
+    - 0
+    - -500
+    save_type: all
+    shape: oobb_slice
+    spacing: 15
+    thickness: 12
+    tool: tool_screwdriver_bit_quarter_inch_drive
+    typ: all
+    type: n
+    width: 9
+  components_string:
+  - oobb_plate_shape_positive_type_12_depth_0_0_-6.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra
+  - oobb_cylinder_shape_negative_type_100_depth_-52.5_-10_50.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_100_depth_-37.5_-10_50.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_100_depth_-22.5_-10_50.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_100_depth_-7.5_-10_50.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_100_depth_7.5_-10_50.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_100_depth_22.5_-10_50.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_100_depth_37.5_-10_50.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_100_depth_52.5_-10_50.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_100_depth_-45.0_-10_56.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_100_depth_-30.0_-10_56.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_100_depth_-15.0_-10_56.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_100_depth_0.0_-10_56.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_100_depth_15.0_-10_56.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_100_depth_30.0_-10_56.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_100_depth_45.0_-10_56.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra_4.0_radius_-90_0_0_rot
+  - oobb_holes_shape_p_type_12_depth_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra_true_both_holes_'top'_'bottom'_'left'_holes
+  - oobb_slice_shape_n_type_0_0_-500_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_true_layered_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra
+  description: oomlout oobb part tool holder vertical tool holder vertical 9x3x12
+  description_extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra
+  description_main: 9_width_3_height_12_mm_depth
+  extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+  folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical_9_width_3_height_12_mm_depth_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra
+  height: 3
+  height_mm: 44
+  id: oobb_part_oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical_9_width_3_height_12_mm_depth_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra
+  link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical/9_width_3_height_12_mm_depth/tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered_extra/part
+  link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical_09_03_12_ex_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_layered
+  manufacturer: ''
+  name: Oobb Part Oomlout Oobb Part Tool Holder Vertical Tool Holder Vertical 9 Width
+    3 Height 12 mm Depth Tool Screwdriver Bit Quarter Inch Drive Tool 8 Multiple Layered
+    Extra
+  name_short: Oomlout Tool Holder Vertical Tool
+  part_number: ''
+  short_name: ''
+  size: oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical
+  thickness: 12
+  thickness_mm: 12
+  type: part
+  width: 9
+  width_mm: 134
+type: part

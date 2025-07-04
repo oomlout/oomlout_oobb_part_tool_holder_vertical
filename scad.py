@@ -133,10 +133,14 @@ def make_scad(**kwargs):
             tool["spacing"] = 15
             tool["offset_tool"] = [0,-10,0]
             tools.append(tool)
-            tool = copy.deepcopy(tool)
             
-            tool["layered"] = True
-            tools.append(tool)
+            tool2 = copy.deepcopy(tool)
+            tool2["multiple"] = 7
+            tools.append(tool2)
+
+            tool2 = copy.deepcopy(tool)            
+            tool2["layered"] = True
+            tools.append(tool2)
 
             tool = {}
             tool["width"] = 9
@@ -147,10 +151,14 @@ def make_scad(**kwargs):
             tool["spacing"] = 15
             tool["offset_tool"] = [0,-17.5,0]
             tools.append(tool)
-            tool = copy.deepcopy(tool)
             
-            tool["layered"] = True
-            tools.append(tool)
+            tool2 = copy.deepcopy(tool)
+            tool2["multiple"] = 7
+            tools.append(tool2)
+            
+            tool2 = copy.deepcopy(tool)            
+            tool2["layered"] = True
+            tools.append(tool2)
 
 
         for tool in tools:
