@@ -19,10 +19,10 @@ kwargs:
   modes:
   - 3dpr
   multiple: 8
-  navigation: true
+  navigation: false
   offset_tool:
   - 0
-  - -10
+  - 10
   - 0
   oomp_classification: oobb
   oomp_color: ''
@@ -31,14 +31,13 @@ kwargs:
   oomp_manufacturer: ''
   oomp_mode: oobb
   oomp_part_number: ''
-  oomp_run: true
+  oomp_run: false
   oomp_size: tool_holder_vertical
   oomp_type: part
   overwrite: true
   spacing: 15
   thickness: 12
   tool: tool_screwdriver_bit_quarter_inch_drive
-  typ: all
   type: oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical
   width: 9
 manufacturer: ''
@@ -64,14 +63,15 @@ thing:
       - 12
       type: positive
       width: 9
-  - - depth: 100
+  - - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: laser
+      m: '#'
       pos: &id001
       - -52.5
-      - -10
+      - -8.25
       - 0.0
       r: 4.0
       radius: 4.0
@@ -82,22 +82,24 @@ thing:
       shape: cylinder
       type: negative
       width: 9
-    - depth: 100
+    - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: 3dpr
+      m: '#'
       pos: *id001
       r: 4.0
       rot: *id002
       shape: cylinder
       type: negative
       width: 9
-    - depth: 100
+    - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: 'true'
+      m: '#'
       pos: *id001
       r: 4.0
       radius: 4.0
@@ -105,14 +107,15 @@ thing:
       shape: cylinder
       type: negative
       width: 9
-  - - depth: 100
+  - - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: laser
+      m: '#'
       pos: &id003
       - -37.5
-      - -10
+      - -8.25
       - 0.0
       r: 4.0
       radius: 4.0
@@ -123,22 +126,24 @@ thing:
       shape: cylinder
       type: negative
       width: 9
-    - depth: 100
+    - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: 3dpr
+      m: '#'
       pos: *id003
       r: 4.0
       rot: *id004
       shape: cylinder
       type: negative
       width: 9
-    - depth: 100
+    - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: 'true'
+      m: '#'
       pos: *id003
       r: 4.0
       radius: 4.0
@@ -146,14 +151,15 @@ thing:
       shape: cylinder
       type: negative
       width: 9
-  - - depth: 100
+  - - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: laser
+      m: '#'
       pos: &id005
       - -22.5
-      - -10
+      - -8.25
       - 0.0
       r: 4.0
       radius: 4.0
@@ -164,22 +170,24 @@ thing:
       shape: cylinder
       type: negative
       width: 9
-    - depth: 100
+    - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: 3dpr
+      m: '#'
       pos: *id005
       r: 4.0
       rot: *id006
       shape: cylinder
       type: negative
       width: 9
-    - depth: 100
+    - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: 'true'
+      m: '#'
       pos: *id005
       r: 4.0
       radius: 4.0
@@ -187,14 +195,15 @@ thing:
       shape: cylinder
       type: negative
       width: 9
-  - - depth: 100
+  - - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: laser
+      m: '#'
       pos: &id007
       - -7.5
-      - -10
+      - -8.25
       - 0.0
       r: 4.0
       radius: 4.0
@@ -205,22 +214,24 @@ thing:
       shape: cylinder
       type: negative
       width: 9
-    - depth: 100
+    - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: 3dpr
+      m: '#'
       pos: *id007
       r: 4.0
       rot: *id008
       shape: cylinder
       type: negative
       width: 9
-    - depth: 100
+    - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: 'true'
+      m: '#'
       pos: *id007
       r: 4.0
       radius: 4.0
@@ -228,14 +239,15 @@ thing:
       shape: cylinder
       type: negative
       width: 9
-  - - depth: 100
+  - - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: laser
+      m: '#'
       pos: &id009
       - 7.5
-      - -10
+      - -8.25
       - 0.0
       r: 4.0
       radius: 4.0
@@ -246,22 +258,24 @@ thing:
       shape: cylinder
       type: negative
       width: 9
-    - depth: 100
+    - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: 3dpr
+      m: '#'
       pos: *id009
       r: 4.0
       rot: *id010
       shape: cylinder
       type: negative
       width: 9
-    - depth: 100
+    - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: 'true'
+      m: '#'
       pos: *id009
       r: 4.0
       radius: 4.0
@@ -269,14 +283,15 @@ thing:
       shape: cylinder
       type: negative
       width: 9
-  - - depth: 100
+  - - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: laser
+      m: '#'
       pos: &id011
       - 22.5
-      - -10
+      - -8.25
       - 0.0
       r: 4.0
       radius: 4.0
@@ -287,22 +302,24 @@ thing:
       shape: cylinder
       type: negative
       width: 9
-    - depth: 100
+    - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: 3dpr
+      m: '#'
       pos: *id011
       r: 4.0
       rot: *id012
       shape: cylinder
       type: negative
       width: 9
-    - depth: 100
+    - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: 'true'
+      m: '#'
       pos: *id011
       r: 4.0
       radius: 4.0
@@ -310,14 +327,15 @@ thing:
       shape: cylinder
       type: negative
       width: 9
-  - - depth: 100
+  - - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: laser
+      m: '#'
       pos: &id013
       - 37.5
-      - -10
+      - -8.25
       - 0.0
       r: 4.0
       radius: 4.0
@@ -328,22 +346,24 @@ thing:
       shape: cylinder
       type: negative
       width: 9
-    - depth: 100
+    - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: 3dpr
+      m: '#'
       pos: *id013
       r: 4.0
       rot: *id014
       shape: cylinder
       type: negative
       width: 9
-    - depth: 100
+    - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: 'true'
+      m: '#'
       pos: *id013
       r: 4.0
       radius: 4.0
@@ -351,14 +371,15 @@ thing:
       shape: cylinder
       type: negative
       width: 9
-  - - depth: 100
+  - - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: laser
+      m: '#'
       pos: &id015
       - 52.5
-      - -10
+      - -8.25
       - 0.0
       r: 4.0
       radius: 4.0
@@ -369,22 +390,24 @@ thing:
       shape: cylinder
       type: negative
       width: 9
-    - depth: 100
+    - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: 3dpr
+      m: '#'
       pos: *id015
       r: 4.0
       rot: *id016
       shape: cylinder
       type: negative
       width: 9
-    - depth: 100
+    - depth: 36.5
       extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
-      h: 100
+      h: 36.5
       height: 3
       inclusion: 'true'
+      m: '#'
       pos: *id015
       r: 4.0
       radius: 4.0
@@ -399,7 +422,7 @@ thing:
         pos: &id017
         - -60.0
         - -15.0
-        - 0
+        - -6.0
         r: 3.0
         shape: cylinder
         type: negative
@@ -426,7 +449,7 @@ thing:
         pos: &id018
         - -60.0
         - 0.0
-        - 0
+        - -6.0
         r: 3.0
         shape: cylinder
         type: negative
@@ -453,7 +476,7 @@ thing:
         pos: &id019
         - -60.0
         - 15.0
-        - 0
+        - -6.0
         r: 3.0
         shape: cylinder
         type: negative
@@ -480,7 +503,7 @@ thing:
         pos: &id020
         - 60.0
         - -15.0
-        - 0
+        - -6.0
         r: 3.0
         shape: cylinder
         type: negative
@@ -507,7 +530,7 @@ thing:
         pos: &id021
         - 60.0
         - 0.0
-        - 0
+        - -6.0
         r: 3.0
         shape: cylinder
         type: negative
@@ -534,7 +557,7 @@ thing:
         pos: &id022
         - 60.0
         - 15.0
-        - 0
+        - -6.0
         r: 3.0
         shape: cylinder
         type: negative
@@ -561,7 +584,7 @@ thing:
         pos: &id023
         - -60.0
         - -15.0
-        - 0
+        - -6.0
         r: 3.0
         shape: cylinder
         type: negative
@@ -588,7 +611,7 @@ thing:
         pos: &id024
         - -45.0
         - -15.0
-        - 0
+        - -6.0
         r: 3.0
         shape: cylinder
         type: negative
@@ -615,7 +638,7 @@ thing:
         pos: &id025
         - -30.0
         - -15.0
-        - 0
+        - -6.0
         r: 3.0
         shape: cylinder
         type: negative
@@ -642,7 +665,7 @@ thing:
         pos: &id026
         - -15.0
         - -15.0
-        - 0
+        - -6.0
         r: 3.0
         shape: cylinder
         type: negative
@@ -669,7 +692,7 @@ thing:
         pos: &id027
         - 0.0
         - -15.0
-        - 0
+        - -6.0
         r: 3.0
         shape: cylinder
         type: negative
@@ -696,7 +719,7 @@ thing:
         pos: &id028
         - 15.0
         - -15.0
-        - 0
+        - -6.0
         r: 3.0
         shape: cylinder
         type: negative
@@ -723,7 +746,7 @@ thing:
         pos: &id029
         - 30.0
         - -15.0
-        - 0
+        - -6.0
         r: 3.0
         shape: cylinder
         type: negative
@@ -750,7 +773,7 @@ thing:
         pos: &id030
         - 45.0
         - -15.0
-        - 0
+        - -6.0
         r: 3.0
         shape: cylinder
         type: negative
@@ -777,7 +800,7 @@ thing:
         pos: &id031
         - 60.0
         - -15.0
-        - 0
+        - -6.0
         r: 3.0
         shape: cylinder
         type: negative
@@ -804,7 +827,7 @@ thing:
         pos: &id032
         - -60.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -831,7 +854,7 @@ thing:
         pos: &id033
         - -60.0
         - -7.5
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -858,7 +881,7 @@ thing:
         pos: &id034
         - -60.0
         - 0.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -885,7 +908,7 @@ thing:
         pos: &id035
         - -60.0
         - 7.5
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -912,7 +935,7 @@ thing:
         pos: &id036
         - -60.0
         - 15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -939,7 +962,7 @@ thing:
         pos: &id037
         - 60.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -966,7 +989,7 @@ thing:
         pos: &id038
         - 60.0
         - -7.5
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -993,7 +1016,7 @@ thing:
         pos: &id039
         - 60.0
         - 0.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1020,7 +1043,7 @@ thing:
         pos: &id040
         - 60.0
         - 7.5
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1047,7 +1070,7 @@ thing:
         pos: &id041
         - 60.0
         - 15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1074,7 +1097,7 @@ thing:
         pos: &id042
         - -60.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1101,7 +1124,7 @@ thing:
         pos: &id043
         - -52.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1128,7 +1151,7 @@ thing:
         pos: &id044
         - -45.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1155,7 +1178,7 @@ thing:
         pos: &id045
         - -37.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1182,7 +1205,7 @@ thing:
         pos: &id046
         - -30.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1209,7 +1232,7 @@ thing:
         pos: &id047
         - -22.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1236,7 +1259,7 @@ thing:
         pos: &id048
         - -15.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1263,7 +1286,7 @@ thing:
         pos: &id049
         - -7.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1290,7 +1313,7 @@ thing:
         pos: &id050
         - 0.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1317,7 +1340,7 @@ thing:
         pos: &id051
         - 7.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1344,7 +1367,7 @@ thing:
         pos: &id052
         - 15.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1371,7 +1394,7 @@ thing:
         pos: &id053
         - 22.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1398,7 +1421,7 @@ thing:
         pos: &id054
         - 30.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1425,7 +1448,7 @@ thing:
         pos: &id055
         - 37.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1452,7 +1475,7 @@ thing:
         pos: &id056
         - 45.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1479,7 +1502,7 @@ thing:
         pos: &id057
         - 52.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1506,7 +1529,7 @@ thing:
         pos: &id058
         - 60.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1533,7 +1556,7 @@ thing:
         pos: &id059
         - -60.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1560,7 +1583,7 @@ thing:
         pos: &id060
         - -60.0
         - -7.5
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1587,7 +1610,7 @@ thing:
         pos: &id061
         - -60.0
         - 0.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1614,7 +1637,7 @@ thing:
         pos: &id062
         - -60.0
         - 7.5
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1641,7 +1664,7 @@ thing:
         pos: &id063
         - -60.0
         - 15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1668,7 +1691,7 @@ thing:
         pos: &id064
         - 60.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1695,7 +1718,7 @@ thing:
         pos: &id065
         - 60.0
         - -7.5
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1722,7 +1745,7 @@ thing:
         pos: &id066
         - 60.0
         - 0.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1749,7 +1772,7 @@ thing:
         pos: &id067
         - 60.0
         - 7.5
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1776,7 +1799,7 @@ thing:
         pos: &id068
         - 60.0
         - 15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1803,7 +1826,7 @@ thing:
         pos: &id069
         - -60.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1830,7 +1853,7 @@ thing:
         pos: &id070
         - -52.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1857,7 +1880,7 @@ thing:
         pos: &id071
         - -45.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1884,7 +1907,7 @@ thing:
         pos: &id072
         - -37.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1911,7 +1934,7 @@ thing:
         pos: &id073
         - -30.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1938,7 +1961,7 @@ thing:
         pos: &id074
         - -22.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1965,7 +1988,7 @@ thing:
         pos: &id075
         - -15.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -1992,7 +2015,7 @@ thing:
         pos: &id076
         - -7.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2019,7 +2042,7 @@ thing:
         pos: &id077
         - 0.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2046,7 +2069,7 @@ thing:
         pos: &id078
         - 7.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2073,7 +2096,7 @@ thing:
         pos: &id079
         - 15.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2100,7 +2123,7 @@ thing:
         pos: &id080
         - 22.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2127,7 +2150,7 @@ thing:
         pos: &id081
         - 30.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2154,7 +2177,7 @@ thing:
         pos: &id082
         - 37.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2181,7 +2204,7 @@ thing:
         pos: &id083
         - 45.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2208,7 +2231,7 @@ thing:
         pos: &id084
         - 52.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2235,7 +2258,7 @@ thing:
         pos: &id085
         - 60.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2262,7 +2285,7 @@ thing:
         pos: &id086
         - -60.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2289,7 +2312,7 @@ thing:
         pos: &id087
         - -60.0
         - -7.5
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2316,7 +2339,7 @@ thing:
         pos: &id088
         - -60.0
         - 0.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2343,7 +2366,7 @@ thing:
         pos: &id089
         - -60.0
         - 7.5
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2370,7 +2393,7 @@ thing:
         pos: &id090
         - -60.0
         - 15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2397,7 +2420,7 @@ thing:
         pos: &id091
         - 60.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2424,7 +2447,7 @@ thing:
         pos: &id092
         - 60.0
         - -7.5
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2451,7 +2474,7 @@ thing:
         pos: &id093
         - 60.0
         - 0.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2478,7 +2501,7 @@ thing:
         pos: &id094
         - 60.0
         - 7.5
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2505,7 +2528,7 @@ thing:
         pos: &id095
         - 60.0
         - 15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2532,7 +2555,7 @@ thing:
         pos: &id096
         - -60.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2559,7 +2582,7 @@ thing:
         pos: &id097
         - -52.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2586,7 +2609,7 @@ thing:
         pos: &id098
         - -45.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2613,7 +2636,7 @@ thing:
         pos: &id099
         - -37.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2640,7 +2663,7 @@ thing:
         pos: &id100
         - -30.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2667,7 +2690,7 @@ thing:
         pos: &id101
         - -22.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2694,7 +2717,7 @@ thing:
         pos: &id102
         - -15.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2721,7 +2744,7 @@ thing:
         pos: &id103
         - -7.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2748,7 +2771,7 @@ thing:
         pos: &id104
         - 0.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2775,7 +2798,7 @@ thing:
         pos: &id105
         - 7.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2802,7 +2825,7 @@ thing:
         pos: &id106
         - 15.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2829,7 +2852,7 @@ thing:
         pos: &id107
         - 22.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2856,7 +2879,7 @@ thing:
         pos: &id108
         - 30.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2883,7 +2906,7 @@ thing:
         pos: &id109
         - 37.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2910,7 +2933,7 @@ thing:
         pos: &id110
         - 45.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2937,7 +2960,7 @@ thing:
         pos: &id111
         - 52.5
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -2964,7 +2987,7 @@ thing:
         pos: &id112
         - 60.0
         - -15.0
-        - 0
+        - -6.0
         r: 1.5
         shape: cylinder
         type: negative
@@ -3031,10 +3054,10 @@ thing:
     modes:
     - 3dpr
     multiple: 8
-    navigation: true
+    navigation: false
     offset_tool:
     - 0
-    - -10
+    - 10
     - 0
     oomp_classification: oobb
     oomp_color: ''
@@ -3043,7 +3066,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: oobb
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: tool_holder_vertical
     oomp_type: part
     overwrite: true
@@ -3051,25 +3074,25 @@ thing:
     - 0
     - 0
     - -6.0
-    save_type: all
+    save_type: none
     shape: oobb_plate
     spacing: 15
     thickness: 12
     tool: tool_screwdriver_bit_quarter_inch_drive
-    typ: all
     type: positive
     width: 9
-  - depth: 100
+  - depth: 36.5
     extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
     filter: ''
     height: 3
+    m: '#'
     modes:
     - 3dpr
     multiple: 8
-    navigation: true
+    navigation: false
     offset_tool:
     - 0
-    - -10
+    - 10
     - 0
     oomp_classification: oobb
     oomp_color: ''
@@ -3078,38 +3101,38 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: oobb
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: tool_holder_vertical
     oomp_type: part
     overwrite: true
     pos:
     - -52.5
-    - -10
-    - 50.0
+    - -8.25
+    - 18.25
     radius: 4.0
     rot:
     - -90
     - 0
     - 0
-    save_type: all
+    save_type: none
     shape: oobb_cylinder
     spacing: 15
     thickness: 12
     tool: tool_screwdriver_bit_quarter_inch_drive
-    typ: all
     type: negative
     width: 9
-  - depth: 100
+  - depth: 36.5
     extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
     filter: ''
     height: 3
+    m: '#'
     modes:
     - 3dpr
     multiple: 8
-    navigation: true
+    navigation: false
     offset_tool:
     - 0
-    - -10
+    - 10
     - 0
     oomp_classification: oobb
     oomp_color: ''
@@ -3118,38 +3141,38 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: oobb
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: tool_holder_vertical
     oomp_type: part
     overwrite: true
     pos:
     - -37.5
-    - -10
-    - 50.0
+    - -8.25
+    - 18.25
     radius: 4.0
     rot:
     - -90
     - 0
     - 0
-    save_type: all
+    save_type: none
     shape: oobb_cylinder
     spacing: 15
     thickness: 12
     tool: tool_screwdriver_bit_quarter_inch_drive
-    typ: all
     type: negative
     width: 9
-  - depth: 100
+  - depth: 36.5
     extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
     filter: ''
     height: 3
+    m: '#'
     modes:
     - 3dpr
     multiple: 8
-    navigation: true
+    navigation: false
     offset_tool:
     - 0
-    - -10
+    - 10
     - 0
     oomp_classification: oobb
     oomp_color: ''
@@ -3158,38 +3181,38 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: oobb
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: tool_holder_vertical
     oomp_type: part
     overwrite: true
     pos:
     - -22.5
-    - -10
-    - 50.0
+    - -8.25
+    - 18.25
     radius: 4.0
     rot:
     - -90
     - 0
     - 0
-    save_type: all
+    save_type: none
     shape: oobb_cylinder
     spacing: 15
     thickness: 12
     tool: tool_screwdriver_bit_quarter_inch_drive
-    typ: all
     type: negative
     width: 9
-  - depth: 100
+  - depth: 36.5
     extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
     filter: ''
     height: 3
+    m: '#'
     modes:
     - 3dpr
     multiple: 8
-    navigation: true
+    navigation: false
     offset_tool:
     - 0
-    - -10
+    - 10
     - 0
     oomp_classification: oobb
     oomp_color: ''
@@ -3198,38 +3221,38 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: oobb
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: tool_holder_vertical
     oomp_type: part
     overwrite: true
     pos:
     - -7.5
-    - -10
-    - 50.0
+    - -8.25
+    - 18.25
     radius: 4.0
     rot:
     - -90
     - 0
     - 0
-    save_type: all
+    save_type: none
     shape: oobb_cylinder
     spacing: 15
     thickness: 12
     tool: tool_screwdriver_bit_quarter_inch_drive
-    typ: all
     type: negative
     width: 9
-  - depth: 100
+  - depth: 36.5
     extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
     filter: ''
     height: 3
+    m: '#'
     modes:
     - 3dpr
     multiple: 8
-    navigation: true
+    navigation: false
     offset_tool:
     - 0
-    - -10
+    - 10
     - 0
     oomp_classification: oobb
     oomp_color: ''
@@ -3238,38 +3261,38 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: oobb
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: tool_holder_vertical
     oomp_type: part
     overwrite: true
     pos:
     - 7.5
-    - -10
-    - 50.0
+    - -8.25
+    - 18.25
     radius: 4.0
     rot:
     - -90
     - 0
     - 0
-    save_type: all
+    save_type: none
     shape: oobb_cylinder
     spacing: 15
     thickness: 12
     tool: tool_screwdriver_bit_quarter_inch_drive
-    typ: all
     type: negative
     width: 9
-  - depth: 100
+  - depth: 36.5
     extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
     filter: ''
     height: 3
+    m: '#'
     modes:
     - 3dpr
     multiple: 8
-    navigation: true
+    navigation: false
     offset_tool:
     - 0
-    - -10
+    - 10
     - 0
     oomp_classification: oobb
     oomp_color: ''
@@ -3278,38 +3301,38 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: oobb
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: tool_holder_vertical
     oomp_type: part
     overwrite: true
     pos:
     - 22.5
-    - -10
-    - 50.0
+    - -8.25
+    - 18.25
     radius: 4.0
     rot:
     - -90
     - 0
     - 0
-    save_type: all
+    save_type: none
     shape: oobb_cylinder
     spacing: 15
     thickness: 12
     tool: tool_screwdriver_bit_quarter_inch_drive
-    typ: all
     type: negative
     width: 9
-  - depth: 100
+  - depth: 36.5
     extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
     filter: ''
     height: 3
+    m: '#'
     modes:
     - 3dpr
     multiple: 8
-    navigation: true
+    navigation: false
     offset_tool:
     - 0
-    - -10
+    - 10
     - 0
     oomp_classification: oobb
     oomp_color: ''
@@ -3318,38 +3341,38 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: oobb
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: tool_holder_vertical
     oomp_type: part
     overwrite: true
     pos:
     - 37.5
-    - -10
-    - 50.0
+    - -8.25
+    - 18.25
     radius: 4.0
     rot:
     - -90
     - 0
     - 0
-    save_type: all
+    save_type: none
     shape: oobb_cylinder
     spacing: 15
     thickness: 12
     tool: tool_screwdriver_bit_quarter_inch_drive
-    typ: all
     type: negative
     width: 9
-  - depth: 100
+  - depth: 36.5
     extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
     filter: ''
     height: 3
+    m: '#'
     modes:
     - 3dpr
     multiple: 8
-    navigation: true
+    navigation: false
     offset_tool:
     - 0
-    - -10
+    - 10
     - 0
     oomp_classification: oobb
     oomp_color: ''
@@ -3358,25 +3381,24 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: oobb
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: tool_holder_vertical
     oomp_type: part
     overwrite: true
     pos:
     - 52.5
-    - -10
-    - 50.0
+    - -8.25
+    - 18.25
     radius: 4.0
     rot:
     - -90
     - 0
     - 0
-    save_type: all
+    save_type: none
     shape: oobb_cylinder
     spacing: 15
     thickness: 12
     tool: tool_screwdriver_bit_quarter_inch_drive
-    typ: all
     type: negative
     width: 9
   - both_holes: true
@@ -3391,10 +3413,10 @@ thing:
     modes:
     - 3dpr
     multiple: 8
-    navigation: true
+    navigation: false
     offset_tool:
     - 0
-    - -10
+    - 10
     - 0
     oomp_classification: oobb
     oomp_color: ''
@@ -3403,20 +3425,19 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: oobb
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: tool_holder_vertical
     oomp_type: part
     overwrite: true
     pos:
     - 0
     - 0
-    - 0
-    save_type: all
+    - -6.0
+    save_type: none
     shape: oobb_holes
     spacing: 15
     thickness: 12
     tool: tool_screwdriver_bit_quarter_inch_drive
-    typ: all
     type: p
     width: 9
   - extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple
@@ -3425,10 +3446,10 @@ thing:
     modes:
     - 3dpr
     multiple: 8
-    navigation: true
+    navigation: false
     offset_tool:
     - 0
-    - -10
+    - 10
     - 0
     oomp_classification: oobb
     oomp_color: ''
@@ -3437,7 +3458,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: oobb
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: tool_holder_vertical
     oomp_type: part
     overwrite: true
@@ -3445,26 +3466,25 @@ thing:
     - 0
     - 0
     - -500
-    save_type: all
+    save_type: none
     shape: oobb_slice
     spacing: 15
     thickness: 12
     tool: tool_screwdriver_bit_quarter_inch_drive
-    typ: all
     type: n
     width: 9
   components_string:
-  - oobb_plate_shape_positive_type_12_depth_0_0_-6.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra
-  - oobb_cylinder_shape_negative_type_100_depth_-52.5_-10_50.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_4.0_radius_-90_0_0_rot
-  - oobb_cylinder_shape_negative_type_100_depth_-37.5_-10_50.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_4.0_radius_-90_0_0_rot
-  - oobb_cylinder_shape_negative_type_100_depth_-22.5_-10_50.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_4.0_radius_-90_0_0_rot
-  - oobb_cylinder_shape_negative_type_100_depth_-7.5_-10_50.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_4.0_radius_-90_0_0_rot
-  - oobb_cylinder_shape_negative_type_100_depth_7.5_-10_50.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_4.0_radius_-90_0_0_rot
-  - oobb_cylinder_shape_negative_type_100_depth_22.5_-10_50.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_4.0_radius_-90_0_0_rot
-  - oobb_cylinder_shape_negative_type_100_depth_37.5_-10_50.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_4.0_radius_-90_0_0_rot
-  - oobb_cylinder_shape_negative_type_100_depth_52.5_-10_50.0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_4.0_radius_-90_0_0_rot
-  - oobb_holes_shape_p_type_12_depth_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_true_both_holes_'top'_'bottom'_'left'_holes
-  - oobb_slice_shape_n_type_0_0_-500_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_true_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_-10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra
+  - oobb_plate_shape_positive_type_12_depth_0_0_-6.0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra
+  - oobb_cylinder_shape_negative_type_36.5_depth_-52.5_-8.25_18.25_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_36.5_depth_-37.5_-8.25_18.25_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_36.5_depth_-22.5_-8.25_18.25_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_36.5_depth_-7.5_-8.25_18.25_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_36.5_depth_7.5_-8.25_18.25_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_36.5_depth_22.5_-8.25_18.25_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_36.5_depth_37.5_-8.25_18.25_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_4.0_radius_-90_0_0_rot
+  - oobb_cylinder_shape_negative_type_36.5_depth_52.5_-8.25_18.25_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_4.0_radius_-90_0_0_rot
+  - oobb_holes_shape_p_type_12_depth_0_0_-6.0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra_true_both_holes_'top'_'bottom'_'left'_holes
+  - oobb_slice_shape_n_type_0_0_-500_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_9_width_3_height_12_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_15_spacing_0_10_0_offset_tool_tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra
   description: oomlout oobb part tool holder vertical tool holder vertical 9x3x12
   description_extra: tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra
   description_main: 9_width_3_height_12_mm_depth

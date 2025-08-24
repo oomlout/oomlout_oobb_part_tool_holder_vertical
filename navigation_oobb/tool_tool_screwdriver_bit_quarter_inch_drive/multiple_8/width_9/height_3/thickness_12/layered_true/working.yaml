@@ -23,7 +23,7 @@ kwargs:
   navigation: true
   offset_tool:
   - 0
-  - -10
+  - 10
   - 0
   oomp_classification: oobb
   oomp_color: ''

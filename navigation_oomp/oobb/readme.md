@@ -1,5 +1,7 @@
 * [part](part)
   * [tool_holder_vertical](part/tool_holder_vertical)
+    * [3_width_3_height_31_mm_depth](part/tool_holder_vertical/3_width_3_height_31_mm_depth)
+      * [tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_extra](part/tool_holder_vertical/3_width_3_height_31_mm_depth/tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_extra)
     * [9_width_3_height_12_mm_depth](part/tool_holder_vertical/9_width_3_height_12_mm_depth)
       * [tool_screwdriver_bit_quarter_inch_drive_tool_7_multiple_extra](part/tool_holder_vertical/9_width_3_height_12_mm_depth/tool_screwdriver_bit_quarter_inch_drive_tool_7_multiple_extra)
       * [tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra](part/tool_holder_vertical/9_width_3_height_12_mm_depth/tool_screwdriver_bit_quarter_inch_drive_tool_8_multiple_extra)

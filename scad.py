@@ -131,7 +131,7 @@ def make_scad(**kwargs):
             tool["tool"] = "tool_screwdriver_bit_quarter_inch_drive"
             tool["multiple"] = 8
             tool["spacing"] = 15
-            tool["offset_tool"] = [0,-10,0]
+            tool["offset_tool"] = [0,10,0]
             tools.append(tool)
             
             tool2 = copy.deepcopy(tool)
@@ -160,6 +160,16 @@ def make_scad(**kwargs):
             tool2["layered"] = True
             tools.append(tool2)
 
+        #teeny turner
+            #tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic
+        if True:
+            tool = {}
+            tool["width"] = 3
+            tool["height"] = 3
+            tool["thickness"] = 28 + thickness_extra
+            tool["tool"] = "tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic"
+            tool["offset_tool"] = [0,3.75,0]
+            tools.append(tool)
 
         for tool in tools:
             part = copy.deepcopy(part_default)
@@ -270,6 +280,7 @@ def get_base(thing, **kwargs):
 
 def get_tool_holder_vertical(thing, **kwargs):
 
+    #prepare_print = kwargs.get("prepare_print", False)
     prepare_print = kwargs.get("prepare_print", True)
     width = kwargs.get("width", 1)
     height = kwargs.get("height", 1)
@@ -304,8 +315,9 @@ def get_tool_holder_vertical(thing, **kwargs):
     p3["depth"] = depth
     p3["holes"] = ["top", "bottom","left"]
     #p3["m"] = "#"
-    pos1 = copy.deepcopy(pos)         
-    p3["pos"] = pos1
+    pos1 = copy.deepcopy(pos)             
+    pos1[2] += - depth/2
+    p3["pos"] = copy.deepcopy(pos1)
     oobb_base.append_full(thing,**p3)
 
     if prepare_print:
@@ -357,12 +369,13 @@ def get_tool_cutout(thing, **kwargs):
 
 
     tools = {}
-    #tool_screwdriver_bit_quarter_inch_drive
+    
     if True:
         tool = {}
-        tool["name"] = "tool_screwdriver_bit_quarter_inch_drive"
-        #parts
+        #tool_screwdriver_bit_quarter_inch_drive
         if True:
+            nam = "tool_screwdriver_bit_quarter_inch_drive"
+            tool["name"] = nam
             parts = []
             p3 = copy.deepcopy(kwargs)
             p3["type"] = "negative"
@@ -370,37 +383,76 @@ def get_tool_cutout(thing, **kwargs):
             p3["radius"] = 8/2
             dep = 100
             p3["depth"] = dep
-            pos = copy.deepcopy(pos)
-            pos[0] += 0
-            pos[1] += 0
-            pos[2] += dep/2
-            p3["pos"] = pos
+            pos1 = copy.deepcopy(pos)
+            pos1[0] += 0
+            pos1[1] += 0
+            pos1[2] += dep/2
+            p3["pos"] = pos1
             rot1 = copy.deepcopy(rot)
             rot1[0] += -90
             p3["rot"] = rot1
             #p3["m"] = "#"
             parts.append(p3)
             tool["parts"] = parts
-        tools["tool_screwdriver_bit_quarter_inch_drive"] = tool
+            tools[nam] = tool
+        #tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic
+        if True:
+            nam = "tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic"
+            tool["name"] = nam
+            parts = []
+            p3 = copy.deepcopy(kwargs)
+            p3["type"] = "negative"
+            p3["shape"] = f"oobb_cylinder"
+            p3["radius"] = 8/2
+            dep = 36.5
+            p3["depth"] = dep
+            pos1 = copy.deepcopy(pos)
+            pos1[0] += 0
+            pos1[1] += -dep/2
+            pos1[2] += dep/2
+            p3["pos"] = pos1
+            rot1 = copy.deepcopy(rot)
+            rot1[0] += -90
+            p3["rot"] = rot1
+            #p3["m"] = "#"
+            parts.append(p3)
+            tool["parts"] = parts
+            tools[nam] = tool
 
     
 
 
     #add tool
-    start_x = -((multiple-1) * spacing) / 2
-    for i in range(multiple):
-        parts = copy.deepcopy(tools[tool_name]["parts"])
+    #multiple
+    parts = copy.deepcopy(tools[tool_name]["parts"])
+    if multiple > 1:            
+        start_x = -((multiple-1) * spacing) / 2
+        for i in range(multiple):
+            
+            for part in parts:
+                #add spacing
+                p3 = copy.deepcopy(part)
+                pos1 = copy.deepcopy(p3["pos"])                
+                pos1[0] += offset_current[0] + start_x + (i * spacing)
+                pos1[1] += offset_current[1]
+                pos1[2] += offset_current[2]                
+                p3["pos"] = pos1
+                p3["m"] = "#"
+                oobb_base.append_full(thing, **p3)
+    else:
+        start_x = 0
         for part in parts:
             #add spacing
             p3 = copy.deepcopy(part)
-            pos1 = copy.deepcopy(offset_current)
-            pos_copy = copy.deepcopy(p3["pos"])
-            pos1[0] += pos_copy[0] + start_x + (i * spacing)
-            pos1[1] += pos_copy[1]
-            pos1[2] += pos_copy[2]
-            
+            pos1 = copy.deepcopy(p3["pos"])
+
+            pos1[0] += offset_current[0] + start_x
+            pos1[1] += offset_current[1] 
+            pos1[2] += offset_current[2] 
             p3["pos"] = pos1
+            p3["m"] = "#"
             oobb_base.append_full(thing, **p3)
+
 
     #add layered
     if layered:
