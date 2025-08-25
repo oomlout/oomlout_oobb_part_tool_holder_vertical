@@ -168,7 +168,7 @@ def make_scad(**kwargs):
             tool["height"] = 3
             tool["thickness"] = 28 + thickness_extra
             tool["tool"] = "tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic"
-            tool["offset_tool"] = [0,3.75,0]
+            tool["offset_tool"] = [0,8,0]
             tools.append(tool)
 
         for tool in tools:
@@ -403,8 +403,8 @@ def get_tool_cutout(thing, **kwargs):
             p3 = copy.deepcopy(kwargs)
             p3["type"] = "negative"
             p3["shape"] = f"oobb_cylinder"
-            p3["radius"] = 8/2
-            dep = 36.5
+            p3["radius"] = 9.5/2
+            dep = 28
             p3["depth"] = dep
             pos1 = copy.deepcopy(pos)
             pos1[0] += 0

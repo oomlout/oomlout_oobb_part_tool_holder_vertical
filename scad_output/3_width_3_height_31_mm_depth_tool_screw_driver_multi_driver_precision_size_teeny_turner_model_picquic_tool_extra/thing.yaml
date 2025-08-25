@@ -21,7 +21,7 @@ kwargs:
   navigation: false
   offset_tool:
   - 0
-  - 3.75
+  - 8
   - 0
   oomp_classification: oobb
   oomp_color: ''
@@ -61,18 +61,18 @@ thing:
       - 31
       type: positive
       width: 3
-  - - depth: 36.5
+  - - depth: 28
       extra: tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool
-      h: 36.5
+      h: 28
       height: 3
       inclusion: laser
       m: '#'
       pos: &id001
       - 0
-      - -14.5
+      - -6.0
       - 0.0
-      r: 4.0
-      radius: 4.0
+      r: 4.75
+      radius: 4.75
       rot: &id002
       - -90
       - 0
@@ -80,27 +80,27 @@ thing:
       shape: cylinder
       type: negative
       width: 3
-    - depth: 36.5
+    - depth: 28
       extra: tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool
-      h: 36.5
+      h: 28
       height: 3
       inclusion: 3dpr
       m: '#'
       pos: *id001
-      r: 4.0
+      r: 4.75
       rot: *id002
       shape: cylinder
       type: negative
       width: 3
-    - depth: 36.5
+    - depth: 28
       extra: tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool
-      h: 36.5
+      h: 28
       height: 3
       inclusion: 'true'
       m: '#'
       pos: *id001
-      r: 4.0
-      radius: 4.0
+      r: 4.75
+      radius: 4.75
       rot: *id002
       shape: cylinder
       type: negative
@@ -1612,7 +1612,7 @@ thing:
     navigation: false
     offset_tool:
     - 0
-    - 3.75
+    - 8
     - 0
     oomp_classification: oobb
     oomp_color: ''
@@ -1635,7 +1635,7 @@ thing:
     tool: tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic
     type: positive
     width: 3
-  - depth: 36.5
+  - depth: 28
     extra: tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool
     filter: ''
     height: 3
@@ -1645,7 +1645,7 @@ thing:
     navigation: false
     offset_tool:
     - 0
-    - 3.75
+    - 8
     - 0
     oomp_classification: oobb
     oomp_color: ''
@@ -1660,9 +1660,9 @@ thing:
     overwrite: true
     pos:
     - 0
-    - -14.5
-    - 18.25
-    radius: 4.0
+    - -6.0
+    - 14.0
+    radius: 4.75
     rot:
     - -90
     - 0
@@ -1687,7 +1687,7 @@ thing:
     navigation: false
     offset_tool:
     - 0
-    - 3.75
+    - 8
     - 0
     oomp_classification: oobb
     oomp_color: ''
@@ -1718,7 +1718,7 @@ thing:
     navigation: false
     offset_tool:
     - 0
-    - 3.75
+    - 8
     - 0
     oomp_classification: oobb
     oomp_color: ''
@@ -1742,10 +1742,10 @@ thing:
     type: n
     width: 3
   components_string:
-  - oobb_plate_shape_positive_type_31_depth_0_0_-15.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_3_width_3_height_31_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_0_3.75_0_offset_tool_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_extra
-  - oobb_cylinder_shape_negative_type_36.5_depth_0_-14.5_18.25_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_3_width_3_height_31_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_0_3.75_0_offset_tool_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_extra_4.0_radius_-90_0_0_rot
-  - oobb_holes_shape_p_type_31_depth_0_0_-15.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_3_width_3_height_31_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_0_3.75_0_offset_tool_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_extra_true_both_holes_'top'_'bottom'_'left'_holes
-  - oobb_slice_shape_n_type_0_0_-500_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_3_width_3_height_31_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_0_3.75_0_offset_tool_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_extra
+  - oobb_plate_shape_positive_type_31_depth_0_0_-15.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_3_width_3_height_31_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_0_8_0_offset_tool_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_extra
+  - oobb_cylinder_shape_negative_type_28_depth_0_-6.0_14.0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_3_width_3_height_31_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_0_8_0_offset_tool_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_extra_4.75_radius_-90_0_0_rot
+  - oobb_holes_shape_p_type_31_depth_0_0_-15.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_3_width_3_height_31_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_0_8_0_offset_tool_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_extra_true_both_holes_'top'_'bottom'_'left'_holes
+  - oobb_slice_shape_n_type_0_0_-500_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_oobb_oomp_mode_false_oomp_run_3_width_3_height_31_thickness_oobb_oomp_classification_part_oomp_type_tool_holder_vertical_oomp_size_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_0_8_0_offset_tool_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_extra
   description: oomlout oobb part tool holder vertical tool holder vertical 3x3x31
   description_extra: tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_extra
   description_main: 3_width_3_height_31_mm_depth

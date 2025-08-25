@@ -21,7 +21,7 @@ kwargs:
   navigation: false
   offset_tool:
   - 0
-  - 3.75
+  - 8
   - 0
   oomp_classification: oobb
   oomp_color: ''
