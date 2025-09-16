@@ -171,6 +171,57 @@ def make_scad(**kwargs):
             tool["offset_tool"] = [0,8,0]
             tools.append(tool)
 
+        #stationery
+        if True:
+            #felt_tip_pen
+            if True:
+                #13_mm_diameter_137_mm_length_sharpie_style
+                if True:
+
+
+                    tool = {}
+                    tool["width"] = 3
+                    tool["height"] = 5
+                    tool["thickness"] = 14 + thickness_extra
+                    tool["tool"] = "stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style"
+                    tool["offset_tool"] = [0,45.5,0]
+                    tool["spacing"] = 20
+                    tools.append(tool)
+
+                    tool_default = copy.deepcopy(tool)
+
+                    #multiple_2
+                    tool = copy.deepcopy(tool_default)
+                    tool["width"] = 4
+                    tool["height"] = 5
+                    tool["multiple"] = 2
+                    tools.append(tool)
+
+                    
+
+                    #multiple 3 5x 5
+                    tool = copy.deepcopy(tool_default)
+                    tool["width"] = 5
+                    tool["height"] = 5                    
+                    tool["multiple"] = 3
+                    tools.append(tool)
+
+                    #multiple 4 7x 5
+                    tool = copy.deepcopy(tool_default)
+                    tool["width"] = 7
+                    tool["height"] = 5
+                    tool["multiple"] = 4
+                    tools.append(tool)
+
+                    #multiple 5 8x 5
+                    tool = copy.deepcopy(tool_default)
+                    tool["width"] = 8
+                    tool["height"] = 5
+                    tool["multiple"] = 5
+                    tools.append(tool)
+
+
+
         for tool in tools:
             part = copy.deepcopy(part_default)
             p3 = copy.deepcopy(kwargs)
@@ -196,6 +247,10 @@ def make_scad(**kwargs):
             if not test:
                 pass
                 parts.append(part)
+
+
+        
+
 
 
     kwargs["parts"] = parts
@@ -405,6 +460,29 @@ def get_tool_cutout(thing, **kwargs):
             p3["shape"] = f"oobb_cylinder"
             p3["radius"] = 9.5/2
             dep = 28
+            p3["depth"] = dep
+            pos1 = copy.deepcopy(pos)
+            pos1[0] += 0
+            pos1[1] += -dep/2
+            pos1[2] += dep/2
+            p3["pos"] = pos1
+            rot1 = copy.deepcopy(rot)
+            rot1[0] += -90
+            p3["rot"] = rot1
+            #p3["m"] = "#"
+            parts.append(p3)
+            tool["parts"] = parts
+            tools[nam] = tool
+        #stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style
+        if True:
+            nam = "stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style"
+            tool["name"] = nam
+            parts = []
+            p3 = copy.deepcopy(kwargs)
+            p3["type"] = "negative"
+            p3["shape"] = f"oobb_cylinder"
+            p3["radius"] = 14/2
+            dep = 137
             p3["depth"] = dep
             pos1 = copy.deepcopy(pos)
             pos1[0] += 0

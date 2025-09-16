@@ -1,3 +1,50 @@
+? oobb_part_tool_holder_vertical_3_width_1_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_extra
+: classification: oobb
+  color: ''
+  description_extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_extra
+  description_main: 3_width_1_height_17_mm_depth
+  full_rotations:
+  - 0
+  - 0
+  - 0
+  full_shift:
+  - 0
+  - 0
+  - 0
+  id: oobb_part_tool_holder_vertical_3_width_1_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_extra
+  id_oobb: oobb_part_oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical_3_width_1_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_extra
+  kwargs:
+    extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool
+    filter: ''
+    height: 1
+    modes:
+    - 3dpr
+    navigation: false
+    offset_tool:
+    - 0
+    - 0
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_extra
+    oomp_description_main: 3_width_1_height_17_mm_depth
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    thickness: 17
+    tool: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style
+    type: oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical
+    width: 3
+  manufacturer: ''
+  name: tool_holder_vertical
+  part_number: ''
+  project_name: C:\gh\oomlout_oobb_part_tool_holder_vertical
+  size: tool_holder_vertical
+  type: part
 ? oobb_part_tool_holder_vertical_3_width_3_height_31_mm_depth_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic_tool_extra
 : classification: oobb
   color: ''
@@ -40,6 +87,255 @@
     typ: all
     type: oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical
     width: 3
+  manufacturer: ''
+  name: tool_holder_vertical
+  part_number: ''
+  project_name: C:\gh\oomlout_oobb_part_tool_holder_vertical
+  size: tool_holder_vertical
+  type: part
+? oobb_part_tool_holder_vertical_3_width_5_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_extra
+: classification: oobb
+  color: ''
+  description_extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_extra
+  description_main: 3_width_5_height_17_mm_depth
+  full_rotations:
+  - 0
+  - 0
+  - 0
+  full_shift:
+  - 0
+  - 0
+  - 0
+  id: oobb_part_tool_holder_vertical_3_width_5_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_extra
+  id_oobb: oobb_part_oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical_3_width_5_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_extra
+  kwargs:
+    extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool
+    filter: ''
+    height: 5
+    modes:
+    - 3dpr
+    navigation: true
+    offset_tool:
+    - 0
+    - 45.5
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_extra
+    oomp_description_main: 3_width_5_height_17_mm_depth
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    spacing: 20
+    thickness: 17
+    tool: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style
+    typ: all
+    type: oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical
+    width: 3
+  manufacturer: ''
+  name: tool_holder_vertical
+  part_number: ''
+  project_name: C:\gh\oomlout_oobb_part_tool_holder_vertical
+  size: tool_holder_vertical
+  type: part
+? oobb_part_tool_holder_vertical_4_width_5_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_2_multiple_extra
+: classification: oobb
+  color: ''
+  description_extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_2_multiple_extra
+  description_main: 4_width_5_height_17_mm_depth
+  full_rotations:
+  - 0
+  - 0
+  - 0
+  full_shift:
+  - 0
+  - 0
+  - 0
+  id: oobb_part_tool_holder_vertical_4_width_5_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_2_multiple_extra
+  id_oobb: oobb_part_oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical_4_width_5_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_2_multiple_extra
+  kwargs:
+    extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_2_multiple
+    filter: ''
+    height: 5
+    modes:
+    - 3dpr
+    multiple: 2
+    navigation: true
+    offset_tool:
+    - 0
+    - 45.5
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_2_multiple_extra
+    oomp_description_main: 4_width_5_height_17_mm_depth
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    spacing: 20
+    thickness: 17
+    tool: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style
+    typ: all
+    type: oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical
+    width: 4
+  manufacturer: ''
+  name: tool_holder_vertical
+  part_number: ''
+  project_name: C:\gh\oomlout_oobb_part_tool_holder_vertical
+  size: tool_holder_vertical
+  type: part
+? oobb_part_tool_holder_vertical_5_width_5_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_3_multiple_extra
+: classification: oobb
+  color: ''
+  description_extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_3_multiple_extra
+  description_main: 5_width_5_height_17_mm_depth
+  full_rotations:
+  - 0
+  - 0
+  - 0
+  full_shift:
+  - 0
+  - 0
+  - 0
+  id: oobb_part_tool_holder_vertical_5_width_5_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_3_multiple_extra
+  id_oobb: oobb_part_oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical_5_width_5_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_3_multiple_extra
+  kwargs:
+    extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_3_multiple
+    filter: ''
+    height: 5
+    modes:
+    - 3dpr
+    multiple: 3
+    navigation: true
+    offset_tool:
+    - 0
+    - 45.5
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_3_multiple_extra
+    oomp_description_main: 5_width_5_height_17_mm_depth
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    spacing: 20
+    thickness: 17
+    tool: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style
+    typ: all
+    type: oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical
+    width: 5
+  manufacturer: ''
+  name: tool_holder_vertical
+  part_number: ''
+  project_name: C:\gh\oomlout_oobb_part_tool_holder_vertical
+  size: tool_holder_vertical
+  type: part
+? oobb_part_tool_holder_vertical_7_width_5_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_4_multiple_extra
+: classification: oobb
+  color: ''
+  description_extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_4_multiple_extra
+  description_main: 7_width_5_height_17_mm_depth
+  full_rotations:
+  - 0
+  - 0
+  - 0
+  full_shift:
+  - 0
+  - 0
+  - 0
+  id: oobb_part_tool_holder_vertical_7_width_5_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_4_multiple_extra
+  id_oobb: oobb_part_oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical_7_width_5_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_4_multiple_extra
+  kwargs:
+    extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_4_multiple
+    filter: ''
+    height: 5
+    modes:
+    - 3dpr
+    multiple: 4
+    navigation: true
+    offset_tool:
+    - 0
+    - 45.5
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_4_multiple_extra
+    oomp_description_main: 7_width_5_height_17_mm_depth
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    spacing: 20
+    thickness: 17
+    tool: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style
+    typ: all
+    type: oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical
+    width: 7
+  manufacturer: ''
+  name: tool_holder_vertical
+  part_number: ''
+  project_name: C:\gh\oomlout_oobb_part_tool_holder_vertical
+  size: tool_holder_vertical
+  type: part
+? oobb_part_tool_holder_vertical_8_width_5_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_5_multiple_extra
+: classification: oobb
+  color: ''
+  description_extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_5_multiple_extra
+  description_main: 8_width_5_height_17_mm_depth
+  full_rotations:
+  - 0
+  - 0
+  - 0
+  full_shift:
+  - 0
+  - 0
+  - 0
+  id: oobb_part_tool_holder_vertical_8_width_5_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_5_multiple_extra
+  id_oobb: oobb_part_oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical_8_width_5_height_17_mm_depth_stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_5_multiple_extra
+  kwargs:
+    extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_5_multiple
+    filter: ''
+    height: 5
+    modes:
+    - 3dpr
+    multiple: 5
+    navigation: true
+    offset_tool:
+    - 0
+    - 45.5
+    - 0
+    oomp_classification: oobb
+    oomp_color: ''
+    oomp_description_extra: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style_tool_5_multiple_extra
+    oomp_description_main: 8_width_5_height_17_mm_depth
+    oomp_manufacturer: ''
+    oomp_mode: oobb
+    oomp_part_number: ''
+    oomp_run: true
+    oomp_size: tool_holder_vertical
+    oomp_type: part
+    overwrite: true
+    spacing: 20
+    thickness: 17
+    tool: stationery_felt_tip_pen_13_mm_diameter_137_mm_length_sharpie_style
+    typ: all
+    type: oomlout_oobb_part_tool_holder_vertical_tool_holder_vertical
+    width: 8
   manufacturer: ''
   name: tool_holder_vertical
   part_number: ''
@@ -4135,6 +4431,247 @@ tool_measure_tape_measure_5000_mm_length_stanley_1_30_696:
   type_upper_length_4: MEAS
   type_upper_length_5: MEASU
   type_upper_length_6: MEASUR
+tool_plastic_prying_tool_large:
+  bip_39_word_dash_12: top-flag-title-chapter-taxi-cigar-artwork-typical-ship-feed-answer-advice
+  bip_39_word_dash_2: top-flag
+  bip_39_word_dash_3: top-flag-title
+  bip_39_word_new_br_12: top<br>flag<br>title<br>chapter<br>taxi<br>cigar<br>artwork<br>typical<br>ship<br>feed<br>answer<br>advice
+  bip_39_word_new_br_2: top<br>flag
+  bip_39_word_new_br_3: top<br>flag<br>title
+  bip_39_word_new_line_12: 'top
+
+    flag
+
+    title
+
+    chapter
+
+    taxi
+
+    cigar
+
+    artwork
+
+    typical
+
+    ship
+
+    feed
+
+    answer
+
+    advice'
+  bip_39_word_new_line_2: 'top
+
+    flag'
+  bip_39_word_new_line_3: 'top
+
+    flag
+
+    title'
+  bip_39_word_no_space_12: topflagtitlechaptertaxicigarartworktypicalshipfeedansweradvice
+  bip_39_word_no_space_2: topflag
+  bip_39_word_no_space_3: topflagtitle
+  bip_39_word_space_12: top flag title chapter taxi cigar artwork typical ship feed
+    answer advice
+  bip_39_word_space_2: top flag
+  bip_39_word_space_3: top flag title
+  bip_39_word_underscore_12: top_flag_title_chapter_taxi_cigar_artwork_typical_ship_feed_answer_advice
+  bip_39_word_underscore_2: top_flag
+  bip_39_word_underscore_3: top_flag_title
+  classification: tool
+  classification_capital: Tool
+  classification_first_letter: t
+  classification_first_letter_upper: T
+  classification_length_1: t
+  classification_length_2: to
+  classification_length_3: too
+  classification_length_4: tool
+  classification_length_5: tool
+  classification_length_6: tool
+  classification_name: Tool
+  classification_no_space_length_1: t
+  classification_no_space_length_2: to
+  classification_no_space_length_3: too
+  classification_no_space_length_4: tool
+  classification_no_space_length_5: tool
+  classification_no_space_length_6: tool
+  classification_no_space_upper_length_1: T
+  classification_no_space_upper_length_2: TO
+  classification_no_space_upper_length_3: TOO
+  classification_no_space_upper_length_4: TOOL
+  classification_no_space_upper_length_5: TOOL
+  classification_no_space_upper_length_6: TOOL
+  classification_upper: TOOL
+  classification_upper_length_1: T
+  classification_upper_length_2: TO
+  classification_upper_length_3: TOO
+  classification_upper_length_4: TOOL
+  classification_upper_length_5: TOOL
+  classification_upper_length_6: TOOL
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_name: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_name: ''
+  description_extra_upper: ''
+  description_main: large
+  description_main_capital: Large
+  description_main_first_letter: l
+  description_main_first_letter_upper: L
+  description_main_length_1: l
+  description_main_length_2: la
+  description_main_length_3: lar
+  description_main_length_4: larg
+  description_main_length_5: large
+  description_main_length_6: large
+  description_main_name: Large
+  description_main_no_space_length_1: l
+  description_main_no_space_length_2: la
+  description_main_no_space_length_3: lar
+  description_main_no_space_length_4: larg
+  description_main_no_space_length_5: large
+  description_main_no_space_length_6: large
+  description_main_no_space_upper_length_1: L
+  description_main_no_space_upper_length_2: LA
+  description_main_no_space_upper_length_3: LAR
+  description_main_no_space_upper_length_4: LARG
+  description_main_no_space_upper_length_5: LARGE
+  description_main_no_space_upper_length_6: LARGE
+  description_main_upper: LARGE
+  description_main_upper_length_1: L
+  description_main_upper_length_2: LA
+  description_main_upper_length_3: LAR
+  description_main_upper_length_4: LARG
+  description_main_upper_length_5: LARGE
+  description_main_upper_length_6: LARGE
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/tool_plastic_prying_tool_large
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_plastic_prying_tool_large
+  id: tool_plastic_prying_tool_large
+  id_no_class: plastic_prying_large
+  id_no_color: plasticpryinglarge
+  id_no_size: plasticpryinglarge
+  id_no_type: plastic_prying_large
+  link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_plastic_prying_tool_large
+  link_1_name: link_main
+  link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_plastic_prying_tool_large
+  link_2_name: link_github
+  link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_plastic_prying_tool_large
+  link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_plastic_prying_tool_large
+  link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%202i05x
+  link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%202i05x
+  link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%202i05x
+  link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%202i05x
+  link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_plastic_prying_tool_large
+  manufacturer: ''
+  manufacturer_capital: ''
+  manufacturer_first_letter: ''
+  manufacturer_first_letter_upper: ''
+  manufacturer_name: ''
+  manufacturer_upper: ''
+  manufacturers: []
+  markdown_full: '[tool_plastic_prying_tool_large](none)<br>[](none)<br>[Tool Plastic
+    Prying Tool Large](none)<br><br>'
+  markdown_short: '[tool_plastic_prying_tool_large](none)<br><br>'
+  md5: 4013552e30ebe1a4a3ef3267c5d60f27
+  md5_10: 4013552e30
+  md5_10_upper: 4013552E30
+  md5_5: '40135'
+  md5_5_upper: '40135'
+  md5_6: '401355'
+  md5_6_alpha: 2i05x
+  md5_6_alpha_upper: 2I05X
+  md5_6_upper: '401355'
+  name: Tool Plastic Prying Tool Large
+  name_no_class: Plastic Prying Large
+  name_no_color: Plasticpryinglarge
+  name_no_size: Plasticpryinglarge
+  name_no_size_short: Plasticpryinglarge
+  name_no_type: Plastic Prying Large
+  oomlout_detail_hierarchy_1: tool
+  oomlout_detail_hierarchy_1_upper: TOOL
+  oomlout_detail_hierarchy_1_upper_length_4: TOOL
+  oomlout_detail_hierarchy_2: plastic_prying_tool
+  oomlout_detail_hierarchy_2_upper: PLASTIC_PRYING_TOOL
+  oomlout_detail_hierarchy_2_upper_length_4: PLAS
+  oomlout_detail_hierarchy_3: large
+  oomlout_detail_hierarchy_3_upper: LARGE
+  oomlout_detail_hierarchy_3_upper_length_4: LARG
+  oomlout_oomp_utility_custom_data_manipulation: true
+  oomp_key: oomp_tool_plastic_prying_tool_large
+  oomp_word: racehorse question dolphin
+  oomp_word_emoji: ':racehorse: :question: :dolphin:'
+  oomp_word_emoji_list:
+  - ':racehorse:'
+  - ':question:'
+  - ':dolphin:'
+  oomp_word_list:
+  - racehorse
+  - question
+  - dolphin
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_name: ''
+  part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
+  price_3_name: amazon
+  price_4_name: aliexpress
+  short_code: ''
+  short_code_upper: ''
+  size: ''
+  size_capital: ''
+  size_first_letter: ''
+  size_first_letter_upper: ''
+  size_name: ''
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: ''
+  type: plastic_prying_tool
+  type_capital: Plastic Prying Tool
+  type_first_letter: p
+  type_first_letter_upper: P
+  type_length_1: p
+  type_length_2: pl
+  type_length_3: pla
+  type_length_4: plas
+  type_length_5: plast
+  type_length_6: plasti
+  type_name: Plastic Prying Tool
+  type_no_space_length_1: p
+  type_no_space_length_2: pl
+  type_no_space_length_3: pla
+  type_no_space_length_4: plas
+  type_no_space_length_5: plast
+  type_no_space_length_6: plasti
+  type_no_space_upper_length_1: P
+  type_no_space_upper_length_2: PL
+  type_no_space_upper_length_3: PLA
+  type_no_space_upper_length_4: PLAS
+  type_no_space_upper_length_5: PLAST
+  type_no_space_upper_length_6: PLASTI
+  type_upper: PLASTIC_PRYING_TOOL
+  type_upper_length_1: P
+  type_upper_length_2: PL
+  type_upper_length_3: PLA
+  type_upper_length_4: PLAS
+  type_upper_length_5: PLAST
+  type_upper_length_6: PLASTI
 tool_scale_67_mm_width_120_mm_height_18_mm_depth_500_gram_capacity_aliexpress_jewelry_scale:
   bip_39_word_dash_12: famous-talk-phone-hidden-double-steel-noble-beyond-wonder-copper-quality-alien
   bip_39_word_dash_2: famous-talk
@@ -5463,6 +6000,1749 @@ tool_scale_76_mm_width_114_mm_height_20_mm_depth_200_gram_capacity_aliexpress_je
   type_upper_length_4: SCAL
   type_upper_length_5: SCALE
   type_upper_length_6: SCALE
+tool_screw_driver_multi_driver_full_size_hex_calibre_metric_model_picquic:
+  bip_39_word_dash_12: dune-crawl-crisp-pass-lab-craft-loud-refuse-clean-marble-gospel-alley
+  bip_39_word_dash_2: dune-crawl
+  bip_39_word_dash_3: dune-crawl-crisp
+  bip_39_word_new_br_12: dune<br>crawl<br>crisp<br>pass<br>lab<br>craft<br>loud<br>refuse<br>clean<br>marble<br>gospel<br>alley
+  bip_39_word_new_br_2: dune<br>crawl
+  bip_39_word_new_br_3: dune<br>crawl<br>crisp
+  bip_39_word_new_line_12: 'dune
+
+    crawl
+
+    crisp
+
+    pass
+
+    lab
+
+    craft
+
+    loud
+
+    refuse
+
+    clean
+
+    marble
+
+    gospel
+
+    alley'
+  bip_39_word_new_line_2: 'dune
+
+    crawl'
+  bip_39_word_new_line_3: 'dune
+
+    crawl
+
+    crisp'
+  bip_39_word_no_space_12: dunecrawlcrisppasslabcraftloudrefusecleanmarblegospelalley
+  bip_39_word_no_space_2: dunecrawl
+  bip_39_word_no_space_3: dunecrawlcrisp
+  bip_39_word_space_12: dune crawl crisp pass lab craft loud refuse clean marble gospel
+    alley
+  bip_39_word_space_2: dune crawl
+  bip_39_word_space_3: dune crawl crisp
+  bip_39_word_underscore_12: dune_crawl_crisp_pass_lab_craft_loud_refuse_clean_marble_gospel_alley
+  bip_39_word_underscore_2: dune_crawl
+  bip_39_word_underscore_3: dune_crawl_crisp
+  classification: tool
+  classification_capital: Tool
+  classification_first_letter: t
+  classification_first_letter_upper: T
+  classification_length_1: t
+  classification_length_2: to
+  classification_length_3: too
+  classification_length_4: tool
+  classification_length_5: tool
+  classification_length_6: tool
+  classification_name: Tool
+  classification_no_space_length_1: t
+  classification_no_space_length_2: to
+  classification_no_space_length_3: too
+  classification_no_space_length_4: tool
+  classification_no_space_length_5: tool
+  classification_no_space_length_6: tool
+  classification_no_space_upper_length_1: T
+  classification_no_space_upper_length_2: TO
+  classification_no_space_upper_length_3: TOO
+  classification_no_space_upper_length_4: TOOL
+  classification_no_space_upper_length_5: TOOL
+  classification_no_space_upper_length_6: TOOL
+  classification_upper: TOOL
+  classification_upper_length_1: T
+  classification_upper_length_2: TO
+  classification_upper_length_3: TOO
+  classification_upper_length_4: TOOL
+  classification_upper_length_5: TOOL
+  classification_upper_length_6: TOOL
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_name: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_name: ''
+  description_extra_upper: ''
+  description_main: hex_calibre_metric_model
+  description_main_capital: Hex Calibre Metric Model
+  description_main_first_letter: h
+  description_main_first_letter_upper: H
+  description_main_length_1: h
+  description_main_length_2: he
+  description_main_length_3: hex
+  description_main_length_4: hex_
+  description_main_length_5: hex_c
+  description_main_length_6: hex_ca
+  description_main_name: Hex Calibre Metric Model
+  description_main_no_space_length_1: h
+  description_main_no_space_length_2: he
+  description_main_no_space_length_3: hex
+  description_main_no_space_length_4: hexc
+  description_main_no_space_length_5: hexca
+  description_main_no_space_length_6: hexcal
+  description_main_no_space_upper_length_1: H
+  description_main_no_space_upper_length_2: HE
+  description_main_no_space_upper_length_3: HEX
+  description_main_no_space_upper_length_4: HEXC
+  description_main_no_space_upper_length_5: HEXCA
+  description_main_no_space_upper_length_6: HEXCAL
+  description_main_upper: HEX_CALIBRE_METRIC_MODEL
+  description_main_upper_length_1: H
+  description_main_upper_length_2: HE
+  description_main_upper_length_3: HEX
+  description_main_upper_length_4: HEX_
+  description_main_upper_length_5: HEX_C
+  description_main_upper_length_6: HEX_CA
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/tool_screw_driver_multi_driver_full_size_hex_calibre_metric_model_picquic
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_screw_driver_multi_driver_full_size_hex_calibre_metric_model_picquic
+  id: tool_screw_driver_multi_driver_full_size_hex_calibre_metric_model_picquic
+  id_no_class: screw_driver_multi_driver_full_size_hex_calibre_metric_model_picquic
+  id_no_color: hexcalibremetricmodelpicquic
+  id_no_size: hex_calibre_metric_model_picquic
+  id_no_type: full_size_hex_calibre_metric_model_picquic
+  link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_hex_calibre_metric_model_picquic
+  link_1_name: link_main
+  link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_hex_calibre_metric_model_picquic
+  link_2_name: link_github
+  link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_hex_calibre_metric_model_picquic
+  link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_hex_calibre_metric_model_picquic
+  link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20436w1
+  link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20436w1
+  link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20436w1
+  link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20436w1
+  link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_hex_calibre_metric_model_picquic
+  manufacturer: picquic
+  manufacturer_capital: Picquic
+  manufacturer_first_letter: p
+  manufacturer_first_letter_upper: P
+  manufacturer_length_1: p
+  manufacturer_length_2: pi
+  manufacturer_length_3: pic
+  manufacturer_length_4: picq
+  manufacturer_length_5: picqu
+  manufacturer_length_6: picqui
+  manufacturer_name: Picquic
+  manufacturer_no_space_length_1: p
+  manufacturer_no_space_length_2: pi
+  manufacturer_no_space_length_3: pic
+  manufacturer_no_space_length_4: picq
+  manufacturer_no_space_length_5: picqu
+  manufacturer_no_space_length_6: picqui
+  manufacturer_no_space_upper_length_1: P
+  manufacturer_no_space_upper_length_2: PI
+  manufacturer_no_space_upper_length_3: PIC
+  manufacturer_no_space_upper_length_4: PICQ
+  manufacturer_no_space_upper_length_5: PICQU
+  manufacturer_no_space_upper_length_6: PICQUI
+  manufacturer_upper: PICQUIC
+  manufacturer_upper_length_1: P
+  manufacturer_upper_length_2: PI
+  manufacturer_upper_length_3: PIC
+  manufacturer_upper_length_4: PICQ
+  manufacturer_upper_length_5: PICQU
+  manufacturer_upper_length_6: PICQUI
+  manufacturers: []
+  markdown_full: '[tool_screw_driver_multi_driver_full_size_hex_calibre_metric_model_picquic](none)<br>[](none)<br>[Tool
+    Screw Driver Multi Driver Full Size Hex Calibre Metric Model Picquic](none)<br><br>'
+  markdown_short: '[tool_screw_driver_multi_driver_full_size_hex_calibre_metric_model_picquic](none)<br><br>'
+  md5: 68c9a1e952b47084c83e0a0a674caa20
+  md5_10: 68c9a1e952
+  md5_10_upper: 68C9A1E952
+  md5_5: 68c9a
+  md5_5_upper: 68C9A
+  md5_6: 68c9a1
+  md5_6_alpha: 436w1
+  md5_6_alpha_upper: 436W1
+  md5_6_upper: 68C9A1
+  name: Tool Screw Driver Multi Driver Full Size Hex Calibre Metric Model Picquic
+  name_no_class: Screw Driver Multi Driver Full Size Hex Calibre Metric Model Picquic
+  name_no_color: Hexcalibremetricmodelpicquic
+  name_no_size: Hex Calibre Metric Model Picquic
+  name_no_size_short: Hex Calibre Metric Model Picquic
+  name_no_type: Full Size Hex Calibre Metric Model Picquic
+  oomlout_detail_hierarchy_1: tool
+  oomlout_detail_hierarchy_1_upper: TOOL
+  oomlout_detail_hierarchy_1_upper_length_4: TOOL
+  oomlout_detail_hierarchy_2: sdriver_multi_driver
+  oomlout_detail_hierarchy_2_upper: SDRIVER_MULTI_DRIVER
+  oomlout_detail_hierarchy_2_upper_length_4: SDRI
+  oomlout_detail_hierarchy_3: full_size
+  oomlout_detail_hierarchy_3_upper: FULL_SIZE
+  oomlout_detail_hierarchy_3_upper_length_4: FULL
+  oomlout_detail_hierarchy_4: hex_calibre_metric_model
+  oomlout_detail_hierarchy_4_upper: HEX_CALIBRE_METRIC_MODEL
+  oomlout_detail_hierarchy_4_upper_length_4: HEX_
+  oomlout_detail_hierarchy_5: picquic
+  oomlout_detail_hierarchy_5_upper: PICQUIC
+  oomlout_detail_hierarchy_5_upper_length_4: PICQ
+  oomlout_oomp_utility_custom_data_manipulation: true
+  oomp_key: oomp_tool_screw_driver_multi_driver_full_size_hex_calibre_metric_model_picquic
+  oomp_word: mushroom lemon trophy
+  oomp_word_emoji: ':mushroom: :lemon: :trophy:'
+  oomp_word_emoji_list:
+  - ':mushroom:'
+  - ':lemon:'
+  - ':trophy:'
+  oomp_word_list:
+  - mushroom
+  - lemon
+  - trophy
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_name: ''
+  part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
+  price_3_name: amazon
+  price_4_name: aliexpress
+  short_code: ''
+  short_code_upper: ''
+  size: full_size
+  size_capital: Full Size
+  size_first_letter: f
+  size_first_letter_upper: F
+  size_length_1: f
+  size_length_2: fu
+  size_length_3: ful
+  size_length_4: full
+  size_length_5: full_
+  size_length_6: full_s
+  size_name: Full Size
+  size_no_space_length_1: f
+  size_no_space_length_2: fu
+  size_no_space_length_3: ful
+  size_no_space_length_4: full
+  size_no_space_length_5: fulls
+  size_no_space_length_6: fullsi
+  size_no_space_upper_length_1: F
+  size_no_space_upper_length_2: FU
+  size_no_space_upper_length_3: FUL
+  size_no_space_upper_length_4: FULL
+  size_no_space_upper_length_5: FULLS
+  size_no_space_upper_length_6: FULLSI
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: FULL_SIZE
+  size_upper_length_1: F
+  size_upper_length_2: FU
+  size_upper_length_3: FUL
+  size_upper_length_4: FULL
+  size_upper_length_5: FULL_
+  size_upper_length_6: FULL_S
+  type: screw_driver_multi_driver
+  type_capital: Screw Driver Multi Driver
+  type_first_letter: s
+  type_first_letter_upper: S
+  type_length_1: s
+  type_length_2: sc
+  type_length_3: scr
+  type_length_4: scre
+  type_length_5: screw
+  type_length_6: screw_
+  type_name: Screw Driver Multi Driver
+  type_no_space_length_1: s
+  type_no_space_length_2: sc
+  type_no_space_length_3: scr
+  type_no_space_length_4: scre
+  type_no_space_length_5: screw
+  type_no_space_length_6: screwd
+  type_no_space_upper_length_1: S
+  type_no_space_upper_length_2: SC
+  type_no_space_upper_length_3: SCR
+  type_no_space_upper_length_4: SCRE
+  type_no_space_upper_length_5: SCREW
+  type_no_space_upper_length_6: SCREWD
+  type_upper: SCREW_DRIVER_MULTI_DRIVER
+  type_upper_length_1: S
+  type_upper_length_2: SC
+  type_upper_length_3: SCR
+  type_upper_length_4: SCRE
+  type_upper_length_5: SCREW
+  type_upper_length_6: SCREW_
+tool_screw_driver_multi_driver_full_size_hex_calibre_sae_model_picquic:
+  bip_39_word_dash_12: safe-ordinary-cinnamon-ketchup-path-dizzy-faculty-cruise-board-high-theme-announce
+  bip_39_word_dash_2: safe-ordinary
+  bip_39_word_dash_3: safe-ordinary-cinnamon
+  bip_39_word_new_br_12: safe<br>ordinary<br>cinnamon<br>ketchup<br>path<br>dizzy<br>faculty<br>cruise<br>board<br>high<br>theme<br>announce
+  bip_39_word_new_br_2: safe<br>ordinary
+  bip_39_word_new_br_3: safe<br>ordinary<br>cinnamon
+  bip_39_word_new_line_12: 'safe
+
+    ordinary
+
+    cinnamon
+
+    ketchup
+
+    path
+
+    dizzy
+
+    faculty
+
+    cruise
+
+    board
+
+    high
+
+    theme
+
+    announce'
+  bip_39_word_new_line_2: 'safe
+
+    ordinary'
+  bip_39_word_new_line_3: 'safe
+
+    ordinary
+
+    cinnamon'
+  bip_39_word_no_space_12: safeordinarycinnamonketchuppathdizzyfacultycruiseboardhighthemeannounce
+  bip_39_word_no_space_2: safeordinary
+  bip_39_word_no_space_3: safeordinarycinnamon
+  bip_39_word_space_12: safe ordinary cinnamon ketchup path dizzy faculty cruise board
+    high theme announce
+  bip_39_word_space_2: safe ordinary
+  bip_39_word_space_3: safe ordinary cinnamon
+  bip_39_word_underscore_12: safe_ordinary_cinnamon_ketchup_path_dizzy_faculty_cruise_board_high_theme_announce
+  bip_39_word_underscore_2: safe_ordinary
+  bip_39_word_underscore_3: safe_ordinary_cinnamon
+  classification: tool
+  classification_capital: Tool
+  classification_first_letter: t
+  classification_first_letter_upper: T
+  classification_length_1: t
+  classification_length_2: to
+  classification_length_3: too
+  classification_length_4: tool
+  classification_length_5: tool
+  classification_length_6: tool
+  classification_name: Tool
+  classification_no_space_length_1: t
+  classification_no_space_length_2: to
+  classification_no_space_length_3: too
+  classification_no_space_length_4: tool
+  classification_no_space_length_5: tool
+  classification_no_space_length_6: tool
+  classification_no_space_upper_length_1: T
+  classification_no_space_upper_length_2: TO
+  classification_no_space_upper_length_3: TOO
+  classification_no_space_upper_length_4: TOOL
+  classification_no_space_upper_length_5: TOOL
+  classification_no_space_upper_length_6: TOOL
+  classification_upper: TOOL
+  classification_upper_length_1: T
+  classification_upper_length_2: TO
+  classification_upper_length_3: TOO
+  classification_upper_length_4: TOOL
+  classification_upper_length_5: TOOL
+  classification_upper_length_6: TOOL
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_name: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_name: ''
+  description_extra_upper: ''
+  description_main: hex_calibre_sae_model
+  description_main_capital: Hex Calibre Sae Model
+  description_main_first_letter: h
+  description_main_first_letter_upper: H
+  description_main_length_1: h
+  description_main_length_2: he
+  description_main_length_3: hex
+  description_main_length_4: hex_
+  description_main_length_5: hex_c
+  description_main_length_6: hex_ca
+  description_main_name: Hex Calibre Sae Model
+  description_main_no_space_length_1: h
+  description_main_no_space_length_2: he
+  description_main_no_space_length_3: hex
+  description_main_no_space_length_4: hexc
+  description_main_no_space_length_5: hexca
+  description_main_no_space_length_6: hexcal
+  description_main_no_space_upper_length_1: H
+  description_main_no_space_upper_length_2: HE
+  description_main_no_space_upper_length_3: HEX
+  description_main_no_space_upper_length_4: HEXC
+  description_main_no_space_upper_length_5: HEXCA
+  description_main_no_space_upper_length_6: HEXCAL
+  description_main_upper: HEX_CALIBRE_SAE_MODEL
+  description_main_upper_length_1: H
+  description_main_upper_length_2: HE
+  description_main_upper_length_3: HEX
+  description_main_upper_length_4: HEX_
+  description_main_upper_length_5: HEX_C
+  description_main_upper_length_6: HEX_CA
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/tool_screw_driver_multi_driver_full_size_hex_calibre_sae_model_picquic
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_screw_driver_multi_driver_full_size_hex_calibre_sae_model_picquic
+  id: tool_screw_driver_multi_driver_full_size_hex_calibre_sae_model_picquic
+  id_no_class: screw_driver_multi_driver_full_size_hex_calibre_sae_model_picquic
+  id_no_color: hexcalibresaemodelpicquic
+  id_no_size: hex_calibre_sae_model_picquic
+  id_no_type: full_size_hex_calibre_sae_model_picquic
+  link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_hex_calibre_sae_model_picquic
+  link_1_name: link_main
+  link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_hex_calibre_sae_model_picquic
+  link_2_name: link_github
+  link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_hex_calibre_sae_model_picquic
+  link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_hex_calibre_sae_model_picquic
+  link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%205ucka
+  link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%205ucka
+  link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%205ucka
+  link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%205ucka
+  link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_hex_calibre_sae_model_picquic
+  manufacturer: picquic
+  manufacturer_capital: Picquic
+  manufacturer_first_letter: p
+  manufacturer_first_letter_upper: P
+  manufacturer_length_1: p
+  manufacturer_length_2: pi
+  manufacturer_length_3: pic
+  manufacturer_length_4: picq
+  manufacturer_length_5: picqu
+  manufacturer_length_6: picqui
+  manufacturer_name: Picquic
+  manufacturer_no_space_length_1: p
+  manufacturer_no_space_length_2: pi
+  manufacturer_no_space_length_3: pic
+  manufacturer_no_space_length_4: picq
+  manufacturer_no_space_length_5: picqu
+  manufacturer_no_space_length_6: picqui
+  manufacturer_no_space_upper_length_1: P
+  manufacturer_no_space_upper_length_2: PI
+  manufacturer_no_space_upper_length_3: PIC
+  manufacturer_no_space_upper_length_4: PICQ
+  manufacturer_no_space_upper_length_5: PICQU
+  manufacturer_no_space_upper_length_6: PICQUI
+  manufacturer_upper: PICQUIC
+  manufacturer_upper_length_1: P
+  manufacturer_upper_length_2: PI
+  manufacturer_upper_length_3: PIC
+  manufacturer_upper_length_4: PICQ
+  manufacturer_upper_length_5: PICQU
+  manufacturer_upper_length_6: PICQUI
+  manufacturers: []
+  markdown_full: '[tool_screw_driver_multi_driver_full_size_hex_calibre_sae_model_picquic](none)<br>[](none)<br>[Tool
+    Screw Driver Multi Driver Full Size Hex Calibre Sae Model Picquic](none)<br><br>'
+  markdown_short: '[tool_screw_driver_multi_driver_full_size_hex_calibre_sae_model_picquic](none)<br><br>'
+  md5: 95c01ae0c534aa3500d0779e522715f0
+  md5_10: 95c01ae0c5
+  md5_10_upper: 95C01AE0C5
+  md5_5: 95c01
+  md5_5_upper: 95C01
+  md5_6: 95c01a
+  md5_6_alpha: 5ucka
+  md5_6_alpha_upper: 5UCKA
+  md5_6_upper: 95C01A
+  name: Tool Screw Driver Multi Driver Full Size Hex Calibre Sae Model Picquic
+  name_no_class: Screw Driver Multi Driver Full Size Hex Calibre Sae Model Picquic
+  name_no_color: Hexcalibresaemodelpicquic
+  name_no_size: Hex Calibre Sae Model Picquic
+  name_no_size_short: Hex Calibre Sae Model Picquic
+  name_no_type: Full Size Hex Calibre Sae Model Picquic
+  oomlout_detail_hierarchy_1: tool
+  oomlout_detail_hierarchy_1_upper: TOOL
+  oomlout_detail_hierarchy_1_upper_length_4: TOOL
+  oomlout_detail_hierarchy_2: sdriver_multi_driver
+  oomlout_detail_hierarchy_2_upper: SDRIVER_MULTI_DRIVER
+  oomlout_detail_hierarchy_2_upper_length_4: SDRI
+  oomlout_detail_hierarchy_3: full_size
+  oomlout_detail_hierarchy_3_upper: FULL_SIZE
+  oomlout_detail_hierarchy_3_upper_length_4: FULL
+  oomlout_detail_hierarchy_4: hex_calibre_sae_model
+  oomlout_detail_hierarchy_4_upper: HEX_CALIBRE_SAE_MODEL
+  oomlout_detail_hierarchy_4_upper_length_4: HEX_
+  oomlout_detail_hierarchy_5: picquic
+  oomlout_detail_hierarchy_5_upper: PICQUIC
+  oomlout_detail_hierarchy_5_upper_length_4: PICQ
+  oomlout_oomp_utility_custom_data_manipulation: true
+  oomp_key: oomp_tool_screw_driver_multi_driver_full_size_hex_calibre_sae_model_picquic
+  oomp_word: telescope bread clap
+  oomp_word_emoji: ':telescope: :bread: :clap:'
+  oomp_word_emoji_list:
+  - ':telescope:'
+  - ':bread:'
+  - ':clap:'
+  oomp_word_list:
+  - telescope
+  - bread
+  - clap
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_name: ''
+  part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
+  price_3_name: amazon
+  price_4_name: aliexpress
+  short_code: ''
+  short_code_upper: ''
+  size: full_size
+  size_capital: Full Size
+  size_first_letter: f
+  size_first_letter_upper: F
+  size_length_1: f
+  size_length_2: fu
+  size_length_3: ful
+  size_length_4: full
+  size_length_5: full_
+  size_length_6: full_s
+  size_name: Full Size
+  size_no_space_length_1: f
+  size_no_space_length_2: fu
+  size_no_space_length_3: ful
+  size_no_space_length_4: full
+  size_no_space_length_5: fulls
+  size_no_space_length_6: fullsi
+  size_no_space_upper_length_1: F
+  size_no_space_upper_length_2: FU
+  size_no_space_upper_length_3: FUL
+  size_no_space_upper_length_4: FULL
+  size_no_space_upper_length_5: FULLS
+  size_no_space_upper_length_6: FULLSI
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: FULL_SIZE
+  size_upper_length_1: F
+  size_upper_length_2: FU
+  size_upper_length_3: FUL
+  size_upper_length_4: FULL
+  size_upper_length_5: FULL_
+  size_upper_length_6: FULL_S
+  type: screw_driver_multi_driver
+  type_capital: Screw Driver Multi Driver
+  type_first_letter: s
+  type_first_letter_upper: S
+  type_length_1: s
+  type_length_2: sc
+  type_length_3: scr
+  type_length_4: scre
+  type_length_5: screw
+  type_length_6: screw_
+  type_name: Screw Driver Multi Driver
+  type_no_space_length_1: s
+  type_no_space_length_2: sc
+  type_no_space_length_3: scr
+  type_no_space_length_4: scre
+  type_no_space_length_5: screw
+  type_no_space_length_6: screwd
+  type_no_space_upper_length_1: S
+  type_no_space_upper_length_2: SC
+  type_no_space_upper_length_3: SCR
+  type_no_space_upper_length_4: SCRE
+  type_no_space_upper_length_5: SCREW
+  type_no_space_upper_length_6: SCREWD
+  type_upper: SCREW_DRIVER_MULTI_DRIVER
+  type_upper_length_1: S
+  type_upper_length_2: SC
+  type_upper_length_3: SCR
+  type_upper_length_4: SCRE
+  type_upper_length_5: SCREW
+  type_upper_length_6: SCREW_
+tool_screw_driver_multi_driver_full_size_picquic:
+  bip_39_word_dash_12: rare-enroll-barrel-medal-guess-leopard-mention-rich-valid-great-panther-abstract
+  bip_39_word_dash_2: rare-enroll
+  bip_39_word_dash_3: rare-enroll-barrel
+  bip_39_word_new_br_12: rare<br>enroll<br>barrel<br>medal<br>guess<br>leopard<br>mention<br>rich<br>valid<br>great<br>panther<br>abstract
+  bip_39_word_new_br_2: rare<br>enroll
+  bip_39_word_new_br_3: rare<br>enroll<br>barrel
+  bip_39_word_new_line_12: 'rare
+
+    enroll
+
+    barrel
+
+    medal
+
+    guess
+
+    leopard
+
+    mention
+
+    rich
+
+    valid
+
+    great
+
+    panther
+
+    abstract'
+  bip_39_word_new_line_2: 'rare
+
+    enroll'
+  bip_39_word_new_line_3: 'rare
+
+    enroll
+
+    barrel'
+  bip_39_word_no_space_12: rareenrollbarrelmedalguessleopardmentionrichvalidgreatpantherabstract
+  bip_39_word_no_space_2: rareenroll
+  bip_39_word_no_space_3: rareenrollbarrel
+  bip_39_word_space_12: rare enroll barrel medal guess leopard mention rich valid
+    great panther abstract
+  bip_39_word_space_2: rare enroll
+  bip_39_word_space_3: rare enroll barrel
+  bip_39_word_underscore_12: rare_enroll_barrel_medal_guess_leopard_mention_rich_valid_great_panther_abstract
+  bip_39_word_underscore_2: rare_enroll
+  bip_39_word_underscore_3: rare_enroll_barrel
+  classification: tool
+  classification_capital: Tool
+  classification_first_letter: t
+  classification_first_letter_upper: T
+  classification_length_1: t
+  classification_length_2: to
+  classification_length_3: too
+  classification_length_4: tool
+  classification_length_5: tool
+  classification_length_6: tool
+  classification_name: Tool
+  classification_no_space_length_1: t
+  classification_no_space_length_2: to
+  classification_no_space_length_3: too
+  classification_no_space_length_4: tool
+  classification_no_space_length_5: tool
+  classification_no_space_length_6: tool
+  classification_no_space_upper_length_1: T
+  classification_no_space_upper_length_2: TO
+  classification_no_space_upper_length_3: TOO
+  classification_no_space_upper_length_4: TOOL
+  classification_no_space_upper_length_5: TOOL
+  classification_no_space_upper_length_6: TOOL
+  classification_upper: TOOL
+  classification_upper_length_1: T
+  classification_upper_length_2: TO
+  classification_upper_length_3: TOO
+  classification_upper_length_4: TOOL
+  classification_upper_length_5: TOOL
+  classification_upper_length_6: TOOL
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_name: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_name: ''
+  description_extra_upper: ''
+  description_main: ''
+  description_main_capital: ''
+  description_main_first_letter: ''
+  description_main_first_letter_upper: ''
+  description_main_name: ''
+  description_main_upper: ''
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/tool_screw_driver_multi_driver_full_size_picquic
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_screw_driver_multi_driver_full_size_picquic
+  id: tool_screw_driver_multi_driver_full_size_picquic
+  id_no_class: screw_driver_multi_driver_full_size_picquic
+  id_no_color: picquic
+  id_no_size: picquic
+  id_no_type: full_size_picquic
+  link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_picquic
+  link_1_name: link_main
+  link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_picquic
+  link_2_name: link_github
+  link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_picquic
+  link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_picquic
+  link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%20lf2x
+  link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%20lf2x
+  link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%20lf2x
+  link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%20lf2x
+  link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_picquic
+  manufacturer: picquic
+  manufacturer_capital: Picquic
+  manufacturer_first_letter: p
+  manufacturer_first_letter_upper: P
+  manufacturer_length_1: p
+  manufacturer_length_2: pi
+  manufacturer_length_3: pic
+  manufacturer_length_4: picq
+  manufacturer_length_5: picqu
+  manufacturer_length_6: picqui
+  manufacturer_name: Picquic
+  manufacturer_no_space_length_1: p
+  manufacturer_no_space_length_2: pi
+  manufacturer_no_space_length_3: pic
+  manufacturer_no_space_length_4: picq
+  manufacturer_no_space_length_5: picqu
+  manufacturer_no_space_length_6: picqui
+  manufacturer_no_space_upper_length_1: P
+  manufacturer_no_space_upper_length_2: PI
+  manufacturer_no_space_upper_length_3: PIC
+  manufacturer_no_space_upper_length_4: PICQ
+  manufacturer_no_space_upper_length_5: PICQU
+  manufacturer_no_space_upper_length_6: PICQUI
+  manufacturer_upper: PICQUIC
+  manufacturer_upper_length_1: P
+  manufacturer_upper_length_2: PI
+  manufacturer_upper_length_3: PIC
+  manufacturer_upper_length_4: PICQ
+  manufacturer_upper_length_5: PICQU
+  manufacturer_upper_length_6: PICQUI
+  manufacturers: []
+  markdown_full: '[tool_screw_driver_multi_driver_full_size_picquic](none)<br>[](none)<br>[Tool
+    Screw Driver Multi Driver Full Size Picquic](none)<br><br>'
+  markdown_short: '[tool_screw_driver_multi_driver_full_size_picquic](none)<br><br>'
+  md5: 0f3f998f86b951620133b8a42592cd90
+  md5_10: 0f3f998f86
+  md5_10_upper: 0F3F998F86
+  md5_5: 0f3f9
+  md5_5_upper: 0F3F9
+  md5_6: 0f3f99
+  md5_6_alpha: lf2x
+  md5_6_alpha_upper: LF2X
+  md5_6_upper: 0F3F99
+  name: Tool Screw Driver Multi Driver Full Size Picquic
+  name_no_class: Screw Driver Multi Driver Full Size Picquic
+  name_no_color: Picquic
+  name_no_size: Picquic
+  name_no_size_short: Picquic
+  name_no_type: Full Size Picquic
+  oomlout_detail_hierarchy_1: tool
+  oomlout_detail_hierarchy_1_upper: TOOL
+  oomlout_detail_hierarchy_1_upper_length_4: TOOL
+  oomlout_detail_hierarchy_2: sdriver_multi_driver
+  oomlout_detail_hierarchy_2_upper: SDRIVER_MULTI_DRIVER
+  oomlout_detail_hierarchy_2_upper_length_4: SDRI
+  oomlout_detail_hierarchy_3: full_size
+  oomlout_detail_hierarchy_3_upper: FULL_SIZE
+  oomlout_detail_hierarchy_3_upper_length_4: FULL
+  oomlout_detail_hierarchy_4: picquic
+  oomlout_detail_hierarchy_4_upper: PICQUIC
+  oomlout_detail_hierarchy_4_upper_length_4: PICQ
+  oomlout_oomp_utility_custom_data_manipulation: true
+  oomp_key: oomp_tool_screw_driver_multi_driver_full_size_picquic
+  oomp_word: sparkles horse bowling
+  oomp_word_emoji: ':sparkles: :horse: :bowling:'
+  oomp_word_emoji_list:
+  - ':sparkles:'
+  - ':horse:'
+  - ':bowling:'
+  oomp_word_list:
+  - sparkles
+  - horse
+  - bowling
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_name: ''
+  part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
+  price_3_name: amazon
+  price_4_name: aliexpress
+  short_code: ''
+  short_code_upper: ''
+  size: full_size
+  size_capital: Full Size
+  size_first_letter: f
+  size_first_letter_upper: F
+  size_length_1: f
+  size_length_2: fu
+  size_length_3: ful
+  size_length_4: full
+  size_length_5: full_
+  size_length_6: full_s
+  size_name: Full Size
+  size_no_space_length_1: f
+  size_no_space_length_2: fu
+  size_no_space_length_3: ful
+  size_no_space_length_4: full
+  size_no_space_length_5: fulls
+  size_no_space_length_6: fullsi
+  size_no_space_upper_length_1: F
+  size_no_space_upper_length_2: FU
+  size_no_space_upper_length_3: FUL
+  size_no_space_upper_length_4: FULL
+  size_no_space_upper_length_5: FULLS
+  size_no_space_upper_length_6: FULLSI
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: FULL_SIZE
+  size_upper_length_1: F
+  size_upper_length_2: FU
+  size_upper_length_3: FUL
+  size_upper_length_4: FULL
+  size_upper_length_5: FULL_
+  size_upper_length_6: FULL_S
+  type: screw_driver_multi_driver
+  type_capital: Screw Driver Multi Driver
+  type_first_letter: s
+  type_first_letter_upper: S
+  type_length_1: s
+  type_length_2: sc
+  type_length_3: scr
+  type_length_4: scre
+  type_length_5: screw
+  type_length_6: screw_
+  type_name: Screw Driver Multi Driver
+  type_no_space_length_1: s
+  type_no_space_length_2: sc
+  type_no_space_length_3: scr
+  type_no_space_length_4: scre
+  type_no_space_length_5: screw
+  type_no_space_length_6: screwd
+  type_no_space_upper_length_1: S
+  type_no_space_upper_length_2: SC
+  type_no_space_upper_length_3: SCR
+  type_no_space_upper_length_4: SCRE
+  type_no_space_upper_length_5: SCREW
+  type_no_space_upper_length_6: SCREWD
+  type_upper: SCREW_DRIVER_MULTI_DRIVER
+  type_upper_length_1: S
+  type_upper_length_2: SC
+  type_upper_length_3: SCR
+  type_upper_length_4: SCRE
+  type_upper_length_5: SCREW
+  type_upper_length_6: SCREW_
+tool_screw_driver_multi_driver_full_size_sixpac_plus_model_picquic:
+  bip_39_word_dash_12: love-penalty-case-thrive-collect-range-wealth-space-fetch-laugh-original-around
+  bip_39_word_dash_2: love-penalty
+  bip_39_word_dash_3: love-penalty-case
+  bip_39_word_new_br_12: love<br>penalty<br>case<br>thrive<br>collect<br>range<br>wealth<br>space<br>fetch<br>laugh<br>original<br>around
+  bip_39_word_new_br_2: love<br>penalty
+  bip_39_word_new_br_3: love<br>penalty<br>case
+  bip_39_word_new_line_12: 'love
+
+    penalty
+
+    case
+
+    thrive
+
+    collect
+
+    range
+
+    wealth
+
+    space
+
+    fetch
+
+    laugh
+
+    original
+
+    around'
+  bip_39_word_new_line_2: 'love
+
+    penalty'
+  bip_39_word_new_line_3: 'love
+
+    penalty
+
+    case'
+  bip_39_word_no_space_12: lovepenaltycasethrivecollectrangewealthspacefetchlaughoriginalaround
+  bip_39_word_no_space_2: lovepenalty
+  bip_39_word_no_space_3: lovepenaltycase
+  bip_39_word_space_12: love penalty case thrive collect range wealth space fetch
+    laugh original around
+  bip_39_word_space_2: love penalty
+  bip_39_word_space_3: love penalty case
+  bip_39_word_underscore_12: love_penalty_case_thrive_collect_range_wealth_space_fetch_laugh_original_around
+  bip_39_word_underscore_2: love_penalty
+  bip_39_word_underscore_3: love_penalty_case
+  classification: tool
+  classification_capital: Tool
+  classification_first_letter: t
+  classification_first_letter_upper: T
+  classification_length_1: t
+  classification_length_2: to
+  classification_length_3: too
+  classification_length_4: tool
+  classification_length_5: tool
+  classification_length_6: tool
+  classification_name: Tool
+  classification_no_space_length_1: t
+  classification_no_space_length_2: to
+  classification_no_space_length_3: too
+  classification_no_space_length_4: tool
+  classification_no_space_length_5: tool
+  classification_no_space_length_6: tool
+  classification_no_space_upper_length_1: T
+  classification_no_space_upper_length_2: TO
+  classification_no_space_upper_length_3: TOO
+  classification_no_space_upper_length_4: TOOL
+  classification_no_space_upper_length_5: TOOL
+  classification_no_space_upper_length_6: TOOL
+  classification_upper: TOOL
+  classification_upper_length_1: T
+  classification_upper_length_2: TO
+  classification_upper_length_3: TOO
+  classification_upper_length_4: TOOL
+  classification_upper_length_5: TOOL
+  classification_upper_length_6: TOOL
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_name: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_name: ''
+  description_extra_upper: ''
+  description_main: sixpac_plus_model
+  description_main_capital: Sixpac Plus Model
+  description_main_first_letter: s
+  description_main_first_letter_upper: S
+  description_main_length_1: s
+  description_main_length_2: si
+  description_main_length_3: six
+  description_main_length_4: sixp
+  description_main_length_5: sixpa
+  description_main_length_6: sixpac
+  description_main_name: Sixpac Plus Model
+  description_main_no_space_length_1: s
+  description_main_no_space_length_2: si
+  description_main_no_space_length_3: six
+  description_main_no_space_length_4: sixp
+  description_main_no_space_length_5: sixpa
+  description_main_no_space_length_6: sixpac
+  description_main_no_space_upper_length_1: S
+  description_main_no_space_upper_length_2: SI
+  description_main_no_space_upper_length_3: SIX
+  description_main_no_space_upper_length_4: SIXP
+  description_main_no_space_upper_length_5: SIXPA
+  description_main_no_space_upper_length_6: SIXPAC
+  description_main_upper: SIXPAC_PLUS_MODEL
+  description_main_upper_length_1: S
+  description_main_upper_length_2: SI
+  description_main_upper_length_3: SIX
+  description_main_upper_length_4: SIXP
+  description_main_upper_length_5: SIXPA
+  description_main_upper_length_6: SIXPAC
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/tool_screw_driver_multi_driver_full_size_sixpac_plus_model_picquic
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_screw_driver_multi_driver_full_size_sixpac_plus_model_picquic
+  id: tool_screw_driver_multi_driver_full_size_sixpac_plus_model_picquic
+  id_no_class: screw_driver_multi_driver_full_size_sixpac_plus_model_picquic
+  id_no_color: sixpacplusmodelpicquic
+  id_no_size: sixpac_plus_model_picquic
+  id_no_type: full_size_sixpac_plus_model_picquic
+  link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_sixpac_plus_model_picquic
+  link_1_name: link_main
+  link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_sixpac_plus_model_picquic
+  link_2_name: link_github
+  link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_sixpac_plus_model_picquic
+  link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_sixpac_plus_model_picquic
+  link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%207m82n
+  link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%207m82n
+  link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%207m82n
+  link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%207m82n
+  link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_sixpac_plus_model_picquic
+  manufacturer: picquic
+  manufacturer_capital: Picquic
+  manufacturer_first_letter: p
+  manufacturer_first_letter_upper: P
+  manufacturer_length_1: p
+  manufacturer_length_2: pi
+  manufacturer_length_3: pic
+  manufacturer_length_4: picq
+  manufacturer_length_5: picqu
+  manufacturer_length_6: picqui
+  manufacturer_name: Picquic
+  manufacturer_no_space_length_1: p
+  manufacturer_no_space_length_2: pi
+  manufacturer_no_space_length_3: pic
+  manufacturer_no_space_length_4: picq
+  manufacturer_no_space_length_5: picqu
+  manufacturer_no_space_length_6: picqui
+  manufacturer_no_space_upper_length_1: P
+  manufacturer_no_space_upper_length_2: PI
+  manufacturer_no_space_upper_length_3: PIC
+  manufacturer_no_space_upper_length_4: PICQ
+  manufacturer_no_space_upper_length_5: PICQU
+  manufacturer_no_space_upper_length_6: PICQUI
+  manufacturer_upper: PICQUIC
+  manufacturer_upper_length_1: P
+  manufacturer_upper_length_2: PI
+  manufacturer_upper_length_3: PIC
+  manufacturer_upper_length_4: PICQ
+  manufacturer_upper_length_5: PICQU
+  manufacturer_upper_length_6: PICQUI
+  manufacturers: []
+  markdown_full: '[tool_screw_driver_multi_driver_full_size_sixpac_plus_model_picquic](none)<br>[](none)<br>[Tool
+    Screw Driver Multi Driver Full Size Sixpac Plus Model Picquic](none)<br><br>'
+  markdown_short: '[tool_screw_driver_multi_driver_full_size_sixpac_plus_model_picquic](none)<br><br>'
+  md5: c3395f62aad05f06c716ce124668a423
+  md5_10: c3395f62aa
+  md5_10_upper: C3395F62AA
+  md5_5: c3395
+  md5_5_upper: C3395
+  md5_6: c3395f
+  md5_6_alpha: 7m82n
+  md5_6_alpha_upper: 7M82N
+  md5_6_upper: C3395F
+  name: Tool Screw Driver Multi Driver Full Size Sixpac Plus Model Picquic
+  name_no_class: Screw Driver Multi Driver Full Size Sixpac Plus Model Picquic
+  name_no_color: Sixpacplusmodelpicquic
+  name_no_size: Sixpac Plus Model Picquic
+  name_no_size_short: Sixpac Plus Model Picquic
+  name_no_type: Full Size Sixpac Plus Model Picquic
+  oomlout_detail_hierarchy_1: tool
+  oomlout_detail_hierarchy_1_upper: TOOL
+  oomlout_detail_hierarchy_1_upper_length_4: TOOL
+  oomlout_detail_hierarchy_2: sdriver_multi_driver
+  oomlout_detail_hierarchy_2_upper: SDRIVER_MULTI_DRIVER
+  oomlout_detail_hierarchy_2_upper_length_4: SDRI
+  oomlout_detail_hierarchy_3: full_size
+  oomlout_detail_hierarchy_3_upper: FULL_SIZE
+  oomlout_detail_hierarchy_3_upper_length_4: FULL
+  oomlout_detail_hierarchy_4: sixpac_plus_model
+  oomlout_detail_hierarchy_4_upper: SIXPAC_PLUS_MODEL
+  oomlout_detail_hierarchy_4_upper_length_4: SIXP
+  oomlout_detail_hierarchy_5: picquic
+  oomlout_detail_hierarchy_5_upper: PICQUIC
+  oomlout_detail_hierarchy_5_upper_length_4: PICQ
+  oomlout_oomp_utility_custom_data_manipulation: true
+  oomp_key: oomp_tool_screw_driver_multi_driver_full_size_sixpac_plus_model_picquic
+  oomp_word: cake tiger leopard
+  oomp_word_emoji: ':cake: :tiger: :leopard:'
+  oomp_word_emoji_list:
+  - ':cake:'
+  - ':tiger:'
+  - ':leopard:'
+  oomp_word_list:
+  - cake
+  - tiger
+  - leopard
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_name: ''
+  part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
+  price_3_name: amazon
+  price_4_name: aliexpress
+  short_code: ''
+  short_code_upper: ''
+  size: full_size
+  size_capital: Full Size
+  size_first_letter: f
+  size_first_letter_upper: F
+  size_length_1: f
+  size_length_2: fu
+  size_length_3: ful
+  size_length_4: full
+  size_length_5: full_
+  size_length_6: full_s
+  size_name: Full Size
+  size_no_space_length_1: f
+  size_no_space_length_2: fu
+  size_no_space_length_3: ful
+  size_no_space_length_4: full
+  size_no_space_length_5: fulls
+  size_no_space_length_6: fullsi
+  size_no_space_upper_length_1: F
+  size_no_space_upper_length_2: FU
+  size_no_space_upper_length_3: FUL
+  size_no_space_upper_length_4: FULL
+  size_no_space_upper_length_5: FULLS
+  size_no_space_upper_length_6: FULLSI
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: FULL_SIZE
+  size_upper_length_1: F
+  size_upper_length_2: FU
+  size_upper_length_3: FUL
+  size_upper_length_4: FULL
+  size_upper_length_5: FULL_
+  size_upper_length_6: FULL_S
+  type: screw_driver_multi_driver
+  type_capital: Screw Driver Multi Driver
+  type_first_letter: s
+  type_first_letter_upper: S
+  type_length_1: s
+  type_length_2: sc
+  type_length_3: scr
+  type_length_4: scre
+  type_length_5: screw
+  type_length_6: screw_
+  type_name: Screw Driver Multi Driver
+  type_no_space_length_1: s
+  type_no_space_length_2: sc
+  type_no_space_length_3: scr
+  type_no_space_length_4: scre
+  type_no_space_length_5: screw
+  type_no_space_length_6: screwd
+  type_no_space_upper_length_1: S
+  type_no_space_upper_length_2: SC
+  type_no_space_upper_length_3: SCR
+  type_no_space_upper_length_4: SCRE
+  type_no_space_upper_length_5: SCREW
+  type_no_space_upper_length_6: SCREWD
+  type_upper: SCREW_DRIVER_MULTI_DRIVER
+  type_upper_length_1: S
+  type_upper_length_2: SC
+  type_upper_length_3: SCR
+  type_upper_length_4: SCRE
+  type_upper_length_5: SCREW
+  type_upper_length_6: SCREW_
+tool_screw_driver_multi_driver_full_size_super_eight_plus_model_picquic:
+  bip_39_word_dash_12: sick-document-meadow-grace-blind-cereal-insane-boy-credit-airport-swallow-alpha
+  bip_39_word_dash_2: sick-document
+  bip_39_word_dash_3: sick-document-meadow
+  bip_39_word_new_br_12: sick<br>document<br>meadow<br>grace<br>blind<br>cereal<br>insane<br>boy<br>credit<br>airport<br>swallow<br>alpha
+  bip_39_word_new_br_2: sick<br>document
+  bip_39_word_new_br_3: sick<br>document<br>meadow
+  bip_39_word_new_line_12: 'sick
+
+    document
+
+    meadow
+
+    grace
+
+    blind
+
+    cereal
+
+    insane
+
+    boy
+
+    credit
+
+    airport
+
+    swallow
+
+    alpha'
+  bip_39_word_new_line_2: 'sick
+
+    document'
+  bip_39_word_new_line_3: 'sick
+
+    document
+
+    meadow'
+  bip_39_word_no_space_12: sickdocumentmeadowgraceblindcerealinsaneboycreditairportswallowalpha
+  bip_39_word_no_space_2: sickdocument
+  bip_39_word_no_space_3: sickdocumentmeadow
+  bip_39_word_space_12: sick document meadow grace blind cereal insane boy credit
+    airport swallow alpha
+  bip_39_word_space_2: sick document
+  bip_39_word_space_3: sick document meadow
+  bip_39_word_underscore_12: sick_document_meadow_grace_blind_cereal_insane_boy_credit_airport_swallow_alpha
+  bip_39_word_underscore_2: sick_document
+  bip_39_word_underscore_3: sick_document_meadow
+  classification: tool
+  classification_capital: Tool
+  classification_first_letter: t
+  classification_first_letter_upper: T
+  classification_length_1: t
+  classification_length_2: to
+  classification_length_3: too
+  classification_length_4: tool
+  classification_length_5: tool
+  classification_length_6: tool
+  classification_name: Tool
+  classification_no_space_length_1: t
+  classification_no_space_length_2: to
+  classification_no_space_length_3: too
+  classification_no_space_length_4: tool
+  classification_no_space_length_5: tool
+  classification_no_space_length_6: tool
+  classification_no_space_upper_length_1: T
+  classification_no_space_upper_length_2: TO
+  classification_no_space_upper_length_3: TOO
+  classification_no_space_upper_length_4: TOOL
+  classification_no_space_upper_length_5: TOOL
+  classification_no_space_upper_length_6: TOOL
+  classification_upper: TOOL
+  classification_upper_length_1: T
+  classification_upper_length_2: TO
+  classification_upper_length_3: TOO
+  classification_upper_length_4: TOOL
+  classification_upper_length_5: TOOL
+  classification_upper_length_6: TOOL
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_name: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_name: ''
+  description_extra_upper: ''
+  description_main: super_eight_plus_model
+  description_main_capital: Super Eight Plus Model
+  description_main_first_letter: s
+  description_main_first_letter_upper: S
+  description_main_length_1: s
+  description_main_length_2: su
+  description_main_length_3: sup
+  description_main_length_4: supe
+  description_main_length_5: super
+  description_main_length_6: super_
+  description_main_name: Super Eight Plus Model
+  description_main_no_space_length_1: s
+  description_main_no_space_length_2: su
+  description_main_no_space_length_3: sup
+  description_main_no_space_length_4: supe
+  description_main_no_space_length_5: super
+  description_main_no_space_length_6: supere
+  description_main_no_space_upper_length_1: S
+  description_main_no_space_upper_length_2: SU
+  description_main_no_space_upper_length_3: SUP
+  description_main_no_space_upper_length_4: SUPE
+  description_main_no_space_upper_length_5: SUPER
+  description_main_no_space_upper_length_6: SUPERE
+  description_main_upper: SUPER_EIGHT_PLUS_MODEL
+  description_main_upper_length_1: S
+  description_main_upper_length_2: SU
+  description_main_upper_length_3: SUP
+  description_main_upper_length_4: SUPE
+  description_main_upper_length_5: SUPER
+  description_main_upper_length_6: SUPER_
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/tool_screw_driver_multi_driver_full_size_super_eight_plus_model_picquic
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_screw_driver_multi_driver_full_size_super_eight_plus_model_picquic
+  id: tool_screw_driver_multi_driver_full_size_super_eight_plus_model_picquic
+  id_no_class: screw_driver_multi_driver_full_size_super_eight_plus_model_picquic
+  id_no_color: supereightplusmodelpicquic
+  id_no_size: super_eight_plus_model_picquic
+  id_no_type: full_size_super_eight_plus_model_picquic
+  link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_super_eight_plus_model_picquic
+  link_1_name: link_main
+  link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_super_eight_plus_model_picquic
+  link_2_name: link_github
+  link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_super_eight_plus_model_picquic
+  link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_super_eight_plus_model_picquic
+  link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%204fq4h
+  link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%204fq4h
+  link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%204fq4h
+  link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%204fq4h
+  link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_full_size_super_eight_plus_model_picquic
+  manufacturer: picquic
+  manufacturer_capital: Picquic
+  manufacturer_first_letter: p
+  manufacturer_first_letter_upper: P
+  manufacturer_length_1: p
+  manufacturer_length_2: pi
+  manufacturer_length_3: pic
+  manufacturer_length_4: picq
+  manufacturer_length_5: picqu
+  manufacturer_length_6: picqui
+  manufacturer_name: Picquic
+  manufacturer_no_space_length_1: p
+  manufacturer_no_space_length_2: pi
+  manufacturer_no_space_length_3: pic
+  manufacturer_no_space_length_4: picq
+  manufacturer_no_space_length_5: picqu
+  manufacturer_no_space_length_6: picqui
+  manufacturer_no_space_upper_length_1: P
+  manufacturer_no_space_upper_length_2: PI
+  manufacturer_no_space_upper_length_3: PIC
+  manufacturer_no_space_upper_length_4: PICQ
+  manufacturer_no_space_upper_length_5: PICQU
+  manufacturer_no_space_upper_length_6: PICQUI
+  manufacturer_upper: PICQUIC
+  manufacturer_upper_length_1: P
+  manufacturer_upper_length_2: PI
+  manufacturer_upper_length_3: PIC
+  manufacturer_upper_length_4: PICQ
+  manufacturer_upper_length_5: PICQU
+  manufacturer_upper_length_6: PICQUI
+  manufacturers: []
+  markdown_full: '[tool_screw_driver_multi_driver_full_size_super_eight_plus_model_picquic](none)<br>[](none)<br>[Tool
+    Screw Driver Multi Driver Full Size Super Eight Plus Model Picquic](none)<br><br>'
+  markdown_short: '[tool_screw_driver_multi_driver_full_size_super_eight_plus_model_picquic](none)<br><br>'
+  md5: 71b60161981aae9c960be65713501e3e
+  md5_10: 71b6016198
+  md5_10_upper: 71B6016198
+  md5_5: 71b60
+  md5_5_upper: 71B60
+  md5_6: 71b601
+  md5_6_alpha: 4fq4h
+  md5_6_alpha_upper: 4FQ4H
+  md5_6_upper: 71B601
+  name: Tool Screw Driver Multi Driver Full Size Super Eight Plus Model Picquic
+  name_no_class: Screw Driver Multi Driver Full Size Super Eight Plus Model Picquic
+  name_no_color: Supereightplusmodelpicquic
+  name_no_size: Super Eight Plus Model Picquic
+  name_no_size_short: Super Eight Plus Model Picquic
+  name_no_type: Full Size Super Eight Plus Model Picquic
+  oomlout_detail_hierarchy_1: tool
+  oomlout_detail_hierarchy_1_upper: TOOL
+  oomlout_detail_hierarchy_1_upper_length_4: TOOL
+  oomlout_detail_hierarchy_2: sdriver_multi_driver
+  oomlout_detail_hierarchy_2_upper: SDRIVER_MULTI_DRIVER
+  oomlout_detail_hierarchy_2_upper_length_4: SDRI
+  oomlout_detail_hierarchy_3: full_size
+  oomlout_detail_hierarchy_3_upper: FULL_SIZE
+  oomlout_detail_hierarchy_3_upper_length_4: FULL
+  oomlout_detail_hierarchy_4: super_eight_plus_model
+  oomlout_detail_hierarchy_4_upper: SUPER_EIGHT_PLUS_MODEL
+  oomlout_detail_hierarchy_4_upper_length_4: SUPE
+  oomlout_detail_hierarchy_5: picquic
+  oomlout_detail_hierarchy_5_upper: PICQUIC
+  oomlout_detail_hierarchy_5_upper_length_4: PICQ
+  oomlout_oomp_utility_custom_data_manipulation: true
+  oomp_key: oomp_tool_screw_driver_multi_driver_full_size_super_eight_plus_model_picquic
+  oomp_word: bamboo beer smile
+  oomp_word_emoji: ':bamboo: :beer: :smile:'
+  oomp_word_emoji_list:
+  - ':bamboo:'
+  - ':beer:'
+  - ':smile:'
+  oomp_word_list:
+  - bamboo
+  - beer
+  - smile
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_name: ''
+  part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
+  price_3_name: amazon
+  price_4_name: aliexpress
+  short_code: ''
+  short_code_upper: ''
+  size: full_size
+  size_capital: Full Size
+  size_first_letter: f
+  size_first_letter_upper: F
+  size_length_1: f
+  size_length_2: fu
+  size_length_3: ful
+  size_length_4: full
+  size_length_5: full_
+  size_length_6: full_s
+  size_name: Full Size
+  size_no_space_length_1: f
+  size_no_space_length_2: fu
+  size_no_space_length_3: ful
+  size_no_space_length_4: full
+  size_no_space_length_5: fulls
+  size_no_space_length_6: fullsi
+  size_no_space_upper_length_1: F
+  size_no_space_upper_length_2: FU
+  size_no_space_upper_length_3: FUL
+  size_no_space_upper_length_4: FULL
+  size_no_space_upper_length_5: FULLS
+  size_no_space_upper_length_6: FULLSI
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: FULL_SIZE
+  size_upper_length_1: F
+  size_upper_length_2: FU
+  size_upper_length_3: FUL
+  size_upper_length_4: FULL
+  size_upper_length_5: FULL_
+  size_upper_length_6: FULL_S
+  type: screw_driver_multi_driver
+  type_capital: Screw Driver Multi Driver
+  type_first_letter: s
+  type_first_letter_upper: S
+  type_length_1: s
+  type_length_2: sc
+  type_length_3: scr
+  type_length_4: scre
+  type_length_5: screw
+  type_length_6: screw_
+  type_name: Screw Driver Multi Driver
+  type_no_space_length_1: s
+  type_no_space_length_2: sc
+  type_no_space_length_3: scr
+  type_no_space_length_4: scre
+  type_no_space_length_5: screw
+  type_no_space_length_6: screwd
+  type_no_space_upper_length_1: S
+  type_no_space_upper_length_2: SC
+  type_no_space_upper_length_3: SCR
+  type_no_space_upper_length_4: SCRE
+  type_no_space_upper_length_5: SCREW
+  type_no_space_upper_length_6: SCREWD
+  type_upper: SCREW_DRIVER_MULTI_DRIVER
+  type_upper_length_1: S
+  type_upper_length_2: SC
+  type_upper_length_3: SCR
+  type_upper_length_4: SCRE
+  type_upper_length_5: SCREW
+  type_upper_length_6: SCREW_
+tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic:
+  bip_39_word_dash_12: budget-impact-invite-sound-fan-mom-side-double-tell-anxiety-park-approve
+  bip_39_word_dash_2: budget-impact
+  bip_39_word_dash_3: budget-impact-invite
+  bip_39_word_new_br_12: budget<br>impact<br>invite<br>sound<br>fan<br>mom<br>side<br>double<br>tell<br>anxiety<br>park<br>approve
+  bip_39_word_new_br_2: budget<br>impact
+  bip_39_word_new_br_3: budget<br>impact<br>invite
+  bip_39_word_new_line_12: 'budget
+
+    impact
+
+    invite
+
+    sound
+
+    fan
+
+    mom
+
+    side
+
+    double
+
+    tell
+
+    anxiety
+
+    park
+
+    approve'
+  bip_39_word_new_line_2: 'budget
+
+    impact'
+  bip_39_word_new_line_3: 'budget
+
+    impact
+
+    invite'
+  bip_39_word_no_space_12: budgetimpactinvitesoundfanmomsidedoubletellanxietyparkapprove
+  bip_39_word_no_space_2: budgetimpact
+  bip_39_word_no_space_3: budgetimpactinvite
+  bip_39_word_space_12: budget impact invite sound fan mom side double tell anxiety
+    park approve
+  bip_39_word_space_2: budget impact
+  bip_39_word_space_3: budget impact invite
+  bip_39_word_underscore_12: budget_impact_invite_sound_fan_mom_side_double_tell_anxiety_park_approve
+  bip_39_word_underscore_2: budget_impact
+  bip_39_word_underscore_3: budget_impact_invite
+  classification: tool
+  classification_capital: Tool
+  classification_first_letter: t
+  classification_first_letter_upper: T
+  classification_length_1: t
+  classification_length_2: to
+  classification_length_3: too
+  classification_length_4: tool
+  classification_length_5: tool
+  classification_length_6: tool
+  classification_name: Tool
+  classification_no_space_length_1: t
+  classification_no_space_length_2: to
+  classification_no_space_length_3: too
+  classification_no_space_length_4: tool
+  classification_no_space_length_5: tool
+  classification_no_space_length_6: tool
+  classification_no_space_upper_length_1: T
+  classification_no_space_upper_length_2: TO
+  classification_no_space_upper_length_3: TOO
+  classification_no_space_upper_length_4: TOOL
+  classification_no_space_upper_length_5: TOOL
+  classification_no_space_upper_length_6: TOOL
+  classification_upper: TOOL
+  classification_upper_length_1: T
+  classification_upper_length_2: TO
+  classification_upper_length_3: TOO
+  classification_upper_length_4: TOOL
+  classification_upper_length_5: TOOL
+  classification_upper_length_6: TOOL
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_name: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_name: ''
+  description_extra_upper: ''
+  description_main: teeny_turner_model
+  description_main_capital: Teeny Turner Model
+  description_main_first_letter: t
+  description_main_first_letter_upper: T
+  description_main_length_1: t
+  description_main_length_2: te
+  description_main_length_3: tee
+  description_main_length_4: teen
+  description_main_length_5: teeny
+  description_main_length_6: teeny_
+  description_main_name: Teeny Turner Model
+  description_main_no_space_length_1: t
+  description_main_no_space_length_2: te
+  description_main_no_space_length_3: tee
+  description_main_no_space_length_4: teen
+  description_main_no_space_length_5: teeny
+  description_main_no_space_length_6: teenyt
+  description_main_no_space_upper_length_1: T
+  description_main_no_space_upper_length_2: TE
+  description_main_no_space_upper_length_3: TEE
+  description_main_no_space_upper_length_4: TEEN
+  description_main_no_space_upper_length_5: TEENY
+  description_main_no_space_upper_length_6: TEENYT
+  description_main_upper: TEENY_TURNER_MODEL
+  description_main_upper_length_1: T
+  description_main_upper_length_2: TE
+  description_main_upper_length_3: TEE
+  description_main_upper_length_4: TEEN
+  description_main_upper_length_5: TEENY
+  description_main_upper_length_6: TEENY_
+  description_only_numbers: ''
+  description_only_numbers_short: ' '
+  description_or_color: ' '
+  description_or_color_upper: ' '
+  directory: parts/tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic
+  id: tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic
+  id_no_class: screw_driver_multi_driver_precision_size_teeny_turner_model_picquic
+  id_no_color: teenyturnermodelpicquic
+  id_no_size: teeny_turner_model_picquic
+  id_no_type: precision_size_teeny_turner_model_picquic
+  link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic
+  link_1_name: link_main
+  link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic
+  link_2_name: link_github
+  link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic
+  link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic
+  link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206rczm
+  link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206rczm
+  link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206rczm
+  link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206rczm
+  link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic
+  manufacturer: picquic
+  manufacturer_capital: Picquic
+  manufacturer_first_letter: p
+  manufacturer_first_letter_upper: P
+  manufacturer_length_1: p
+  manufacturer_length_2: pi
+  manufacturer_length_3: pic
+  manufacturer_length_4: picq
+  manufacturer_length_5: picqu
+  manufacturer_length_6: picqui
+  manufacturer_name: Picquic
+  manufacturer_no_space_length_1: p
+  manufacturer_no_space_length_2: pi
+  manufacturer_no_space_length_3: pic
+  manufacturer_no_space_length_4: picq
+  manufacturer_no_space_length_5: picqu
+  manufacturer_no_space_length_6: picqui
+  manufacturer_no_space_upper_length_1: P
+  manufacturer_no_space_upper_length_2: PI
+  manufacturer_no_space_upper_length_3: PIC
+  manufacturer_no_space_upper_length_4: PICQ
+  manufacturer_no_space_upper_length_5: PICQU
+  manufacturer_no_space_upper_length_6: PICQUI
+  manufacturer_upper: PICQUIC
+  manufacturer_upper_length_1: P
+  manufacturer_upper_length_2: PI
+  manufacturer_upper_length_3: PIC
+  manufacturer_upper_length_4: PICQ
+  manufacturer_upper_length_5: PICQU
+  manufacturer_upper_length_6: PICQUI
+  manufacturers: []
+  markdown_full: '[tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic](none)<br>[](none)<br>[Tool
+    Screw Driver Multi Driver Precision Size Teeny Turner Model Picquic](none)<br><br>'
+  markdown_short: '[tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic](none)<br><br>'
+  md5: ad408286f641b8fe3b296cfcec1c70ec
+  md5_10: ad408286f6
+  md5_10_upper: AD408286F6
+  md5_5: ad408
+  md5_5_upper: AD408
+  md5_6: ad4082
+  md5_6_alpha: 6rczm
+  md5_6_alpha_upper: 6RCZM
+  md5_6_upper: AD4082
+  name: Tool Screw Driver Multi Driver Precision Size Teeny Turner Model Picquic
+  name_no_class: Screw Driver Multi Driver Precision Size Teeny Turner Model Picquic
+  name_no_color: Teenyturnermodelpicquic
+  name_no_size: Teeny Turner Model Picquic
+  name_no_size_short: Teeny Turner Model Picquic
+  name_no_type: Precision Size Teeny Turner Model Picquic
+  oomlout_detail_hierarchy_1: tool
+  oomlout_detail_hierarchy_1_upper: TOOL
+  oomlout_detail_hierarchy_1_upper_length_4: TOOL
+  oomlout_detail_hierarchy_2: sdriver_multi_driver
+  oomlout_detail_hierarchy_2_upper: SDRIVER_MULTI_DRIVER
+  oomlout_detail_hierarchy_2_upper_length_4: SDRI
+  oomlout_detail_hierarchy_3: precision_size
+  oomlout_detail_hierarchy_3_upper: PRECISION_SIZE
+  oomlout_detail_hierarchy_3_upper_length_4: PREC
+  oomlout_detail_hierarchy_4: teeny_turner_model
+  oomlout_detail_hierarchy_4_upper: TEENY_TURNER_MODEL
+  oomlout_detail_hierarchy_4_upper_length_4: TEEN
+  oomlout_detail_hierarchy_5: picquic
+  oomlout_detail_hierarchy_5_upper: PICQUIC
+  oomlout_detail_hierarchy_5_upper_length_4: PICQ
+  oomlout_oomp_utility_custom_data_manipulation: true
+  oomp_key: oomp_tool_screw_driver_multi_driver_precision_size_teeny_turner_model_picquic
+  oomp_word: dress racehorse radio
+  oomp_word_emoji: ':dress: :racehorse: :radio:'
+  oomp_word_emoji_list:
+  - ':dress:'
+  - ':racehorse:'
+  - ':radio:'
+  oomp_word_list:
+  - dress
+  - racehorse
+  - radio
+  part_number: ''
+  part_number_capital: ''
+  part_number_first_letter: ''
+  part_number_first_letter_upper: ''
+  part_number_name: ''
+  part_number_upper: ''
+  price_1_name: orbital_fasteners
+  price_2_name: accu
+  price_3_name: amazon
+  price_4_name: aliexpress
+  short_code: ''
+  short_code_upper: ''
+  size: precision_size
+  size_capital: Precision Size
+  size_first_letter: p
+  size_first_letter_upper: P
+  size_length_1: p
+  size_length_2: pr
+  size_length_3: pre
+  size_length_4: prec
+  size_length_5: preci
+  size_length_6: precis
+  size_name: Precision Size
+  size_no_space_length_1: p
+  size_no_space_length_2: pr
+  size_no_space_length_3: pre
+  size_no_space_length_4: prec
+  size_no_space_length_5: preci
+  size_no_space_length_6: precis
+  size_no_space_upper_length_1: P
+  size_no_space_upper_length_2: PR
+  size_no_space_upper_length_3: PRE
+  size_no_space_upper_length_4: PREC
+  size_no_space_upper_length_5: PRECI
+  size_no_space_upper_length_6: PRECIS
+  size_only_numbers: ''
+  size_only_numbers_no_zeros: ''
+  size_upper: PRECISION_SIZE
+  size_upper_length_1: P
+  size_upper_length_2: PR
+  size_upper_length_3: PRE
+  size_upper_length_4: PREC
+  size_upper_length_5: PRECI
+  size_upper_length_6: PRECIS
+  type: screw_driver_multi_driver
+  type_capital: Screw Driver Multi Driver
+  type_first_letter: s
+  type_first_letter_upper: S
+  type_length_1: s
+  type_length_2: sc
+  type_length_3: scr
+  type_length_4: scre
+  type_length_5: screw
+  type_length_6: screw_
+  type_name: Screw Driver Multi Driver
+  type_no_space_length_1: s
+  type_no_space_length_2: sc
+  type_no_space_length_3: scr
+  type_no_space_length_4: scre
+  type_no_space_length_5: screw
+  type_no_space_length_6: screwd
+  type_no_space_upper_length_1: S
+  type_no_space_upper_length_2: SC
+  type_no_space_upper_length_3: SCR
+  type_no_space_upper_length_4: SCRE
+  type_no_space_upper_length_5: SCREW
+  type_no_space_upper_length_6: SCREWD
+  type_upper: SCREW_DRIVER_MULTI_DRIVER
+  type_upper_length_1: S
+  type_upper_length_2: SC
+  type_upper_length_3: SCR
+  type_upper_length_4: SCRE
+  type_upper_length_5: SCREW
+  type_upper_length_6: SCREW_
 tool_screw_driver_precision_kraftform_micro_style_18_mm_diameter_137_mm_depth_hex_head_0_7_mm_wera_2054_series_05118060001:
   bip_39_word_dash_12: group-multiply-grid-gadget-maze-dolphin-word-distance-tuna-hedgehog-curve-argue
   bip_39_word_dash_2: group-multiply
@@ -36372,6 +38652,342 @@ tool_timer_80_mm_diameter_30_mm_depth_black:
   type_upper_length_4: TIME
   type_upper_length_5: TIMER
   type_upper_length_6: TIMER
+tool_trolley_200_kilogram_capacity_590_mm_width_290_mm_height_75_mm_depth_unibos_uni_0015:
+  bip_39_word_dash_12: velvet-federal-leisure-keen-canyon-abuse-deny-dumb-puzzle-remain-coffee-arch
+  bip_39_word_dash_2: velvet-federal
+  bip_39_word_dash_3: velvet-federal-leisure
+  bip_39_word_new_br_12: velvet<br>federal<br>leisure<br>keen<br>canyon<br>abuse<br>deny<br>dumb<br>puzzle<br>remain<br>coffee<br>arch
+  bip_39_word_new_br_2: velvet<br>federal
+  bip_39_word_new_br_3: velvet<br>federal<br>leisure
+  bip_39_word_new_line_12: 'velvet
+
+    federal
+
+    leisure
+
+    keen
+
+    canyon
+
+    abuse
+
+    deny
+
+    dumb
+
+    puzzle
+
+    remain
+
+    coffee
+
+    arch'
+  bip_39_word_new_line_2: 'velvet
+
+    federal'
+  bip_39_word_new_line_3: 'velvet
+
+    federal
+
+    leisure'
+  bip_39_word_no_space_12: velvetfederalleisurekeencanyonabusedenydumbpuzzleremaincoffeearch
+  bip_39_word_no_space_2: velvetfederal
+  bip_39_word_no_space_3: velvetfederalleisure
+  bip_39_word_space_12: velvet federal leisure keen canyon abuse deny dumb puzzle
+    remain coffee arch
+  bip_39_word_space_2: velvet federal
+  bip_39_word_space_3: velvet federal leisure
+  bip_39_word_underscore_12: velvet_federal_leisure_keen_canyon_abuse_deny_dumb_puzzle_remain_coffee_arch
+  bip_39_word_underscore_2: velvet_federal
+  bip_39_word_underscore_3: velvet_federal_leisure
+  classification: tool
+  classification_capital: Tool
+  classification_first_letter: t
+  classification_first_letter_upper: T
+  classification_length_1: t
+  classification_length_2: to
+  classification_length_3: too
+  classification_length_4: tool
+  classification_length_5: tool
+  classification_length_6: tool
+  classification_name: Tool
+  classification_no_space_length_1: t
+  classification_no_space_length_2: to
+  classification_no_space_length_3: too
+  classification_no_space_length_4: tool
+  classification_no_space_length_5: tool
+  classification_no_space_length_6: tool
+  classification_no_space_upper_length_1: T
+  classification_no_space_upper_length_2: TO
+  classification_no_space_upper_length_3: TOO
+  classification_no_space_upper_length_4: TOOL
+  classification_no_space_upper_length_5: TOOL
+  classification_no_space_upper_length_6: TOOL
+  classification_upper: TOOL
+  classification_upper_length_1: T
+  classification_upper_length_2: TO
+  classification_upper_length_3: TOO
+  classification_upper_length_4: TOOL
+  classification_upper_length_5: TOOL
+  classification_upper_length_6: TOOL
+  color: ''
+  color_capital: ''
+  color_first_letter: ''
+  color_first_letter_upper: ''
+  color_name: ''
+  color_upper: ''
+  description_extra: ''
+  description_extra_capital: ''
+  description_extra_first_letter: ''
+  description_extra_first_letter_upper: ''
+  description_extra_name: ''
+  description_extra_upper: ''
+  description_main: 590_mm_width_290_mm_height_75_mm_depth
+  description_main_capital: 590 mm Width 290 mm Height 75 mm Depth
+  description_main_first_letter: '5'
+  description_main_first_letter_upper: '5'
+  description_main_length_1: '5'
+  description_main_length_2: '59'
+  description_main_length_3: '590'
+  description_main_length_4: '590_'
+  description_main_length_5: 590_m
+  description_main_length_6: 590_mm
+  description_main_name: 590 mm Width 290 mm Height 75 mm Depth
+  description_main_no_space_length_1: '5'
+  description_main_no_space_length_2: '59'
+  description_main_no_space_length_3: '590'
+  description_main_no_space_length_4: 590m
+  description_main_no_space_length_5: 590mm
+  description_main_no_space_length_6: 590mmw
+  description_main_no_space_upper_length_1: '5'
+  description_main_no_space_upper_length_2: '59'
+  description_main_no_space_upper_length_3: '590'
+  description_main_no_space_upper_length_4: 590M
+  description_main_no_space_upper_length_5: 590MM
+  description_main_no_space_upper_length_6: 590MMW
+  description_main_upper: 590_MM_WIDTH_290_MM_HEIGHT_75_MM_DEPTH
+  description_main_upper_length_1: '5'
+  description_main_upper_length_2: '59'
+  description_main_upper_length_3: '590'
+  description_main_upper_length_4: '590_'
+  description_main_upper_length_5: 590_M
+  description_main_upper_length_6: 590_MM
+  description_only_numbers: '59029075'
+  description_only_numbers_short: 5M9
+  description_or_color: 5M9
+  description_or_color_upper: 5M9
+  directory: parts/tool_trolley_200_kilogram_capacity_590_mm_width_290_mm_height_75_mm_depth_unibos_uni_0015
+  distributors: []
+  filter: ''
+  from_yaml: false
+  github_link: https://github.com/oomlout/oomlout_oomp_part_src/tree/main/parts/tool_trolley_200_kilogram_capacity_590_mm_width_290_mm_height_75_mm_depth_unibos_uni_0015
+  id: tool_trolley_200_kilogram_capacity_590_mm_width_290_mm_height_75_mm_depth_unibos_uni_0015
+  id_no_class: trolley_200_kilogram_capacity_590_mm_width_290_mm_height_75_mm_depth_unibos_uni_0015
+  id_no_color: 590mmwidth290mmheight75mmdepthunibosuni0015
+  id_no_size: 590_mm_width_290_mm_height_75_mm_depth_unibos_uni_0015
+  id_no_type: 200_kilogram_capacity_590_mm_width_290_mm_height_75_mm_depth_unibos_uni_0015
+  link_1: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_trolley_200_kilogram_capacity_590_mm_width_290_mm_height_75_mm_depth_unibos_uni_0015
+  link_1_name: link_main
+  link_2: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_trolley_200_kilogram_capacity_590_mm_width_290_mm_height_75_mm_depth_unibos_uni_0015
+  link_2_name: link_github
+  link_distributor_ebay: https://www.ebay.co.uk/itm/355741479607
+  link_distributor_unibox: https://www.unibos.co.uk/200kg-heavy-duty-anti-slip-hand-dolly-trolley-cart-furniture-moving.html
+  link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_trolley_200_kilogram_capacity_590_mm_width_290_mm_height_75_mm_depth_unibos_uni_0015
+  link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_trolley_200_kilogram_capacity_590_mm_width_290_mm_height_75_mm_depth_unibos_uni_0015
+  link_oomlout_label_2x1: http://192.168.1.242:1112/?label=oomp%206vpt9
+  link_oomlout_label_3x2: http://192.168.1.245:1112/?label=oomp%206vpt9
+  link_oomlout_label_3x2_oomp_table: http://192.168.1.108:1112/?label=oomp%206vpt9
+  link_oomlout_label_6x4: http://192.168.1.55:1112/?label=oomp%206vpt9
+  link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/tool_trolley_200_kilogram_capacity_590_mm_width_290_mm_height_75_mm_depth_unibos_uni_0015
+  manufacturer: unibos
+  manufacturer_capital: Unibos
+  manufacturer_first_letter: u
+  manufacturer_first_letter_upper: U
+  manufacturer_length_1: u
+  manufacturer_length_2: un
+  manufacturer_length_3: uni
+  manufacturer_length_4: unib
+  manufacturer_length_5: unibo
+  manufacturer_length_6: unibos
+  manufacturer_name: Unibos
+  manufacturer_no_space_length_1: u
+  manufacturer_no_space_length_2: un
+  manufacturer_no_space_length_3: uni
+  manufacturer_no_space_length_4: unib
+  manufacturer_no_space_length_5: unibo
+  manufacturer_no_space_length_6: unibos
+  manufacturer_no_space_upper_length_1: U
+  manufacturer_no_space_upper_length_2: UN
+  manufacturer_no_space_upper_length_3: UNI
+  manufacturer_no_space_upper_length_4: UNIB
+  manufacturer_no_space_upper_length_5: UNIBO
+  manufacturer_no_space_upper_length_6: UNIBOS
+  manufacturer_upper: UNIBOS
+  manufacturer_upper_length_1: U
+  manufacturer_upper_length_2: UN
+  manufacturer_upper_length_3: UNI
+  manufacturer_upper_length_4: UNIB
+  manufacturer_upper_length_5: UNIBO
+  manufacturer_upper_length_6: UNIBOS
+  manufacturers: []
+  markdown_full: '[tool_trolley_200_kilogram_capacity_590_mm_width_290_mm_height_75_mm_depth_unibos_uni_0015](none)<br>[](none)<br>[Tool
+    Trolley 200 Kilogram Capacity 590 Mm Width 290 Mm Height 75 Mm Depth Unibos Uni
+    0015](none)<br><br>'
+  markdown_short: '[tool_trolley_200_kilogram_capacity_590_mm_width_290_mm_height_75_mm_depth_unibos_uni_0015](none)<br><br>'
+  md5: b05a6d657743e7540490e79aff551f90
+  md5_10: b05a6d6577
+  md5_10_upper: B05A6D6577
+  md5_5: b05a6
+  md5_5_upper: B05A6
+  md5_6: b05a6d
+  md5_6_alpha: 6vpt9
+  md5_6_alpha_upper: 6VPT9
+  md5_6_upper: B05A6D
+  name: Tool Trolley 200 Kilogram Capacity 590 mm Width 290 mm Height 75 mm Depth
+    Unibos Uni 0015
+  name_no_class: Trolley 200 Kilogram Capacity 590 mm Width 290 mm Height 75 mm Depth
+    Unibos Uni 0015
+  name_no_color: 590mmwidth290mmheight75mmdepthunibosuni0015
+  name_no_size: 590 mm Width 290 mm Height 75 mm Depth Unibos Uni 0015
+  name_no_size_short: 590 Mm Width 290 Mm Height 75 Mm Depth Unibos Uni 0015
+  name_no_type: 200 Kilogram Capacity 590 mm Width 290 mm Height 75 mm Depth Unibos
+    Uni 0015
+  oomlout_detail_hierarchy_1: tool
+  oomlout_detail_hierarchy_1_upper: TOOL
+  oomlout_detail_hierarchy_1_upper_length_4: TOOL
+  oomlout_detail_hierarchy_2: trolley
+  oomlout_detail_hierarchy_2_upper: TROLLEY
+  oomlout_detail_hierarchy_2_upper_length_4: TROL
+  oomlout_detail_hierarchy_3: 200_kilogram_capacity
+  oomlout_detail_hierarchy_3_upper: 200_KILOGRAM_CAPACITY
+  oomlout_detail_hierarchy_3_upper_length_4: '200_'
+  oomlout_detail_hierarchy_4: 590_mm_width
+  oomlout_detail_hierarchy_4_upper: 590_MM_WIDTH
+  oomlout_detail_hierarchy_4_upper_length_4: 590W
+  oomlout_detail_hierarchy_5: 290_mm_height
+  oomlout_detail_hierarchy_5_upper: 290_MM_HEIGHT
+  oomlout_detail_hierarchy_5_upper_length_4: 290H
+  oomlout_detail_hierarchy_6: 75_mm_depth
+  oomlout_detail_hierarchy_6_upper: 75_MM_DEPTH
+  oomlout_detail_hierarchy_6_upper_length_4: 75DE
+  oomlout_detail_hierarchy_7: unibos
+  oomlout_detail_hierarchy_7_upper: UNIBOS
+  oomlout_detail_hierarchy_7_upper_length_4: UNIB
+  oomlout_detail_hierarchy_8: uni_0015
+  oomlout_detail_hierarchy_8_upper: UNI_0015
+  oomlout_detail_hierarchy_8_upper_length_4: UNI_
+  oomlout_oomp_utility_custom_data_manipulation: true
+  oomp_key: oomp_tool_trolley_200_kilogram_capacity_590_mm_width_290_mm_height_75_mm_depth_unibos_uni_0015
+  oomp_word: crown goat shell
+  oomp_word_emoji: ':crown: :goat: :shell:'
+  oomp_word_emoji_list:
+  - ':crown:'
+  - ':goat:'
+  - ':shell:'
+  oomp_word_list:
+  - crown
+  - goat
+  - shell
+  part_number: uni_0015
+  part_number_capital: Uni 0015
+  part_number_distributor_ebay: '355741479607'
+  part_number_exact: UNI-0015
+  part_number_first_letter: u
+  part_number_first_letter_upper: U
+  part_number_length_1: u
+  part_number_length_2: un
+  part_number_length_3: uni
+  part_number_length_4: uni_
+  part_number_length_5: uni_0
+  part_number_length_6: uni_00
+  part_number_name: Uni 0015
+  part_number_no_space_length_1: u
+  part_number_no_space_length_2: un
+  part_number_no_space_length_3: uni
+  part_number_no_space_length_4: uni0
+  part_number_no_space_length_5: uni00
+  part_number_no_space_length_6: uni001
+  part_number_no_space_upper_length_1: U
+  part_number_no_space_upper_length_2: UN
+  part_number_no_space_upper_length_3: UNI
+  part_number_no_space_upper_length_4: UNI0
+  part_number_no_space_upper_length_5: UNI00
+  part_number_no_space_upper_length_6: UNI001
+  part_number_upper: UNI_0015
+  part_number_upper_length_1: U
+  part_number_upper_length_2: UN
+  part_number_upper_length_3: UNI
+  part_number_upper_length_4: UNI_
+  part_number_upper_length_5: UNI_0
+  part_number_upper_length_6: UNI_00
+  price_1_name: orbital_fasteners
+  price_2_name: accu
+  price_3_name: amazon
+  price_4_name: aliexpress
+  short_code: ''
+  short_code_upper: ''
+  size: 200_kilogram_capacity
+  size_capital: 200 Kilogram Capacity
+  size_first_letter: '2'
+  size_first_letter_upper: '2'
+  size_length_1: '2'
+  size_length_2: '20'
+  size_length_3: '200'
+  size_length_4: '200_'
+  size_length_5: 200_k
+  size_length_6: 200_ki
+  size_name: 200 Kilogram Capacity
+  size_no_space_length_1: '2'
+  size_no_space_length_2: '20'
+  size_no_space_length_3: '200'
+  size_no_space_length_4: 200k
+  size_no_space_length_5: 200ki
+  size_no_space_length_6: 200kil
+  size_no_space_upper_length_1: '2'
+  size_no_space_upper_length_2: '20'
+  size_no_space_upper_length_3: '200'
+  size_no_space_upper_length_4: 200K
+  size_no_space_upper_length_5: 200KI
+  size_no_space_upper_length_6: 200KIL
+  size_only_numbers: '200'
+  size_only_numbers_no_zeros: '2'
+  size_upper: 200_KILOGRAM_CAPACITY
+  size_upper_length_1: '2'
+  size_upper_length_2: '20'
+  size_upper_length_3: '200'
+  size_upper_length_4: '200_'
+  size_upper_length_5: 200_K
+  size_upper_length_6: 200_KI
+  type: trolley
+  type_capital: Trolley
+  type_first_letter: t
+  type_first_letter_upper: T
+  type_length_1: t
+  type_length_2: tr
+  type_length_3: tro
+  type_length_4: trol
+  type_length_5: troll
+  type_length_6: trolle
+  type_name: Trolley
+  type_no_space_length_1: t
+  type_no_space_length_2: tr
+  type_no_space_length_3: tro
+  type_no_space_length_4: trol
+  type_no_space_length_5: troll
+  type_no_space_length_6: trolle
+  type_no_space_upper_length_1: T
+  type_no_space_upper_length_2: TR
+  type_no_space_upper_length_3: TRO
+  type_no_space_upper_length_4: TROL
+  type_no_space_upper_length_5: TROLL
+  type_no_space_upper_length_6: TROLLE
+  type_upper: TROLLEY
+  type_upper_length_1: T
+  type_upper_length_2: TR
+  type_upper_length_3: TRO
+  type_upper_length_4: TROL
+  type_upper_length_5: TROLL
+  type_upper_length_6: TROLLE
 tool_vibratory_bowl_tabletop_mettler_toledo_lv11:
   bip_39_word_dash_12: crime-wedding-satisfy-wisdom-fatigue-injury-twice-number-shoe-tired-know-armor
   bip_39_word_dash_2: crime-wedding
